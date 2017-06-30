@@ -1,0 +1,41 @@
+Id,Name,Rating,Review Count,Price,Style,Neighborhood,Address,Phone Number
+0,Number e food,4.5,77,$$,Sandwiches#Pizza#Delis,Downtown,"1308 Burrard Street#Vancouver, BC V6Z 2B7#Canada",(604) 559-6863
+1,Jam Cafe on Beatty,4.5,336,$$,Breakfast & Brunch,Downtown,"556 Beatty Street#Vancouver, BC V6B 2L3#Canada",(778) 379-1992
+2,Tavola,4.5,248,$$$,Italian,West End,"1829 Robson Street#Vancouver, BC V6G 3E4#Canada",(604) 606-4680
+3,Le Crocodile Restaurant,4.5,278,$$$$,French,"West End, Downtown","909 Burrard Street#Vancouver, BC V6Z 2N2#Canada",(604) 669-4298
+4,Miku,4.5,864,$$$,Japanese#Sushi Bars,Downtown,"200 Granville Street#Vancouver, BC V6C 1S4#Canada",(604) 568-3900
+5,Saj&amp;Co,4.5,165,$$,Lebanese#Sandwiches,Downtown,"813 Davie Street#Vancouver, BC V6Z 1B7#Canada",(604) 559-2447
+6,La Taqueria Pinche Taco Shop,4.5,401,$,Mexican#Caterers,Downtown,"322 W Hastings Street#Vancouver, BC V8B 1K6#Canada",(604) 568-4406
+7,Fable,4.5,511,$$,Canadian (New),Kitsilano,"1944 W 4th Avenue#Vancouver, BC V6J 1MS#Canada",(604) 732-1322
+8,AnnaLena,4.5,142,$$$,Canadian (New)#Diners#Bars,Kitsilano,"1809 W 1st Avenue#Vancouver, BC V6J 5B8#Canada",(778) 379-4052
+9,Blue Water Cafe,4.5,628,$$$$,Seafood#Live/Raw Food#Bars,"Downtown, Yaletown","1095 Hamilton St#Vancouver, BC V6B 5T4#Canada",(604) 688-8078
+10,Sushi Itoga,4.5,255,$$,Sushi Bars#Japanese,West End,"1668 Robson Street#Vancouver, BC V6G 1C7#Canada",(604) 687-2422
+11,Kishimoto Japanese Kitchen,4.5,308,$$,Japanese#Sushi Bars,"Grandview-Woodlands, The Drive","2054 Commercial Drive#Vancouver, BC V5N 4A9#Canada",(604) 255-5550
+12,Chambar,4.0,949,$$$,Breakfast & Brunch#French#Middle Eastern,Downtown,"568 Beatty Street#Vancouver, BC V6B 2L3#Canada",(604) 879-7119
+13,Yogi Korean Snack Bar,4.5,54,$,Korean#Fast Food#Vegetarian,West End,"1706 Robson Street#Vancouver, BC V6G 2J7#Canada",(604) 681-4174
+14,Kingyo,4.5,516,$$,Japanese#Tapas/Small Plates,West End,"871 Denman Street#Vancouver, BC V6G 2L9#Canada",(604) 608-1677
+15,Alibi Room,4.5,449,$$,Pubs#Canadian (New)#Gastropubs,Null,"157 Alexander Street#Vancouver, BC V6A 1B8#Canada",(604) 623-3383
+16,Ajisai Sushi Bar,4.5,290,$$,Sushi Bars#Japanese,Kerrisdale,"2081 W 42nd Avenue#Vancouver, BC V6M 2B4#Canada",(604) 266-1428
+17,Medina Cafe,4.0,1514,$$,Breakfast & Brunch#Moroccan#Middle Eastern,Downtown,"780 Richards Street#Vancouver, BC V6B 3A4#Canada",(604) 879-3114
+18,The Fish Counter,4.5,207,$$,Fish & Chips#Seafood,Riley Park,"3825 Main Street#Vancouver, BC V5V 3P2#Canada",(604) 876-3474
+19,Meat &amp; Bread,4.0,614,$$,Sandwiches,Downtown,"370 Cambie Street#Vancouver, BC V6B 1H7#Canada",(604) 566-9003
+20,Lupo,4.5,254,$$$,Italian,"Downtown, Yaletown","869 Hamilton Street#Vancouver, BC V6B 2R7#Canada",(604) 569-2535
+21,Tuc Craft Kitchen,4.5,596,$$,Canadian (New)#Comfort Food#Bars,"Gastown, Downtown Eastside","60 W Cordova Street#Vancouver, BC V6B 1C9#Canada",(604) 559-8999
+22,Hokkaido Ramen Santouka,4.0,734,$$,Ramen#Noodles,West End,"1690 Robson Street#Vancouver, BC V6G 1C7#Canada",(604) 681-8121
+23,Absinthe Bistro,4.5,75,$$$,Cafes#French,"Grandview-Woodlands, The Drive","1260 Commercial Drive#Vancouver, BC V5L 2T6#Canada",(604) 566-9053
+24,Caveman Cafe,4.5,69,$,Organic Stores#Salad#Cafes,Downtown,"88 W Pender Street#Vancouver, BC V6B 6N8#Canada",(604) 780-6650
+25,The Poke Guy,4.5,87,$$,Hawaiian#Seafood,Downtown,"420 Richards Street#Vancouver, BC V6B 2Z4#Canada",(778) 379-8455
+26,The Mexican Antojitos Y Cantina,4.5,231,$$,Mexican,"Downtown, Granville Entertainment District","1049 Granville Street#Vancouver, BC V6Z 1L4#Canada",(604) 569-0955
+27,Gringo,4.5,107,$,Mexican#Pubs#Tex-Mex,"Downtown, Gastown","27 Blood Alley Square#Vancouver, BC V6B 0C4#Canada",(604) 721-0607
+28,Yaletown L’Antipasto,4.0,249,$$,Italian#Mediterranean,"Downtown, Yaletown","1127 Mainland Street#Vancouver, BC V6B 5P2#Canada",(604) 558-1174
+29,Nero Belgian Waffle Bar,4.0,428,$$,Coffee & Tea#Waffles,West End,"1703 Robson Street#Vancouver, BC V6G 1C9#Canada",(604) 839-1239
+30,Shizen Ya,4.0,413,$$,Japanese#Sushi Bars#Bars,Downtown,"965 Hornby Street#Vancouver, BC V6Z 1V3#Canada",(604) 568-0013
+31,Guu Original Thurlow,4.0,624,$$,Japanese#Tapas Bars,"West End, Downtown","838 Thurlow Street#Vancouver, BC V6E 1W2#Canada",(604) 685-8817
+32,The Oakwood Canadian Bistro,4.0,363,$$,Gastropubs#Breakfast & Brunch#Canadian (New),Kitsilano,"2741 W 4th Avenue#Vancouver, BC V6K 3V9#Canada",(604) 558-1965
+33,España Restaurant,4.0,161,$$,Spanish,West End,"1118 Denman Street#Vancouver, BC V6G 2M8#Canada",(604) 558-4040
+34,Phnom Penh,4.0,688,$$,Cambodian#Vietnamese,Strathcona,"244 E Georgia Street#Vancouver, BC V6A 1Z7#Canada",(604) 682-5777
+35,Pourhouse Restaurant,4.0,416,$$,Lounges#Canadian (New)#Cocktail Bars,"Downtown, Gastown","162 Water Street#Vancouver, BC V6B 1B2#Canada",(604) 568-7022
+36,Marutama Ramen,4.0,340,$$,Ramen#Noodles,West End,"780 Bidwell Street#Vancouver, BC V6G 2J6#Canada",(604) 688-8837
+37,Japadog,4.0,901,$,Hot Dogs#Food Stands,Downtown,"899 Burrard Street#Vancouver, BC V6Z 2K6#Canada",
+38,L’Abattoir,4.0,392,$$$,French#Canadian (New),"Downtown, Gastown","217 Carrall Street#Vancouver, BC V6B 2J1#Canada",(604) 568-1701
+39,Pacific Poke,4.5,52,$$,Japanese#Hawaiian,"Chinatown, Strathcona","625 Main Street#Vancouver, BC V6A 2V4#Canada",(604) 559-5304

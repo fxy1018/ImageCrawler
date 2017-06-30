@@ -1,0 +1,1001 @@
+Id,Name,Rating,Review Count,Price,Style,Neighborhood,Address,Phone Number
+0,Fable,4.5,511,$$,Canadian (New),Kitsilano,"1944 W 4th Avenue#Vancouver, BC V6J 1MS#Canada",(604) 732-1322
+1,Blue Water Cafe,4.5,628,$$$$,Seafood#Live/Raw Food#Bars,"Downtown, Yaletown","1095 Hamilton St#Vancouver, BC V6B 5T4#Canada",(604) 688-8078
+2,Banter Room,4.5,15,$$,Canadian (New),"Downtown, Yaletown","1039 Mainland St#Vancouver, BC V6B 5P9#Canada",(604) 565-1039
+3,Tuc Craft Kitchen,4.5,596,$$,Canadian (New)#Comfort Food#Bars,"Gastown, Downtown Eastside","60 W Cordova Street#Vancouver, BC V6B 1C9#Canada",(604) 559-8999
+4,Miku,4.5,864,$$$,Japanese#Sushi Bars,Downtown,"200 Granville Street#Vancouver, BC V6C 1S4#Canada",(604) 568-3900
+5,Medina Cafe,4.0,1514,$$,Breakfast & Brunch#Moroccan#Middle Eastern,Downtown,"780 Richards Street#Vancouver, BC V6B 3A4#Canada",(604) 879-3114
+6,Alibi Room,4.5,449,$$,Pubs#Canadian (New)#Gastropubs,Null,"157 Alexander Street#Vancouver, BC V6A 1B8#Canada",(604) 623-3383
+7,Maizal,4.5,11,$,Mexican,Mount Pleasant,"2815 Main Street#Vancouver, BC V5T 3G1#Canada",(604) 829-6522
+8,Tavola,4.5,248,$$$,Italian,West End,"1829 Robson Street#Vancouver, BC V6G 3E4#Canada",(604) 606-4680
+9,Fanny Bay Oyster Bar &amp; Shellfish Market,4.5,159,$$,Seafood#Seafood Markets,Downtown,"762 Cambie Street#Vancouver, BC V6B 2R5#Canada",(778) 379-9510
+10,Twisted Fork,4.0,775,$$,French#Breakfast & Brunch,"Downtown, Granville Entertainment District","1147 Granville Street#Vancouver, BC V6Z 1M1#Canada",(604) 568-0749
+11,The Flying Pig,4.0,747,$$,Canadian (New)#Seafood,"Downtown, Yaletown","1168 Hamilton Street#Vancouver, BC V6B 2S2#Canada",(604) 568-1344
+12,Yui Japanese Bistro,4.5,26,$$,Japanese#Sushi Bars#Bistros,Downtown,"102-1185 W Georgia Street#Vancouver, BC V6E 4E6#Canada",(604) 559-7772
+13,Chambar,4.0,949,$$$,Breakfast & Brunch#French#Middle Eastern,Downtown,"568 Beatty Street#Vancouver, BC V6B 2L3#Canada",(604) 879-7119
+14,AnnaLena,4.5,142,$$$,Canadian (New)#Diners#Bars,Kitsilano,"1809 W 1st Avenue#Vancouver, BC V6J 5B8#Canada",(778) 379-4052
+15,Forage,4.0,393,$$,Canadian (New)#Breakfast & Brunch,West End,"1300 Robson Street#Vancouver, BC V6E 1C5#Canada",(604) 661-1400
+16,Phnom Penh,4.0,688,$$,Cambodian#Vietnamese,Strathcona,"244 E Georgia Street#Vancouver, BC V6A 1Z7#Canada",(604) 682-5777
+17,Yuzu Shokutei,4.5,35,$$,Ramen#Vegetarian#Tapas/Small Plates,West End,"854 Denman Street#Vancouver, BC V6G 2L8#Canada",(604) 229-6816
+18,The Flying Pig,4.0,529,$$,Canadian (New)#Seafood,"Downtown, Gastown","102 Water Street#Vancouver, BC V6B 2K8#Canada",(604) 559-7968
+19,Kingyo,4.5,516,$$,Japanese#Tapas/Small Plates,West End,"871 Denman Street#Vancouver, BC V6G 2L9#Canada",(604) 608-1677
+20,Number e food,4.5,77,$$,Sandwiches#Pizza#Delis,Downtown,"1308 Burrard Street#Vancouver, BC V6Z 2B7#Canada",(604) 559-6863
+21,Nomad,4.0,106,$$,Canadian (New)#Comfort Food#Cocktail Bars,Riley Park,"3950 Main Street#Vancouver, BC V5V 3P2#Canada",(604) 708-8525
+22,Paramount Fine Foods,4.5,13,$$,Lebanese#Falafel#Pizza,Downtown,"560 Robson Street#Vancouver, BC V6B 2B7#Canada",(604) 699-9323
+23,JOEY Burrard,4.0,290,$$,Canadian (New)#Lounges,Downtown,"820 Burrard Street#Vancouver, BC V6Z 1X9#Canada",(604) 683-5639
+24,Pourhouse Restaurant,4.0,416,$$,Lounges#Canadian (New)#Cocktail Bars,"Downtown, Gastown","162 Water Street#Vancouver, BC V6B 1B2#Canada",(604) 568-7022
+25,Brix &amp; Mortar,4.0,167,$$$,Wine Bars#Canadian (New)#Tapas Bars,"Downtown, Yaletown","1138 Homer Street#Vancouver, BC V6B 2X6#Canada",(604) 915-9463
+26,The Poke Guy,4.5,87,$$,Hawaiian#Seafood,Downtown,"420 Richards Street#Vancouver, BC V6B 2Z4#Canada",(778) 379-8455
+27,Botanist,4.0,20,$$$,Canadian (New)#Diners#Breakfast & Brunch,"Coal Harbour, Downtown","1038 Canada Place#Vancouver, BC V6C 0B9#Canada",(604) 695-5500
+28,The Mackenzie Room,4.5,72,$$$,Canadian (New),Downtown Eastside,"415 Powell Street#Vancouver, BC V6A 1G7#Canada",(604) 253-0705
+29,La Catrina Tacos,4.5,51,$,Mexican,West End,"1187 Denman Street#Vancouver, BC V6G 2N1#Canada",(604) 566-9503
+30,Six Acres,4.0,207,$$,Pubs#Canadian (New)#Cafes,"Downtown, Gastown","203 Carrall Street#Vancouver, BC V6B 2J2#Canada",(604) 488-0110
+31,D’oro Gelato e Caffè,4.0,127,$,Ice Cream & Frozen Yogurt#Cafes,West End,"1222 Robson Street#Vancouver, BC V6E 1C1#Canada",(604) 694-0108
+32,Kazoku Sapporo Eatery,4.0,11,$,Japanese#Desserts#Comfort Food,Downtown,"2011-88 West Pender Street#Vancouver, BC V6B 6N8#Canada",(604) 428-8362
+33,Saj&amp;Co,4.5,165,$$,Lebanese#Sandwiches,Downtown,"813 Davie Street#Vancouver, BC V6Z 1B7#Canada",(604) 559-2447
+34,Bao Down,3.5,256,$$,Asian Fusion#Sandwiches#Seafood,"Downtown, Gastown","12 Powell Street#Vancouver, BC V6A 1E7#Canada",(778) 379-3611
+35,Guu with Garlic,4.5,679,$$,Japanese#Tapas Bars,West End,"1698 Robson Street#Vancouver, BC V6G 1C7#Canada",(604) 685-8678
+36,Lupo,4.5,254,$$$,Italian,"Downtown, Yaletown","869 Hamilton Street#Vancouver, BC V6B 2R7#Canada",(604) 569-2535
+37,Kurumucho Japanese Taco Shop,4.0,10,$$,Tex-Mex#Japanese#Asian Fusion,Downtown,"985 Hornby Street#Vancouver, BC V6Z 3G5#Canada",(604) 428-3239
+38,Yogi Korean Snack Bar,4.5,54,$,Korean#Fast Food#Vegetarian,West End,"1706 Robson Street#Vancouver, BC V6G 2J7#Canada",(604) 681-4174
+39,Grub,4.0,132,$$,Italian#Canadian (New),Riley Park,"4328 Main Street#Vancouver, BC V5V 3P9#Canada",(604) 876-8671
+40,Raviolino,4.5,53,$,Italian#Sandwiches,Kitsilano,"2822 W 4th Avenue#Vancouver, BC V6K 1R2#Canada",(604) 736-0772
+41,Ask For Luigi,4.0,273,$$,Italian,Downtown Eastside,"305 Alexander Street#Vancouver, BC V6A 1C4#Canada",(604) 428-2544
+42,JINYA Ramen Bar,3.0,42,$$,Ramen,Downtown,"541 Robson Street#Vancouver, BC V6B 2B7#Canada",(604) 699-9377
+43,Plaisir Sucré,4.5,49,$,Bakeries#Desserts#French,Kitsilano,"2668 Arbutus Street#Vancouver, BC V6J 5L8#Canada",(604) 736-0515
+44,Dinesty Dumpling House,4.0,320,$$,Chinese,West End,"1719 Robson Street#Vancouver, BC V6G 1C8#Canada",(604) 669-7769
+45,Hokkaido Ramen Santouka,4.0,734,$$,Ramen#Noodles,West End,"1690 Robson Street#Vancouver, BC V6G 1C7#Canada",(604) 681-8121
+46,Kuma Izakaya,4.0,31,$$,Sushi Bars#Japanese#Asian Fusion,"Downtown, Yaletown","1233 Hamilton Street#Vancouver, BC V6B 6K3#Canada",(778) 379-1177
+47,Fayuca,4.5,11,$$,Mexican,"Downtown, Yaletown","1009 Hamilton Street#Vancouver, BC V6B 5T4#Canada",(604) 689-8523
+48,Guu Original Thurlow,4.0,624,$$,Japanese#Tapas Bars,"West End, Downtown","838 Thurlow Street#Vancouver, BC V6E 1W2#Canada",(604) 685-8817
+49,Edible Canada At the Market,3.5,345,$$,Canadian (New)#Specialty Food#Grocery,Granville Island/False Creek,"1596 Johnston Street#Vancouver, BC V6H 3R9#Canada",(604) 682-6681
+50,Bao Bei Chinese Brasserie,4.0,256,$$$,Chinese,Chinatown,"163 Keefer Street#Vancouver, BC V6A 1X3#Canada",(604) 688-0876
+51,Zefferelli’s,4.0,262,$$,Italian,West End,"1136 Robson Street#Vancouver, BC V6E 1B2#Canada",(604) 687-0655
+52,Guoyan Cuisine Group,5.0,8,$$,Chinese,West End,"792 Denman Street#Vancouver, BC V6G 1C9#Canada",(604) 692-0148
+53,Pacific Poke,4.5,52,$$,Japanese#Hawaiian,"Chinatown, Strathcona","625 Main Street#Vancouver, BC V6A 2V4#Canada",(604) 559-5304
+54,Cactus Club Cafe,4.0,379,$$,Canadian (New)#Cocktail Bars,"Coal Harbour, Downtown","1085 Canada Place#Vancouver, BC V6C 0C3#Canada",(604) 620-7410
+55,So Hyang Korean Cuisine,4.5,74,$$,Korean,Sunset,"6345 Fraser Street#Vancouver, BC V5W 3A3#Canada",(604) 729-0702
+56,The Chili House,5.0,19,$,Chinese,Kitsilano,"2445 Burrard Street#Vancouver, BC V6J 3J3#Canada",(604) 564-8858
+57,Assembli,3.5,10,$$,Pizza#Salad,Fairview Slopes,"2325 Cambie Street#Vancouver, BC V5Z 2T9#Canada",(604) 873-1253
+58,Ritual,4.0,66,$$,Comfort Food,West End,"774 Denman Street#Vancouver, BC V6G 1C9#Canada",(604) 428-7722
+59,Fritz European Fry House,4.0,502,$,Fast Food#Poutineries#Modern European,"Downtown, Granville Entertainment District","718 Davie Street#Vancouver, BC V6Z 1B6#Canada",(604) 684-0811
+60,L’Abattoir,4.0,392,$$$,French#Canadian (New),"Downtown, Gastown","217 Carrall Street#Vancouver, BC V6B 2J1#Canada",(604) 568-1701
+61,Hokkaido Ramen Santouka,4.0,54,$$,Noodles#Ramen#Soup,Fairview Slopes,"558 W Broadway#Vancouver, BC V5Z 1E9#Canada",(604) 565-1770
+62,Yook Korean Grilled BBQ &amp; Bistro,3.5,10,$$,Korean#Barbeque,"Hastings-Sunrise, Grandview-Woodlands","2408 Nanaimo Street#Vancouver, BC V5N 5E4#Canada",(604) 428-9292
+63,Jam Cafe on Beatty,4.5,336,$$,Breakfast & Brunch,Downtown,"556 Beatty Street#Vancouver, BC V6B 2L3#Canada",(778) 379-1992
+64,The Bottleneck,4.0,54,$$,Pubs#Canadian (New),"Downtown, Granville Entertainment District","870 Granville Street#Vancouver, BC V6B 2C9#Canada",(604) 739-4540
+65,Mogu - Japanese Street Eats,4.5,57,$,Japanese#Food Trucks#Burgers,Downtown,"610 Howe Street#Vancouver, BC V6Z 1N9#Canada",(604) 375-4822
+66,Black Rice Izakaya,4.0,113,$$,Japanese#Sushi Bars#Tapas Bars,Downtown,"782 Cambie Street#Vancouver, BC V6B 2R5#Canada",(778) 379-0416
+67,Railtown Cafe,3.5,10,$$,Breakfast & Brunch#Sandwiches#Tex-Mex,"Mount Pleasant, Strathcona","1691 Main Street#Vancouver, BC V6A 2W5#Canada",(604) 336-2251
+68,Kissa Tanto,4.0,86,$$$,Japanese#Italian,"Chinatown, Downtown Eastside","263 E Pender Street#Vancouver, BC V6A 1T8#Canada",(778) 379-8078
+69,The Locus,4.0,178,$$,Lounges#Canadian (New),Riley Park,"4121 Main Street#Vancouver, BC V5V 3P6#Canada",(604) 708-4121
+70,Yaletown L’Antipasto,4.0,249,$$,Italian#Mediterranean,"Downtown, Yaletown","1127 Mainland Street#Vancouver, BC V6B 5P2#Canada",(604) 558-1174
+71,Westcoast Poke,4.0,82,$$,Live/Raw Food#Hawaiian,Mount Pleasant,"463 W 8th Avenue#Vancouver, BC V5Y 3Z5#Canada",(778) 379-5344
+72,Sen Pad Thai,4.5,10,$$,Thai#Noodles,Granville Island/False Creek,"1666 Johnston Street#Vancouver, BC V6H 3R5#Canada",(604) 428-7900
+73,La Mezcaleria,4.0,172,$$,Mexican,"Grandview-Woodlands, The Drive","1622 Commercial Drive#Vancouver, BC V5L 3Y4#Canada",(604) 559-8226
+74,Salt Tasting Room,4.0,421,$$,Wine Bars#Tapas/Small Plates,"Downtown, Gastown","45 Blood Alley Square#Vancouver, BC V6B 1A4#Canada",(604) 633-1912
+75,Le Crocodile Restaurant,4.5,278,$$$$,French,"West End, Downtown","909 Burrard Street#Vancouver, BC V6Z 2N2#Canada",(604) 669-4298
+76,Jamjar - Folk Lebanese Food,4.0,135,$$,Lebanese#Vegan,"Grandview-Woodlands, The Drive","2280 Commercial Drive#Vancouver, BC V5N 4B6#Canada",(604) 252-3957
+77,Mr Sushi Lonsdale,4.5,20,$$,Japanese#Sushi Bars#Salad,Lower Lonsdale,"105 Lonsdale Avenue#North Vancouver, BC V7M 2E7#Canada",(604) 770-4202
+78,Au Comptoir,4.0,95,$$,French,Kitsilano,"2278 W 4th Avenue#Vancouver, BC V6K 1N8#Canada",(604) 569-2278
+79,Go Fish Ocean Emporium,4.0,340,$$,Seafood#Fish & Chips,Granville Island/False Creek,"1505 W 1st Avenue#Vancouver, BC V6J 1E8#Canada",(604) 730-5040
+80,Pokérrito,4.0,114,$$,Sushi Bars#Japanese#Hawaiian,Downtown,"558 Dunsmuir Street#Vancouver, BC V6B 1Y1#Canada",(778) 379-1115
+81,The Oakwood Canadian Bistro,4.0,363,$$,Gastropubs#Breakfast & Brunch#Canadian (New),Kitsilano,"2741 W 4th Avenue#Vancouver, BC V6K 3V9#Canada",(604) 558-1965
+82,H2 Rotisserie &amp; Bar,3.0,7,$$,Gastropubs#Comfort Food#Bars,"Coal Harbour, Downtown","1601 Bayshore Drive#Vancouver, BC V6G 2V4#Canada",(604) 691-6966
+83,Scoozis,4.0,515,$$,Breakfast & Brunch#Greek#Italian,Downtown,"445 Howe Street#Vancouver, BC V6C 2X4#Canada",(604) 684-1009
+84,España Restaurant,4.0,161,$$,Spanish,West End,"1118 Denman Street#Vancouver, BC V6G 2M8#Canada",(604) 558-4040
+85,The Refinery,4.0,145,$$,Wine Bars#Gluten-Free#Tapas/Small Plates,"Downtown, Granville Entertainment District","1115 Granville Street#Vancouver, BC V6Z 1M1#Canada",(604) 687-8001
+86,Breakfast Table,4.5,48,$$,Breakfast & Brunch,"Fairview Slopes, South Granville","1481 West Broadway#Vancouver, BC V6H 1H6#Canada",(604) 805-1900
+87,My Frosty,4.0,14,$$,Desserts#Shaved Snow#Cafes,Hastings-Sunrise,"2800 E 1st Avenue#Vancouver, BC V5M 4Y2#Canada",(604) 428-2526
+88,Ancora Waterfront Dining and Patio,4.5,83,$$$$,Seafood#Japanese#Peruvian,Downtown,"1600 Howe Street#Vancouver, BC V6Z 2L9#Canada",(604) 681-1164
+89,Market Grill,4.0,28,$$,Burgers,Granville Island/False Creek,"1689 Johnston Street#Vancouver, BC V6H 3R9#Canada",(604) 689-1918
+90,La Catrina Tacos,4.5,51,$,Mexican,West End,"1187 Denman Street#Vancouver, BC V6G 2N1#Canada",(604) 566-9503
+91,Pacific Poke,4.5,52,$$,Japanese#Hawaiian,"Chinatown, Strathcona","625 Main Street#Vancouver, BC V6A 2V4#Canada",(604) 559-5304
+92,Lift Breakfast Bakery,4.0,9,$$,Breakfast & Brunch#Coffee & Tea#Bakeries,Lower Lonsdale,"101 Lonsdale Avenue#North Vancouver, BC V7M 2E6#Canada",(778) 388-5438
+93,Cactus Club Cafe,4.0,379,$$,Canadian (New)#Cocktail Bars,"Coal Harbour, Downtown","1085 Canada Place#Vancouver, BC V6C 0C3#Canada",(604) 620-7410
+94,Kinemi’s Kitchen,4.0,55,$$,Pizza#Italian#Asian Fusion,"Killarney, Champlain Heights","7751 Champlain Crescent#Vancouver, BC V5S 4J6#Canada",(604) 434-2868
+95,Black Rice Izakaya,4.0,113,$$,Japanese#Sushi Bars#Tapas Bars,Downtown,"782 Cambie Street#Vancouver, BC V6B 2R5#Canada",(778) 379-0416
+96,Ancora Waterfront Dining and Patio,4.5,83,$$$$,Seafood#Japanese#Peruvian,Downtown,"1600 Howe Street#Vancouver, BC V6Z 2L9#Canada",(604) 681-1164
+97,Mandarin Hong Kong Cafe,3.5,15,$$,Asian Fusion,South Cambie,"948 W King Edward Avenue#Vancouver, BC V5Z 2E2#Canada",(604) 620-0518
+98,The Oakwood Canadian Bistro,4.0,363,$$,Gastropubs#Breakfast & Brunch#Canadian (New),Kitsilano,"2741 W 4th Avenue#Vancouver, BC V6K 3V9#Canada",(604) 558-1965
+99,The Second Floor Bistro,5.0,3,Null,French,Renfrew-Collingwood,"2665 Renfrew Street#Vancouver, BC V5M 0A7#Canada",(604) 639-2055
+100,Chongqing,4.0,223,$$,Chinese,West End,"1260 Robson Street#Vancouver, BC V6E 1C1#Canada",(604) 568-0303
+101,Chi Modern Vietnamese Kitchen,4.0,52,$$,Vietnamese#Asian Fusion,Kitsilano,"1935 W 4th Avenue#Vancouver, BC V6J 1M7#Canada",(604) 336-3010
+102,Hawkers Delight Deli,4.0,231,$,Singaporean#Asian Fusion#Fast Food,Riley Park,"4127 Main Street#Vancouver, BC V5V 3P6#Canada",(604) 709-8188
+103,Ajisai Sushi Bar,4.5,290,$$,Sushi Bars#Japanese,Kerrisdale,"2081 W 42nd Avenue#Vancouver, BC V6M 2B4#Canada",(604) 266-1428
+104,Joe Fortes Seafood &amp; Chop House,4.0,669,$$$,Seafood#Steakhouses,West End,"777 Thurlow Street#Vancouver, BC V6E 3V5#Canada",(604) 669-1940
+105,Black Frog Eatery,4.0,141,$$,Pubs#American (Traditional),"Downtown, Gastown","108 Cambie Street#Vancouver, BC V6B 2M8#Canada",(604) 602-0527
+106,Nook,4.0,230,$$,Italian#Pizza,West End,"781 Denman Street#Vancouver, BC V6G#Canada",(604) 568-4554
+107,Ramen Danbo,4.0,151,$$,Ramen#Noodles,West End,"1333 Robson Street#Vancouver, BC V6E 2B1#Canada",(604) 559-8112
+108,Crowbar Restaurant,4.0,23,$$,Cocktail Bars#Gastropubs,Mount Pleasant,"646 Kingsway#Vancouver, BC V5T 3K4#Canada",(604) 336-2769
+109,Cactus Club Cafe,4.0,276,$$,Canadian (New)#Cafes,Downtown,"588 Burrard Street#Vancouver, BC V7X 1M9#Canada",(604) 682-0933
+110,Stock Market,4.0,57,$,Soup,Granville Island/False Creek,"1689 Johnston Street#Vancouver, BC V6H 3R9#Canada",(604) 687-2433
+111,The Union,4.0,164,$$,Asian Fusion#Bars,Strathcona,"219 Union Street#Vancouver, BC V6A 0B4#Canada",(604) 568-3230
+112,Nuba Gastown,4.0,514,$$,Mediterranean#Vegetarian#Lebanese,Downtown,"207 W Hastings Street#Vancouver, BC V6B 1H7#Canada",(604) 688-1655
+113,Anh and Chi,4.0,162,$$,Vietnamese#Cocktail Bars,Riley Park,"3388 Main Street#Vancouver, BC V5V 3M7#Canada",(604) 874-0832
+114,Salmon n’ Bannock,4.5,91,$$,Canadian (New),Fairview Slopes,"1128 W Broadway#Vancouver, BC V6H 1G5#Canada",(604) 568-8971
+115,TAKO,4.0,67,$,Korean#Mexican,Downtown,"601 Expo Boulevard#Vancouver, BC V6B 0J5#Canada",(778) 379-7010
+116,La Taqueria Pinche Taco Shop,4.5,401,$,Mexican#Caterers,Downtown,"322 W Hastings Street#Vancouver, BC V8B 1K6#Canada",(604) 568-4406
+117,Vij’s Rangoli,4.0,323,$$,Indian,"Fairview Slopes, South Granville","1488 W 11th Ave#Vancouver, BC V6H 1L1#Canada",(604) 736-5711
+118,Carp,4.5,36,$$,Japanese#Sushi Bars,Mount Pleasant,"2516 Prince Edward Street#Vancouver, BC V5T 4T3#Canada",(604) 708-5542
+119,Rouge Bistro,4.5,34,$,American (Traditional),Mount Pleasant,"91 West 2nd Avenue#Vancouver, BC V5Y 1B3#Canada",(778) 654-7328
+120,Amay’s House,4.0,94,$,Burmese#Malaysian#Thai,Kensington-Cedar Cottage,"5076 Victoria Drive#Vancouver, BC V5P 3V1#Canada",(604) 327-2629
+121,Sushi Itoga,4.5,255,$$,Sushi Bars#Japanese,West End,"1668 Robson Street#Vancouver, BC V6G 1C7#Canada",(604) 687-2422
+122,Gain Wah Restaurant,4.0,66,$,Chinese,"Chinatown, Strathcona","218 Keefer Street#Vancouver, BC V6A 1X5#Canada",(778) 734-2667
+123,Peaceful Restaurant,4.0,436,$$,Chinese#Noodles,Fairview Slopes,"110-532 W Broadway#Vancouver, BC V5Z 1E9#Canada",(604) 879-9878
+124,Hawksworth Restaurant,4.0,406,$$$$,Canadian (New),Downtown,"801 W Georgia Street#Vancouver, BC V6C 1P7#Canada",(604) 673-7000
+125,MeeT in Gastown,4.0,158,$$,Vegetarian#Comfort Food#Vegan,"Downtown, Gastown","12 Water Street#Vancouver, BC V6B 1A5#Canada",(604) 696-1111
+126,Linh Café - French Cooking,4.0,121,$$,Vietnamese#French,Kitsilano,"2836 W 4th Avenue#Vancouver, BC V6K 1R2#Canada",(604) 559-4668
+127,Banana Leaf,4.0,206,$$,Malaysian#Singaporean,West End,"1096 Denman St#Vancouver, BC V6G 2M8#Canada",(604) 683-3333
+128,Rajio Japanese Public House,4.0,76,$$,Japanese,Point Grey,"3763 W 10th Avenue#Vancouver, BC V6R 2G5#Canada",(604) 558-1679
+129,Heritage Asian Eatery,4.0,46,$$,Breakfast & Brunch#Asian Fusion,"Coal Harbour, Downtown","1108 W Pender Street#Vancouver, BC V6E 4J6#Canada",(778) 737-1108
+130,Grotto,4.0,48,$$,Cocktail Bars#Italian#Pizza,West End,"1725 Davie Street#Vancouver, BC V6G 1W5#Canada",(604) 620-1998
+131,The Fish Counter,4.5,207,$$,Fish & Chips#Seafood,Riley Park,"3825 Main Street#Vancouver, BC V5V 3P2#Canada",(604) 876-3474
+132,Teahouse,4.0,262,$$$,Seafood,West End,"Ferguson Point#Vancouver, BC V6G 3E2#Canada",(604) 669-3281
+133,House Special,4.0,63,$$,Vietnamese#Cocktail Bars,"Downtown, Yaletown","1269 Hamilton Street#Vancouver, BC V6B 6K3#Canada",(778) 379-2939
+134,Fable Diner,3.5,105,$$,Diners,Mount Pleasant,"151 E Broadway#Vancouver, BC V5T 1W1#Canada",(604) 563-3463
+135,The Sandbar Seafood Restaurant,3.5,435,$$$,Seafood#Sushi Bars#Music Venues,Granville Island/False Creek,"1535 Johnston Street#Vancouver, BC V6H 3R9#Canada",(604) 669-9030
+136,The Stable House Bistro,4.0,56,$$,French#Wine Bars#Breakfast & Brunch,"Fairview Slopes, South Granville","1520 W 13th Avenue#Vancouver, BC V6J 2G4#Canada",(604) 736-1520
+137,Pronto,4.0,144,$$,Italian#Pizza,"South Cambie, Riley Park","3473 Cambie Street#Vancouver, BC V5Z 2W7#Canada",(604) 722-9331
+138,Eat Me Thai,4.5,36,$$,Thai,Sunset,"6364 Fraser Street#Vancouver, BC V5W 0A1#Canada",(604) 558-3832
+139,Gringo,4.5,107,$,Mexican#Pubs#Tex-Mex,"Downtown, Gastown","27 Blood Alley Square#Vancouver, BC V6B 0C4#Canada",(604) 721-0607
+140,Suika,4.0,293,$$,Japanese#Tapas/Small Plates#Sushi Bars,Fairview Slopes,"1626 W Broadway#Vancouver, BC V6J 1X6#Canada",(604) 730-1678
+141,Mission,4.0,39,$$$,Canadian (New)#Vegetarian#Cocktail Bars,Kitsilano,"2042 W 4th Avenue#Vancouver, BC V6J 1M9#Canada",(604) 739-2042
+142,ShangPin Beef Noodle House,4.0,27,$$,Taiwanese,Riley Park,"4148 Main Street#Vancouver, BC V5V 3A7#Canada",(604) 564-8892
+143,Long’s Noodle House,4.0,202,$$,Chinese#Noodles,Riley Park,"4853 Main Street#Vancouver, BC V5V 3R9#Canada",(604) 879-7879
+144,Super Chef Grill,4.5,37,$,Chinese,Downtown,"280 Robson Street#Vancouver, BC V6B 0E7#Canada",(604) 828-2083
+145,Guu with Otokomae,4.0,303,$$,Japanese#Tapas Bars,"Downtown, Gastown","375 Water Street#Vancouver, BC V6B 5C6#Canada",(604) 685-8682
+146,Yuji’s From Japan,4.5,28,$$,Sushi Bars#Japanese#Tapas/Small Plates,Point Grey,"2083 Alma Street#Vancouver, BC V6R 4N6#Canada",(604) 428-4688
+147,Kessel&amp;March,4.5,44,$$,Modern European,Grandview-Woodlands,"1701 Powell Street#Vancouver, BC V5L 5C9#Canada",(604) 874-1196
+148,Burgoo Bistro,4.0,145,$$,Comfort Food#Bistros,Kitsilano,"2272 W 4th Avenue#Vancouver, BC V6K 1P2#Canada",(604) 734-3478
+149,Bestie,4.0,164,$$,German#Specialty Food,Chinatown,"105 E Pender Street#Vancouver, BC V6A 1T5#Canada",(604) 620-1175
+150,Nabebugyo,4.0,31,$$,Japanese#Hot Pot#Noodles,"Fairview Slopes, South Cambie, Riley Park","3190 Cambie Street#Vancouver, BC V5Z 2W2#Canada",(604) 710-5039
+151,Caffè Mangia,5.0,11,$$,Pizza#Sandwiches#Italian,Mount Pleasant,"2211 Manitoba Street#Vancouver, BC V5Y 3A3#Canada",(778) 379-4000
+152,Pholicious,4.5,57,$,Vietnamese#Noodles,Downtown,"550 W Hastings#Vancouver, BC V6B 1L6#Canada",(778) 379-3322
+153,Krung Thep Thai Cuisine,4.0,48,$$,Thai,"Downtown, Granville Entertainment District","809 Seymour Street#Vancouver, BC V6B 3L4#Canada",(778) 379-6488
+154,La Brasserie,4.0,193,$$,French#German,West End,"1091 Davie Street#Vancouver, BC V6E 1M5#Canada",(778) 379-5400
+155,ARC Restaurant,4.0,58,$$$,Canadian (New)#Cocktail Bars,Downtown,"900 Canada Place Way#Vancouver, BC V6C 3L5#Canada",(604) 691-1818
+156,Mr. Red Cafe,4.0,40,$$,Vietnamese,Kitsilano,"2680 W Broadway#Vancouver, BC V6K 2G3#Canada",(604) 559-6878
+157,Ramen Danbo,4.0,135,$$,Ramen#Noodles,Kitsilano,"1833 W 4th Avenue#Vancouver, BC V6J 1M4#Canada",(778) 379-8977
+158,Cafe Mai-Mai,4.5,69,$,Vietnamese#Coffee & Tea#Noodles,Marpole,"8636 Granville Street#Vancouver, BC V6P 5A1#Canada",(604) 428-4191
+159,Caveman Cafe,4.5,69,$,Organic Stores#Salad#Cafes,Downtown,"88 W Pender Street#Vancouver, BC V6B 6N8#Canada",(604) 780-6650
+160,Sofra Mediterranean Kitchen,4.0,51,$$,Mediterranean,"Kerrisdale, Arbutus Ridge","2277 W 41st Avenue#Vancouver, BC V6M 2A3#Canada",(604) 558-3287
+161,La Mezcaleria,4.0,27,$$,Mexican,"Downtown, Gastown","68 E Cordova Street#Vancouver, BC V6A 4G8#Canada",(604) 559-8226
+162,Les Faux Bourgeois,4.0,305,$$,French#Cafes,Mount Pleasant,"663 E 15th Avenue#Vancouver, BC V5T 2R6#Canada",(604) 873-9733
+163,Tacofino Yaletown,4.0,48,$$,Mexican,"Downtown, Yaletown","1025 Mainland Street#Vancouver, BC V6B 5P9#Canada",(778) 379-8226
+164,Birds &amp; the Beets,4.0,73,$$,Breakfast & Brunch,"Downtown, Gastown","55 Powell Street#Vancouver, BC V6A#Canada",(604) 893-7832
+165,Jules French Bistro,4.0,136,$$,French,"Downtown, Gastown","216 Abbott Street#Vancouver, BC V6B 2K8#Canada",(604) 669-0033
+166,Kin Kao Thai Kitchen,4.0,81,$$,Thai,"Grandview-Woodlands, The Drive","903 Commercial Drive#Vancouver, BC V5L#Canada",(604) 558-1125
+167,Jackalope’s Neighbourhood Dive,4.5,72,$$,Dive Bars#Breakfast & Brunch#Soul Food,Grandview-Woodlands,"2257 E Hastings Street#Vancouver, BC V5L 1V3#Canada",(604) 568-6674
+168,Meet on Main,4.0,247,$$,Comfort Food#Vegetarian#Gluten-Free,Riley Park,"4288 Main Street#Vancouver, BC V5V 3P9#Canada",(604) 696-1010
+169,Gyu-Kaku Japanese BBQ,4.0,93,$$,Barbeque#Japanese,Fairview Slopes,"#201-950 W. Broadway#Vancouver, BC V5Z 1K7#Canada",(604) 558-3898
+170,Laksa King,3.5,122,$,Tea Rooms#Burmese#Malaysian,Hastings-Sunrise,"2546 E Hastings Street#Vancouver, BC V5K 1Z3#Canada",(604) 428-0155
+171,Meat &amp; Bread,4.0,614,$$,Sandwiches,Downtown,"370 Cambie Street#Vancouver, BC V6B 1H7#Canada",(604) 566-9003
+172,Basil Garden Pho,4.0,57,$$,Vietnamese,Hastings-Sunrise,"2889 E Broadway#Vancouver, BC V5M 1Y9#Canada",(604) 871-9998
+173,Meat &amp; Bread,4.0,142,$,Sandwiches,"Coal Harbour, Downtown","1033 W Pender Street#Vancouver, BC V6E 2M6#Canada",
+174,Bauhaus Restaurant,4.0,109,$$$,German#Modern European,"Downtown, Gastown","1st W Cordova Street#Vancouver, BC V6B 2J2#Canada",(604) 974-1147
+175,Shizen Ya,4.0,413,$$,Japanese#Sushi Bars#Bars,Downtown,"965 Hornby Street#Vancouver, BC V6Z 1V3#Canada",(604) 568-0013
+176,Cacao,4.0,16,$$$,Latin American,Kitsilano,"1898 W 1st Avenue#Vancouver, BC V6J 1G5#Canada",(604) 731-5370
+177,Osteria Savio Volpe,4.0,148,$$$,Italian,Mount Pleasant,"615 Kingsway#Vancouver, BC V5T 3K5#Canada",(604) 428-0072
+178,Motomachi Shokudo,4.0,312,$$,Ramen#Noodles,West End,"740 Denman Street#Vancouver, BC V6G 2L5#Canada",(604) 609-0310
+179,The Holy Crab,3.5,103,$$,Seafood,West End,"1588 Robson Street#Vancouver, BC V6G 2G5#Canada",(604) 661-8533
+180,Argo Café,4.0,61,$,French#Asian Fusion#Canadian (New),Mount Pleasant,"1836 Ontario Street#Vancouver, BC V5T 2W6#Canada",(604) 876-3620
+181,Klaus’s Kaffee Haus,4.5,17,$,Desserts#Austrian#Cafes,Chinatown,"291 East Pender Street#Vancouver, BC V6A 1T8#Canada",(778) 379-6735
+182,Minami,4.0,423,$$$,Japanese#Sushi Bars,"Downtown, Yaletown","1118 Mainland Street#Vancouver, BC V6B 2T9#Canada",(604) 685-8080
+183,Zakkushi on Denman,4.0,116,$$,Japanese,West End,"823 Denman St#Vancouver, BC V6G 2L7#Canada",(604) 685-1136
+184,Rodney’s Oyster House,4.0,519,$$,Seafood#Live/Raw Food,"Downtown, Yaletown","1228 Hamilton Street#Vancouver, BC V6B 6L2#Canada",(604) 609-0080
+185,Japanese Bistro Hatzu,4.0,118,$$,Sushi Bars#Japanese#Tapas/Small Plates,West End,"1175 Davie Street#Vancouver, BC V6E 1N1#Canada",(604) 559-7707
+186,Cuchillo,4.0,190,$$,Latin American,Downtown Eastside,"261 Powell Street#Vancouver, BC V6A 2Z1#Canada",(604) 559-7585
+187,Bangkok City Cafe,4.5,88,$$,Thai,Kitsilano,"2953 W 4th Avenue#Vancouver, BC V6K 1R3#Canada",(604) 736-5474
+188,Shishinori,3.5,115,$$,Japanese,Mount Pleasant,"2328 Cambie Street#Vancouver, BC V5Z 2T8#Canada",(604) 559-8166
+189,Simba’s Grill,4.5,105,$$,African,West End,"825 Denman Street#Vancouver, BC V6G 2L7#Canada",(604) 974-0649
+190,Raisu,3.5,54,$$,Japanese#Sushi Bars#Vegan,Kitsilano,"2340 W 4th Avenue#Vancouver, BC V6K 1P1#Canada",(604) 620-1564
+191,Nero Belgian Waffle Bar,4.0,428,$$,Coffee & Tea#Waffles,West End,"1703 Robson Street#Vancouver, BC V6G 1C9#Canada",(604) 839-1239
+192,La Belle Patate,4.0,386,$,Fast Food#Poutineries,West End,"1215 Davie Street#Vancouver, BC V6E 1N4#Canada",(604) 569-1215
+193,The Sardine Can,4.0,87,$$,Tapas Bars#Spanish,"Downtown, Gastown","26 Powell Street#Vancouver, BC V6A 1E7#Canada",(604) 568-1350
+194,O! Taho,4.5,16,$$,Filipino,"Riley Park, Kensington-Cedar Cottage","4223 Fraser Street#Vancouver, BC V5V 4G2#Canada",(604) 720-9604
+195,Five Sails Restaurant,4.5,91,$$$$,French,Downtown,"999 Canada Place#Vancouver, BC V6C 3E1#Canada",(604) 844-2855
+196,Elements Diner,4.0,19,$$,Asian Fusion#Coffee & Tea,"Downtown, Yaletown","910 Beatty Street#Vancouver, BC V6B 1M7#Canada",(604) 558-1899
+197,Kinome Japanese Kitchen,4.0,28,$$,Japanese,Kitsilano,"2511 W Broadway#Vancouver, BC V6K#Canada",(778) 379-1925
+198,Sushi Coen,4.5,71,$$,Japanese,Downtown,"1306 Burrard Street#Vancouver, BC V6Z 2B7#Canada",(778) 379-1523
+199,Marutama Ramen,4.0,340,$$,Ramen#Noodles,West End,"780 Bidwell Street#Vancouver, BC V6G 2J6#Canada",(604) 688-8837
+200,Absinthe Bistro,4.5,75,$$$,Cafes#French,"Grandview-Woodlands, The Drive","1260 Commercial Drive#Vancouver, BC V5L 2T6#Canada",(604) 566-9053
+201,The Eastwood,4.0,13,$$,Burgers#Sandwiches,"Riley Park, Kensington-Cedar Cottage","4245 Fraser Street#Vancouver, BC V5V 4G1#Canada",(604) 873-4477
+202,Torafuku,3.5,115,$$,Asian Fusion#Japanese#Vietnamese,"Downtown, Strathcona","958 Main Street#Vancouver, BC V6A 2W1#Canada",(778) 903-2006
+203,The Bayside Lounge,3.5,62,$$,Lounges#Breakfast & Brunch#Cocktail Bars,West End,"1755 Davie Street#Vancouver, BC V6G 1W5#Canada",(604) 682-1831
+204,Dockside Restaurant,3.0,146,$$,Seafood,Granville Island/False Creek,"1253 Johnston Street#Vancouver, BC V6H 3R9#Canada",(604) 685-7070
+205,The Belgard Kitchen,4.0,121,$$,Tapas/Small Plates#Canadian (New),Downtown Eastside,"55 Dunlevy Avenue#Vancouver, BC V6A 3A3#Canada",(604) 699-1989
+206,Five Elements Cafe,4.0,56,$,Vietnamese#Thai,"Grandview-Woodlands, The Drive","1046 Commercial Drive#Vancouver, BC V5L 2K5#Canada",(604) 559-5938
+207,Russet Shack,4.0,23,$,British#Irish#Fast Food,"Downtown, Yaletown","288 Robson street#Vancouver, BC V6B 6A1#Canada",(604) 683-0374
+208,Just Waffles,4.5,71,$$,Breakfast & Brunch#Waffles,Hastings-Sunrise,"3531 E Hastings#Vancouver, BC V5K 2A8#Canada",(604) 518-9041
+209,Maenam,3.5,225,$$,Thai,Kitsilano,"1938 W 4th Avenue#Vancouver, BC V6J 1M5#Canada",(604) 730-5579
+210,Sushi Hub,4.5,56,$$,Sushi Bars#Japanese,Riley Park,"4855 Main Street#Vancouver, BC V5V 3R9#Canada",(604) 336-4855
+211,Crab Park Chowdery,3.5,43,$,Seafood#Soup#Sandwiches,"Downtown, Gastown","221 Abbott Street#Vancouver, BC V6B 2K8#Canada",(604) 565-2722
+212,The Mexican Antojitos Y Cantina,4.5,231,$$,Mexican,"Downtown, Granville Entertainment District","1049 Granville Street#Vancouver, BC V6Z 1L4#Canada",(604) 569-0955
+213,Basil Pasta Bar,4.0,63,$,Italian,Kitsilano,"1602 Yew Street#Vancouver, BC V6K 3E7#Canada",(778) 379-0566
+214,Moose’s Down Under,4.0,69,$$,Pubs#Australian#Comfort Food,Downtown,"830 Pender Street W#Vancouver, BC V6C 1J8#Canada",(604) 683-3300
+215,Cioppino’s Mediterranean Grill,4.0,122,$$$$,Mediterranean#Italian,"Downtown, Yaletown","1133 Hamilton Street#Vancouver, BC V6B 5P6#Canada",(604) 688-7466
+216,Bali Thai,4.5,43,$,Indonesian,Downtown,"88 W Pender Street#Vancouver, BC V6B 1R3#Canada",(604) 291-7990
+217,Kosoo Restaurant,4.0,68,$$,Korean#Asian Fusion,West End,"832 Cardero Street#Vancouver, BC V6G 2G5#Canada",(604) 563-5556
+218,The Red Wagon,4.0,412,$$,Diners#Breakfast & Brunch,Grandview-Woodlands,"2296 E Hastings Street#Vancouver, BC V5L 1V4#Canada",(604) 568-4565
+219,The Cascade Room,4.0,171,$$,Pubs#Canadian (New)#Cocktail Bars,Mount Pleasant,"2616 Main Street#Vancouver, BC V5T 3E6#Canada",(604) 709-8650
+220,Tamam: Fine Palestinian Cuisine,4.5,96,$$,Middle Eastern,Hastings-Sunrise,"2616 E Hastings Street#Vancouver, BC V5K 1Z6#Canada",(604) 620-7078
+221,The Tuck Shoppe,4.5,19,$$,Bars#Sandwiches#Salad,Strathcona,"237 Union Street#Vancouver, BC V6A 4C3#Canada",(604) 620-6773
+222,Gyu-Kaku Japanese BBQ,4.0,238,$$,Japanese#Barbeque,Downtown,"G3-888 Nelson Street#Vancouver, BC V6Z 2H1#Canada",(604) 558-3885
+223,Damso,4.0,103,$$,Korean,West End,"867 Denman Street#Vancouver, BC V6G 2L9#Canada",(604) 632-0022
+224,Juniper,4.0,51,$$$,Canadian (New)#Cocktail Bars,Chinatown,"185 Keefer Street#Vancouver, BC V6A 1X3#Canada",(604) 681-1695
+225,Kyzock,4.0,158,$,Sushi Bars#Japanese,Downtown,"559 W Pender Street#Vancouver, BC V6B 1V5#Canada",(604) 605-1625
+226,Oyster Express,4.5,126,$$,Seafood#Bars,"Chinatown, Strathcona","296 Keefer Street#Vancouver, BC V6A 1X5#Canada",(604) 684-3300
+227,Red Ginger Asian Cuisine,4.0,107,$$,Asian Fusion,Fairview Slopes,"967 W Broadway#Vancouver, BC V5Z 1K3#Canada",(604) 558-0888
+228,Mamie Taylor’s,4.0,73,$$,American (Traditional),"Chinatown, Strathcona","251 E Georgia Street#Vancouver, BC V6A 1Z6#Canada",(604) 620-8818
+229,The Flying Pig,3.5,105,$$,Canadian (New),Mount Pleasant,"127 W 2nd Avenue#Vancouver, BC V5T 1B4#Canada",(604) 569-1111
+230,Carthage Café,4.0,56,$$,French#Mediterranean#African,"Grandview-Woodlands, The Drive","1851 Commercial Drive#Vancouver, BC V5N 4A6#Canada",(604) 215-0661
+231,Revel Room,4.0,195,$$,Lounges#Southern#Music Venues,"Downtown, Gastown","238 Abbott Street#Vancouver, BC V6B 2K8#Canada",(604) 687-4088
+232,CinCin Ristorante + Bar,4.0,255,$$$,Italian#Bars,West End,"1154 Robson Street#Vancouver, BC V6E 1B2#Canada",(604) 688-7338
+233,Lobsters Only Seafood,4.5,13,$$,Seafood,Mount Pleasant,"416 Broadway E#Vancouver, BC V5T 1X2#Canada",(604) 873-6820
+234,Nammos Estiatorio,3.5,22,$$,Tapas/Small Plates#Greek#Breakfast & Brunch,"Riley Park, Kensington-Cedar Cottage","3980 Fraser Street#Vancouver, BC V5V 4E4#Canada",(604) 428-6850
+235,Yah Yah Ya Ramen,4.0,41,$$,Ramen,Downtown,"570 Robson Street#Vancouver, BC V6B 2B7#Canada",(604) 620-1331
+236,Toshi Sushi,4.5,317,$$,Sushi Bars#Japanese,"Mount Pleasant, Riley Park","181 E 16th Avenue#Vancouver, BC V5T 4R2#Canada",(604) 874-5173
+237,The Hoke Poke,4.0,17,$$,Live/Raw Food#Seafood#Hawaiian,Kitsilano,"1834 W 4th Avenue#Vancouver, BC V6J 1M3#Canada",(604) 564-8885
+238,Acacia Fillo Bar,4.5,126,$$,Breakfast & Brunch#Modern European,West End,"1103 Denman Street#Vancouver, BC V6G 2M7#Canada",(604) 633-3884
+239,Yama Cafe,4.0,19,$,Cafes#Japanese#Gluten-Free,Grandview-Woodlands,"2007 East Hastings Street#Vancouver, BC V5L 1T9#Canada",(604) 428-6276
+240,Cafe de l’Orangerie,4.0,131,$$,Japanese#Desserts,Marpole,"1320 W 73rd Avenue#Vancouver, BC V6P 4R3#Canada",(604) 266-0066
+241,Seasons In the Park,4.0,314,$$$,Seafood,Riley Park,"Cambie Street W 33rd Avenue#Vancouver, BC V5Y 2M5#Canada",(604) 874-8008
+242,Bin 941,4.0,178,$$$,Tapas Bars#Cocktail Bars#Wine Bars,Downtown,"941 Davie Street#Vancouver, BC V6Z 1B9#Canada",(604) 683-1246
+243,Harambe Restaurant,4.0,83,$$,Ethiopian#African,"Grandview-Woodlands, The Drive","2149 Commercial Drive#Vancouver, BC V5N 4B3#Canada",(604) 216-1060
+244,Bogart’s Bar and Restaurant,4.0,47,$$,Cocktail Bars#Gastropubs#Beer Bar,Downtown,"121 Robson Street#Vancouver, BC V6B 2A8#Canada",(604) 336-3578
+245,The Templeton,4.0,393,$$,Diners#Breakfast & Brunch,"Downtown, Granville Entertainment District","1087 Granville Street#Vancouver, BC V6Z 1L4#Canada",(604) 685-4612
+246,Tony’s Fish and Chips,3.5,145,$$,Seafood#Fish & Chips,Granville Island/False Creek,"1511 Anderson Street#Vancouver, BC V6H 3R5#Canada",(604) 683-7127
+247,Bon Crepe,4.5,104,$,Creperies,West End,"1238 Robson Street#Vancouver, BC V6E 3Z6#Canada",(778) 822-4023
+248,To Dine For Eatery,4.0,46,$$,Burgers#Coffee & Tea#Breakfast & Brunch,Strathcona,"333 Terminal Avenue#Vancouver, BC V6A 4C1#Canada",(604) 568-7106
+249,Goldstone Bakery And Restaurant,4.0,63,$,Bakeries#Chinese,Chinatown,"139 Keefer Street#Vancouver, BC V6A#Canada",(604) 688-9328
+250,Amici Miei,4.0,60,$$,Italian#Pizza,West End,"1114 Denman Street#Vancouver, BC V6G 1T2#Canada",(604) 563-6610
+251,Straight Outta Brooklyn NYC Pizzeria,4.0,112,$,Pizza#Italian,Downtown,"350 Robson Street#Vancouver, BC V6B 2B2#Canada",(604) 559-3500
+252,Burgoo Bistro,4.0,91,$$,Comfort Food#Bistros,Point Grey,"4434 10th Avenue W#Vancouver, BC V6R 2H9#Canada",(604) 221-7839
+253,Mandarin Hong Kong Cafe,3.5,15,$$,Asian Fusion,South Cambie,"948 W King Edward Avenue#Vancouver, BC V5Z 2E2#Canada",(604) 620-0518
+254,Andamiro Korean Bistro,4.0,46,$$,Korean#Hot Pot,Renfrew-Collingwood,"2568 Kingsway#Vancouver, BC V5R 5H2#Canada",(604) 620-2500
+255,Giardino,4.0,60,$$$,Italian,Downtown,"1328 Hornby Street#Vancouver, BC V6Z 1W5#Canada",(604) 669-2422
+256,La Taqueria Pinche Taco Shop,4.5,473,$,Mexican,Fairview Slopes,"2549 Cambie Street#Vancouver, BC V5Z 3V6#Canada",(604) 558-2549
+257,The Pawn Shop YVR,4.5,19,$$,Desserts#Bars#Mexican,"Downtown, Granville Entertainment District","1117 Granville Street#Vancouver, BC V6Z 1M1#Canada",(604) 687-7474
+258,Pho Goodness,4.0,128,$,Vietnamese#Noodles,West End,"1150 Davie Street#Vancouver, BC V6E 1N1#Canada",(604) 568-3253
+259,Minerva Restaurant,4.0,49,$$,Pizza#Barbeque#Salad,"Kerrisdale, Arbutus Ridge","2411 W 41st Avenue#Vancouver, BC V6M 2A5#Canada",(604) 263-1774
+260,Westcoast Darts Cafe,4.5,44,$,Desserts#Cafes,Killarney,"3608 Kingsway#Vancouver, BC V5R 5M2#Canada",(778) 379-9901
+261,Baoguette Vietnamese Bistro,4.0,109,$,Vietnamese#Sandwiches,West End,"104 1184 Denman St#Vancouver, BC V6G 1Z1#Canada",(604) 563-2468
+262,Mamie Taylor’s,4.0,73,$$,American (Traditional),"Chinatown, Strathcona","251 E Georgia Street#Vancouver, BC V6A 1Z6#Canada",(604) 620-8818
+263,Yah Yah Ya Ramen,4.0,41,$$,Ramen,Downtown,"570 Robson Street#Vancouver, BC V6B 2B7#Canada",(604) 620-1331
+264,Maenam,3.5,225,$$,Thai,Kitsilano,"1938 W 4th Avenue#Vancouver, BC V6J 1M5#Canada",(604) 730-5579
+265,Kyuzo Japanese Restaurant,3.5,13,$$,Japanese,"Kerrisdale, Shaughnessy","5701 Granville Street#Vancouver, BC V6M 4J7#Canada",(604) 620-9979
+266,Pronto,4.0,144,$$,Italian#Pizza,"South Cambie, Riley Park","3473 Cambie Street#Vancouver, BC V5Z 2W7#Canada",(604) 722-9331
+267,Red Ginger Asian Cuisine,4.0,107,$$,Asian Fusion,Fairview Slopes,"967 W Broadway#Vancouver, BC V5Z 1K3#Canada",(604) 558-0888
+268,Papparoti,4.5,3,$,Cafes,Downtown,"193 Keefer Place#Vancouver, BC V6B 6C1#Canada",(604) 620-2867
+269,Kyzock,4.0,158,$,Sushi Bars#Japanese,Downtown,"559 W Pender Street#Vancouver, BC V6B 1V5#Canada",(604) 605-1625
+270,ZAC.ZAC Japanese Curry House,4.0,55,$,Japanese#Fast Food,Downtown,"590 Robson Street#Vancouver, BC V6B 2B7#Canada",(604) 608-2887
+271,Mott 32,4.0,27,$$$$,Chinese,Downtown,"1161 W Georgia Street#Vancouver, BC V6E 0C6#Canada",(604) 979-8886
+272,Sura Korean Cuisine,4.0,225,$$,Korean,West End,"1518 Robson Street#Vancouver, BC V6G 1C2#Canada",(604) 687-7872
+273,Masa Japanese Restaurant,4.0,64,$$,Japanese#Sushi Bars,"Fairview Slopes, South Granville","1418 W Broadway#Vancouver, BC V6H 1H4#Canada",(604) 732-0112
+274,Bishop’s Restaurant,4.5,83,$$$$,Canadian (New),Kitsilano,"2183 W 4th Avenue#Vancouver, BC V6K 1N7#Canada",(604) 738-2025
+275,Mui Ngo Gai,4.0,130,$,Vietnamese#Noodles,Kensington-Cedar Cottage,"2052 Kingsway#Vancouver, BC V5N 2T3#Canada",(604) 876-8885
+276,The Greek By Anatoli,4.0,94,$$,Greek,"Downtown, Yaletown","1043 Mainland Street#Vancouver, BC V6B#Canada",(604) 979-0700
+277,Vij’s Restaurant,4.0,124,$$$,Indian,Mount Pleasant,"3106 Cambie Street#Vancouver, BC V5Z 2W2#Canada",(604) 736-6664
+278,Via Tevere Pizzeria,4.0,209,$$,Italian#Pizza#Desserts,"Grandview-Woodlands, The Drive","1190 Victoria Drive#Vancouver, BC V5L 4G5#Canada",(604) 336-1803
+279,Dish,4.0,64,$,Sandwiches#Breakfast & Brunch#Juice Bars & Smoothies,West End,"1068 Davie Street#Vancouver, BC V6E 1M3#Canada",(604) 689-0208
+280,Shiro,4.0,177,$$,Japanese#Sushi Bars,Fairview Slopes,"3096 Cambie Street#Vancouver, BC V5Z 2V9#Canada",(604) 874-0027
+281,YEW Seafood + Bar,4.0,369,$$$,Seafood#Wine Bars#Salad,Downtown,"791 W Georgia Street#Vancouver, BC V6C 2T4#Canada",(604) 692-4939
+282,Bai Bua Thai Cuisine,4.0,64,$$,Thai,Hastings-Sunrise,"2443 E Hastings Street#Vancouver, BC V5C 0C2#Canada",(778) 379-9699
+283,Banana Leaf,3.5,153,$$,Malaysian#Singaporean,West End,"1043 Davie St#Vancouver, BC V6E 1N2#Canada",(604) 669-3389
+284,Bao Down Gastropub + Raw bar,3.0,107,$$,Thai#Filipino#Asian Fusion,Mount Pleasant,"115 2nd Avenue W#Vancouver, BC V5Y 1B8#Canada",(604) 620-5226
+285,Sorella,4.0,17,$$$,Italian,"South Cambie, Riley Park","3369 Cambie Street#Vancouver, BC V5Z 2W6#Canada",(604) 873-3131
+286,Jitlada,4.0,87,$$,Thai,"Fairview Slopes, South Granville","1459 W Broadway#Vancouver, BC V6H 1H6#Canada",(604) 738-9888
+287,Fatty Papa,3.5,29,$$,Japanese#Juice Bars & Smoothies#Asian Fusion,West End,"1226 Robson Street#Vancouver, BC V6E 1C1#Canada",(778) 379-1230
+288,Gurkha Himalayan Kitchen,4.0,106,$$,Himalayan/Nepalese,West End,"1141 Davie Street#Vancouver, BC V6E 1N2#Canada",(604) 565-7965
+289,Los Amigos Taqueria,4.0,58,$,Mexican,West End,"1118 Davie Street#Vancouver, BC V6E 1N1#Canada",(604) 559-0220
+290,Cardero’s Restaurant &amp; Marine Pub,3.5,338,$$$,Seafood#Cajun/Creole#Canadian (New),"Coal Harbour, Downtown","1583 Coal Harbour Quay#Vancouver, BC V6G 3E7#Canada",(604) 669-7666
+291,Café Salade de Fruits,4.0,127,$$,French,"Fairview Slopes, South Granville","1555 W 7th Avenue#Vancouver, BC V6J 1S1#Canada",(604) 714-5987
+292,Dixie’s BBQ,4.0,50,$$,Barbeque,Downtown Eastside,"337 E Hastings Street#Vancouver, BC V6A 1P3#Canada",(778) 379-4770
+293,Corduroy,4.0,55,$$,Pizza#Lounges,Kitsilano,"1943 Cornwall Ave#Vancouver, BC V6J#Canada",(604) 733-0162
+294,Mirchi Restaurant,4.5,74,$$,Indian,Marpole,"7964 Granville Street#Vancouver, BC V6P 4Z2#Canada",(604) 266-7000
+295,Tractor,4.5,20,$$,Salad#Soup#Sandwiches,Downtown,"547 Robson Street#Vancouver, BC V6B 2B7#Canada",
+296,Bistro Wagon Rouge,4.0,42,$$,French,Grandview-Woodlands,"1869 Powell Street#Vancouver, BC V5L 1H9#Canada",(604) 251-4070
+297,Kintaro Ramen,3.5,673,$,Ramen#Noodles,West End,"788 Denman Street#Vancouver, BC V6G 2L5#Canada",(604) 682-7568
+298,LIFT Bar Grill View,3.5,170,$$$,Seafood#Bars,Coal Harbour,"333 Menchions Mews#Vancouver, BC V6G 3H5#Canada",(604) 689-5438
+299,Wang’s Shanghai Cuisine,4.0,50,$,Soup#Chinese,"Killarney, Renfrew-Collingwood","3328 Kingsway#Vancouver, BC V5T 5L1#Canada",(604) 428-6818
+300,Bali Thai,4.5,43,$,Indonesian,Downtown,"88 W Pender Street#Vancouver, BC V6B 1R3#Canada",(604) 291-7990
+301,Sushi Bar Maumi,4.5,82,$$$,Japanese#Sushi Bars,West End,"1226 Bute Street#Vancouver, BC V6E 1Z8#Canada",(604) 609-2286
+302,Maenam,3.5,225,$$,Thai,Kitsilano,"1938 W 4th Avenue#Vancouver, BC V6J 1M5#Canada",(604) 730-5579
+303,D’oro Gelato e Caffè,4.0,127,$,Ice Cream & Frozen Yogurt#Cafes,West End,"1222 Robson Street#Vancouver, BC V6E 1C1#Canada",(604) 694-0108
+304,The Tuck Shoppe,4.5,19,$$,Bars#Sandwiches#Salad,Strathcona,"237 Union Street#Vancouver, BC V6A 4C3#Canada",(604) 620-6773
+305,Kobob Burger,4.0,72,$,Burgers#Korean,"Downtown, Strathcona","1019 Main Street#Vancouver, BC V6A 2V8#Canada",(604) 569-3939
+306,Kyuzo Japanese Restaurant,3.5,13,$$,Japanese,"Kerrisdale, Shaughnessy","5701 Granville Street#Vancouver, BC V6M 4J7#Canada",(604) 620-9979
+307,The Flying Pig,3.5,105,$$,Canadian (New),Mount Pleasant,"127 W 2nd Avenue#Vancouver, BC V5T 1B4#Canada",(604) 569-1111
+308,Petra Cafe,4.0,12,$,Mediterranean,UBC,"5728 University Boulevard#Vancouver, BC V6T#Canada",(604) 221-8883
+309,O! Taho,4.5,16,$$,Filipino,"Riley Park, Kensington-Cedar Cottage","4223 Fraser Street#Vancouver, BC V5V 4G2#Canada",(604) 720-9604
+310,Mikan Cafe,4.5,12,$$,Desserts#Poutineries#Sandwiches,Mount Pleasant,"670 E Broadway#Vancouver, BC V5T 1X6#Canada",(778) 379-1255
+311,Rodney’s Oyster House Gastown,4.0,147,$$,Seafood#Live/Raw Food,"Downtown, Gastown","52 Powell Street#Vancouver, BC V6A 1E7#Canada",(604) 685-2005
+312,Mak N Ming,4.0,9,$$$$,Japanese#Asian Fusion,Kitsilano,"1629 Yew Street#Vancouver, BC V6K 3E6#Canada",(604) 737-1155
+313,Baker &amp; Table Cafe Bakery,4.0,19,$,Desserts#Bakeries#Sandwiches,Sunset,"6414 Fraser Street#Vancouver, BC V5W 3A4#Canada",(604) 558-3233
+314,Fat Mao Noodles,3.5,83,$$,Asian Fusion#Noodles,"Chinatown, Strathcona","217 E Georgia Street#Vancouver, BC V6A 1Z6#Canada",(604) 569-8192
+315,Deja Brew,4.5,31,$$,Coffee & Tea#Soup#Sandwiches,Fairview Slopes,"943 W Broadway#Vancouver, BC V5Z 4E1#Canada",(604) 558-3113
+316,Yolk’s Restaurant And Commissary,4.0,266,$$,Breakfast & Brunch,"Strathcona, Downtown Eastside","1298 E Hastings Street#Vancouver, BC V6A 1S6#Canada",(604) 428-9655
+317,Cactus Club Cafe,3.5,162,$$,Cafes#Canadian (New),West End,"1790 Beach Avenue#Vancouver, BC V6E 1V3#Canada",(604) 681-2582
+318,East is East,4.0,322,$$,Middle Eastern#Indian#Vegetarian,Riley Park,"4433 Main Street#Vancouver, BC V5V 3R2#Canada",(604) 565-4401
+319,Jamaican Pizza Jerk,4.5,23,$$,Pizza#Caribbean,Kensington-Cedar Cottage,"2707 Commercial Drive#Vancouver, BC V5N 4C5#Canada",(604) 876-3343
+320,Hubbub,4.0,194,$,Sandwiches#Salad#Soup,Downtown,"859 Hornby Street#Vancouver, BC V6Z 1T9#Canada",(604) 568-3398
+321,Ash Street Bistro,4.5,5,$$,Canadian (New),"Oakridge, South Cambie","611 W 41st Avenue#Vancouver, BC V5Z#Canada",(604) 240-8550
+322,O’Love Bistro,4.0,10,Null,Mediterranean,"Coal Harbour, Downtown","1050 W Pender Street#Vancouver, BC V7X#Canada",(604) 563-5691
+323,Yolks,3.5,164,$$,Coffee & Tea#Breakfast & Brunch,Fairview Slopes,"546 W Broadway#Vancouver, BC V5Z 1E9#Canada",(604) 559-9655
+324,Off The Grid Waffles,4.0,95,$,Coffee & Tea#Pizza#Waffles,Renfrew-Collingwood,"2665 Kingsway#Vancouver, BC V5R 5H4#Canada",(604) 339-5125
+325,Breka Bakery &amp; Cafe,4.0,145,$,Cafes#Bakeries#Patisserie/Cake Shop,West End,"812 Bute Street#Vancouver, BC V6E 1Y4#Canada",(604) 620-8200
+326,Gotham Steakhouse &amp; Bar,4.0,245,$$$$,Steakhouses#Cocktail Bars#Seafood,Downtown,"615 Seymour Street#Vancouver, BC V6B 3K3#Canada",(604) 605-8282
+327,Axum Restaurant,4.5,38,$$,Ethiopian,"Strathcona, Downtown Eastside","1279 E Hastings Street#Vancouver, BC V6A 1S4#Canada",(604) 253-2986
+328,Bandidas Taqueria,4.0,382,$$,Mexican#Vegetarian#Breakfast & Brunch,Kensington-Cedar Cottage,"2781 Commercial Drive#Vancouver, BC V5N 4C5#Canada",(604) 568-8224
+329,Ha Long Bay,4.0,108,$,Vietnamese#Noodles,Downtown,"430 W Pender Street#Vancouver, BC V6B 1T1#Canada",(604) 568-7976
+330,Men-No Kura,4.0,64,$$,Ramen#Noodles,West End,"1773 Robson Street#Vancouver, BC V6G 1C9#Canada",(778) 379-5872
+331,El Pulgarcito,4.0,68,$,Mexican#Salvadoran,Hastings-Sunrise,"2522 E Hastings Street#Vancouver, BC V5K 1Z3#Canada",(604) 568-8591
+332,Sumac Cafe,4.5,17,$$,Mediterranean,West End,"1230 Davie Street#Vancouver, BC V6E 1N3#Canada",(604) 336-0256
+333,Royal Dinette,4.0,60,$$$,French,Downtown,"905 Dunsmuir Street#Vancouver, BC V6C 1A8#Canada",(604) 974-8077
+334,Nightingale,4.0,115,$$$,Live/Raw Food#Canadian (New),"Coal Harbour, Downtown","1017 West Hastings Street#Vancouver, BC V6E 0C4#Canada",(604) 695-9500
+335,Xi Yan Seafood Restaurant,5.0,3,$$,Seafood#Chinese,"Kerrisdale, Shaughnessy","5701 Granville Street#Vancouver, BC V6M 4J7#Canada",(778) 379-2218
+336,Sushi Taku,4.0,33,$$,Japanese#Sushi Bars,Renfrew-Collingwood,"4902 Joyce Street#Vancouver, BC V5R 4G6#Canada",(604) 454-1023
+337,Virtuous Pie,4.5,80,$$,Pizza#Vegan#Ice Cream & Frozen Yogurt,Chinatown,"583 Main Street#Vancouver, BC V6A 2V1#Canada",(604) 620-0060
+338,The Diner,4.0,36,$$,Diners#Seafood#British,Point Grey,"4556 10th Avenue W#Vancouver, BC V6R 2J1#Canada",(604) 224-1912
+339,Rosemary Rocksalt,4.0,104,$,Bagels#Breakfast & Brunch#Sandwiches,Mount Pleasant,"2515 Main Street#Vancouver, BC V5T 3E5#Canada",(604) 874-4570
+340,Le Crocodile Restaurant,4.5,278,$$$$,French,"West End, Downtown","909 Burrard Street#Vancouver, BC V6Z 2N2#Canada",(604) 669-4298
+341,Canra Srilankan Cuisine,4.5,100,$,Sri Lankan,Downtown,"88 W Pender Street#Vancouver, BC V6B 6N9#Canada",(604) 568-3545
+342,The Keg,4.0,10,$$$,Bars#Steakhouses,Granville Island/False Creek,"151 Duranleau Street#Vancouver, BC V6H 3W7#Canada",
+343,The Sandbar Seafood Restaurant,3.5,435,$$$,Seafood#Sushi Bars#Music Venues,Granville Island/False Creek,"1535 Johnston Street#Vancouver, BC V6H 3R9#Canada",(604) 669-9030
+344,Russet Shack,4.0,23,$,British#Irish#Fast Food,"Downtown, Yaletown","288 Robson street#Vancouver, BC V6B 6A1#Canada",(604) 683-0374
+345,Green Leaf Sushi,4.0,180,$$,Sushi Bars#Japanese,Kitsilano,"3416 W Broadway#Vancouver, BC V6R 2B3#Canada",(604) 568-9406
+346,Catch 122,4.0,305,$$,Breakfast & Brunch#Canadian (New),"Downtown, Downtown Eastside","122 W Hastings Street#Vancouver, BC V6B 1G8#Canada",(604) 731-3474
+347,WildTale Coastal Grill,3.5,112,$$,Canadian (New)#Seafood,"Downtown, Yaletown","1079 Mainland Street#Vancouver, BC V6B#Canada",(604) 428-9211
+348,Shiro,4.0,177,$$,Japanese#Sushi Bars,Fairview Slopes,"3096 Cambie Street#Vancouver, BC V5Z 2V9#Canada",(604) 874-0027
+349,Aotoya Japanese Restaurant,4.0,46,$$,Japanese,Fraserview,"6543 Victoria Drive#Vancouver, BC V5P 3X9#Canada",(604) 327-1158
+350,Maxim’s Restaurant,4.0,16,$$,Chinese#Asian Fusion,Chinatown,"257 Keefer St#Vancouver, BC V6A 1X6#Canada",(604) 687-0949
+351,Sawasdee Thai Restaurant,4.0,209,$$,Thai#Salad#Seafood,Riley Park,"4250 Main Street#Vancouver, BC V5V 3P9#Canada",(604) 876-4030
+352,Dang Anh Cafe,4.5,14,$,Vietnamese,Kensington-Cedar Cottage,"5186 Victoria Drive#Vancouver, BC V5P 3V3#Canada",(778) 379-7977
+353,The Northern Cafe &amp; Grill,4.5,22,$,American (Traditional),Fraserview,"1640 East Kent Avenue#Vancouver, BC V5P 2S7#Canada",(604) 313-8118
+354,Catch 122,4.0,305,$$,Breakfast & Brunch#Canadian (New),"Downtown, Downtown Eastside","122 W Hastings Street#Vancouver, BC V6B 1G8#Canada",(604) 731-3474
+355,Burdock,3.5,111,$$,Tapas Bars#French,Mount Pleasant,"2702 Main Street#Vancouver, BC V5T 3E8#Canada",(604) 879-0077
+356,Falafel Cafe,4.5,48,$,Mediterranean,Kensington-Cedar Cottage,"1385 Kingsway#Vancouver, BC V5V 4Y6#Canada",(604) 428-4721
+357,Hitoe Sushi Japanese Restaurant,4.0,133,$$,Japanese#Sushi Bars#Gluten-Free,Kitsilano,"3347 W 4th Avenue#Vancouver, BC V6R 1N6#Canada",(778) 371-4619
+358,Gigi Blin,4.5,37,$,Cafes#Coffee & Tea#Bakeries,Marpole,"1400 W 70th Avenue#Vancouver, BC V6P 2Z2#Canada",
+359,Canra Srilankan Cuisine,4.5,100,$,Sri Lankan,Downtown,"88 W Pender Street#Vancouver, BC V6B 6N9#Canada",(604) 568-3545
+360,East Is East,4.0,205,$$,Indian#Afghan,Kitsilano,"3243 W Broadway#Vancouver, BC V6K 2H5#Canada",(604) 734-5881
+361,Yek O Yek,4.0,33,$,Middle Eastern#Delis#Persian/Iranian,Mount Pleasant,"3046 Main Street#Vancouver, BC V5T 3G5#Canada",(604) 877-0139
+362,Heart Stock Noodle &amp; Tea,3.5,26,$,Vietnamese#Desserts#Tea Rooms,"Granville Island/False Creek, Fairview Slopes","1542 W 2nd Avenue#Vancouver, BC V6J 1H2#Canada",(604) 563-6580
+363,Lost + Found Café,4.5,82,$,Cafes#Coffee & Tea#Sandwiches,"Downtown, Downtown Eastside","33 W Hastings Street#Vancouver, BC V6B 1G4#Canada",(604) 559-7444
+364,WildTale Coastal Grill,3.5,112,$$,Canadian (New)#Seafood,"Downtown, Yaletown","1079 Mainland Street#Vancouver, BC V6B#Canada",(604) 428-9211
+365,JINYA Ramen Bar,3.5,90,$$,Ramen,"Kerrisdale, Arbutus Ridge","2129 West 41st Ave#Vancouver, BC V6M 1Z6#Canada",(778) 379-8889
+366,Kimu Japanese Cuisine,4.0,50,$$,Japanese#Sushi Bars,Renfrew-Collingwood,"4441 Boundary Road#Vancouver, BC V5R 2N3#Canada",(604) 563-0722
+367,Nicli Antica Pizzeria,4.0,291,$$,Italian#Pizza,"Downtown, Gastown","62 E Cordova Street#Vancouver, BC V6A 1K2#Canada",(604) 669-6985
+368,Toko Foods,3.5,30,$,Chinese#Asian Fusion,Mount Pleasant,"223 W 7th Avenue#Vancouver, BC V5Y 1L9#Canada",(604) 879-0701
+369,Trafiq Cafe &amp; Bakery,4.5,137,$$,Cafes#Bakeries#Coffee & Tea,Riley Park,"4216 Main Street#Vancouver, BC V5V 3R1#Canada",(604) 648-2244
+370,Haru Korean Kitchen,3.5,21,$$,Korean,"Downtown, Gastown","324 Cambie Street#Vancouver, BC V6B 2N3#Canada",(778) 379-9488
+371,The Morrissey Pub,4.0,134,$$,Pubs#Irish,"Downtown, Granville Entertainment District","1227 Granville Street#Vancouver, BC V6Z 1M5#Canada",(604) 682-0909
+372,A Bread Affair,4.0,37,$,Bakeries#Sandwiches,Granville Island/False Creek,"1680 Johnston Street#Vancouver, BC V6H 3S2#Canada",(604) 695-0000
+373,Off the Tracks Espresso Bar and Bistro,4.0,25,$$,Cafes#Coffee & Tea#Breakfast & Brunch,Granville Island/False Creek,"1363 Railspur Alley#Vancouver, BC V6H 3R7#Canada",(604) 689-8700
+374,Calabash Bistro,4.0,227,$$,Caribbean,Downtown Eastside,"428 Carrall Street#Vancouver, BC V6B 2J7#Canada",(604) 568-5882
+375,The Bakeshop,5.0,22,$$,Bakeries#Desserts#Sandwiches,Arbutus Ridge,"4021 MacDonald Street#Vancouver, BC V6L 2N8#Canada",(604) 738-4228
+376,Peaked Pies,4.5,42,$,Australian#Bakeries#Fast Food,West End,"975 Denman Street#Vancouver, BC V6G#Canada",(778) 379-5612
+377,Nuba Mount Pleasant,3.5,111,$$,Mediterranean#Lebanese,Mount Pleasant,"146 E 3rd Avenue#Vancouver, BC V5T 1C8#Canada",(604) 568-6727
+378,Barra 41,4.5,10,$$,Mediterranean#Cocktail Bars#Salad,"Kerrisdale, Arbutus Ridge","2407 W 41st Avenue#Vancouver, BC V6M 2A5#Canada",(604) 263-1774
+379,Tokyo Thyme,4.0,52,$$,Japanese#Sushi Bars,"Kerrisdale, Arbutus Ridge","5405 West Boulevard#Vancouver, BC V6M 3W5#Canada",(604) 263-3262
+380,Dixie’s BBQ,4.0,50,$$,Barbeque,Downtown Eastside,"337 E Hastings Street#Vancouver, BC V6A 1P3#Canada",(778) 379-4770
+381,Harambe Restaurant,4.0,83,$$,Ethiopian#African,"Grandview-Woodlands, The Drive","2149 Commercial Drive#Vancouver, BC V5N 4B3#Canada",(604) 216-1060
+382,City Side Winery,4.5,15,$$,Wine Tasting Room#Tapas/Small Plates#Lounges,Mount Pleasant,"328 W 2nd Avenue#Vancouver, BC V5Y 1C8#Canada",(604) 428-6072
+383,Hoi An Cafe,4.0,68,$,Vietnamese,Kensington-Cedar Cottage,"5002 Victoria Drive#Vancouver, BC V5P 3T8#Canada",(604) 566-9283
+384,Dock Lunch,4.0,17,$$,Southern,Mount Pleasant,"152 E 11th Avenue#Vancouver, BC V5T 2C2#Canada",(604) 879-3625
+385,JINYA Ramen Bar,3.5,90,$$,Ramen,"Kerrisdale, Arbutus Ridge","2129 West 41st Ave#Vancouver, BC V6M 1Z6#Canada",(778) 379-8889
+386,Gotham Steakhouse &amp; Bar,4.0,245,$$$$,Steakhouses#Cocktail Bars#Seafood,Downtown,"615 Seymour Street#Vancouver, BC V6B 3K3#Canada",(604) 605-8282
+387,Calabash Bistro,4.0,227,$$,Caribbean,Downtown Eastside,"428 Carrall Street#Vancouver, BC V6B 2J7#Canada",(604) 568-5882
+388,Aotoya Japanese Restaurant,4.0,46,$$,Japanese,Fraserview,"6543 Victoria Drive#Vancouver, BC V5P 3X9#Canada",(604) 327-1158
+389,Pepper Lunch,3.5,38,$$,Japanese#Steakhouses,Fairview Slopes,"2323 Cambie Street#Vancouver, BC V5Z 2T9#Canada",(778) 379-5138
+390,Tatsu Japanese Bistro,4.0,125,$$,Japanese#Sushi Bars,"Grandview-Woodlands, The Drive","1441 Commercial Drive#Vancouver, BC V5L 3X8#Canada",(604) 558-2285
+391,Yama Sushi,4.0,32,$,Sushi Bars#Japanese,Lynn Valley,"1232 Ross Road#Vancouver, BC V7K 1C7#Canada",(604) 988-0082
+392,Pho Goodness,4.0,128,$,Vietnamese#Noodles,West End,"1150 Davie Street#Vancouver, BC V6E 1N1#Canada",(604) 568-3253
+393,Adesso Bistro,4.0,108,$$$,Italian#Cocktail Bars,West End,"1906 Haro Street#Vancouver, BC V6G 1H7#Canada",(604) 568-9975
+394,Jitlada,4.0,87,$$,Thai,"Fairview Slopes, South Granville","1459 W Broadway#Vancouver, BC V6H 1H6#Canada",(604) 738-9888
+395,Vij’s Restaurant,4.0,124,$$$,Indian,Mount Pleasant,"3106 Cambie Street#Vancouver, BC V5Z 2W2#Canada",(604) 736-6664
+396,Hy’s Steakhouse &amp; Cocktail Bar,4.0,197,$$$$,Steakhouses#Cocktail Bars#Seafood,Downtown,"637 Hornby Street#Vancouver, BC V6C 2G3#Canada",(604) 683-7671
+397,Dang Anh Cafe,4.5,14,$,Vietnamese,Kensington-Cedar Cottage,"5186 Victoria Drive#Vancouver, BC V5P 3V3#Canada",(778) 379-7977
+398,Hitoe Sushi Japanese Restaurant,4.0,133,$$,Japanese#Sushi Bars#Gluten-Free,Kitsilano,"3347 W 4th Avenue#Vancouver, BC V6R 1N6#Canada",(778) 371-4619
+399,Ukrainian Village,4.0,107,$$,Ukrainian,West End,"815 Denman Street#Vancouver, BC V6G 2L7#Canada",(604) 687-7440
+400,The Bakeshop,5.0,22,$$,Bakeries#Desserts#Sandwiches,Arbutus Ridge,"4021 MacDonald Street#Vancouver, BC V6L 2N8#Canada",(604) 738-4228
+401,Chili Pepper House,4.0,93,$$,Chinese#Asian Fusion,Renfrew-Collingwood,"3003 Kingsway#Vancouver, BC V5R 5J6#Canada",(604) 431-8633
+402,Maxim’s Restaurant,4.0,16,$$,Chinese#Asian Fusion,Chinatown,"257 Keefer St#Vancouver, BC V6A 1X6#Canada",(604) 687-0949
+403,Boulevard Kitchen &amp; Oyster Bar,3.5,127,$$$,Seafood#Steakhouses#Bars,Downtown,"845 Burrard Street#Vancouver, BC V6Z 2K7#Canada",(604) 642-2900
+404,Ha Long Bay,4.0,108,$,Vietnamese#Noodles,Downtown,"430 W Pender Street#Vancouver, BC V6B 1T1#Canada",(604) 568-7976
+405,The Naam,3.5,456,$$,Vegetarian#Burgers#Mexican,Kitsilano,"2724 W 4th Avenue#Vancouver, BC V6K 1R1#Canada",(604) 738-7151
+406,Burdock,3.5,111,$$,Tapas Bars#French,Mount Pleasant,"2702 Main Street#Vancouver, BC V5T 3E8#Canada",(604) 879-0077
+407,West Restaurant,4.0,194,$$$$,Seafood#Canadian (New)#Steakhouses,"Fairview Slopes, South Granville","2881 Granville Street#Vancouver, BC V6H 3J4#Canada",(604) 738-8938
+408,The Kitchen,3.5,17,$$,Korean,Point Grey,"2620 Sasamat Street#Vancouver, BC V6R 2J1#Canada",(604) 261-5353
+409,Nuba Mount Pleasant,3.5,111,$$,Mediterranean#Lebanese,Mount Pleasant,"146 E 3rd Avenue#Vancouver, BC V5T 1C8#Canada",(604) 568-6727
+410,The Galley,3.5,28,$$,American (Traditional),Point Grey,"1300 Discovery Street#Vancouver, BC V6R 4L9#Canada",(604) 222-1331
+411,King’s Cafe,4.5,18,$,Wine Bars#Cafes,Kensington-Cedar Cottage,"2223 Kingsway#Vancouver, BC V5N 2T6#Canada",(604) 434-5764
+412,NSCS Discovery Cafe,4.5,12,$,American (Traditional),Point Grey,"1515 Discovery Street#Vancouver, BC V6R 4L9#Canada",(604) 356-2068
+413,Hyoga Japanese Cuisine,4.0,60,$$,Japanese#Sushi Bars,"Killarney, Renfrew-Collingwood","3343 Kingsway#Vancouver, BC V5R 5K6#Canada",(604) 438-0066
+414,Jasmine Flower Shanghai,5.0,Null,Null,Chinese,Marpole,"8532 Granville Street#Vancouver, BC V6P 4Z7#Canada",(604) 264-7663
+415,Giardino,4.0,60,$$$,Italian,Downtown,"1328 Hornby Street#Vancouver, BC V6Z 1W5#Canada",(604) 669-2422
+416,L’ufficio,4.5,3,$$$$,Wine Bars#Italian#Tapas/Small Plates,"Point Grey, Kitsilano","3687 W 4th Avenue#Vancouver, BC V6R 1P2#Canada",(604) 676-1007
+417,Dosa Corner,4.0,58,$$,Indian,Sunset,"8248 Fraser Street#Vancouver, BC V5X 3X6#Canada",(604) 324-3672
+418,Gigi Blin,4.5,37,$,Cafes#Coffee & Tea#Bakeries,Marpole,"1400 W 70th Avenue#Vancouver, BC V6P 2Z2#Canada",
+419,Tsuki Sushi Bar,4.0,133,$$,Sushi Bars#Japanese,Downtown,"509 Abbott Street#Vancouver, BC V6B 6N7#Canada",(604) 558-3805
+420,Gia Minh,4.0,24,$,Vietnamese#Noodles,Sunset,"6181 Fraser Street#Vancouver, BC V5W 2Z9#Canada",(604) 301-0281
+421,The Uncommon Cafe,4.5,5,$$,Cafes#Caterers,Downtown Eastside,"477 Powell Street#Vancouver, BC V6A 1G7#Canada",(604) 254-0477
+422,NOVO Pizzeria &amp; Wine Bar,4.0,90,$$,Wine Bars#Pizza#Italian,Fairview Slopes,"2118 Burrard Street#Vancouver, BC V6J 3H6#Canada",(604) 736-2220
+423,King’s Cafe,4.5,18,$,Wine Bars#Cafes,Kensington-Cedar Cottage,"2223 Kingsway#Vancouver, BC V5N 2T6#Canada",(604) 434-5764
+424,La Quercia,4.0,147,$$$,Italian#Wine Bars,"Point Grey, Kitsilano","3689 W 4th Avenue#Vancouver, BC V6R 1P2#Canada",(604) 676-1007
+425,Havana,3.5,241,$$,Latin American#Cuban#Breakfast & Brunch,"Grandview-Woodlands, The Drive","1212 Commercial Drive#Vancouver, BC V5L 3X4#Canada",(604) 253-9119
+426,La Grotta Del Formaggio,4.5,131,$,Delis#Sandwiches#Italian,"Grandview-Woodlands, The Drive","1791 Commercial Drive#Vancouver, BC V5N 4A4#Canada",(604) 255-3911
+427,Soffee Café,4.5,32,$$,Coffee & Tea#Cafes,"Fairview Slopes, South Granville","1426 W 8th Avenue#Vancouver, BC V6H 1E1#Canada",(604) 736-6668
+428,Salam Bombay,4.0,195,$$,Indian,Downtown,"755 Burrard Street#Vancouver, BC V6Z 1X6#Canada",(604) 681-6300
+429,Prospect Point,3.5,50,$$,Cafes#Canadian (New),West End,"5601 Stanley Park Drive#Vancouver, BC V6G 1Z4#Canada",(604) 669-2737
+430,Kinemi’s Kitchen,4.0,55,$$,Pizza#Italian#Asian Fusion,"Killarney, Champlain Heights","7751 Champlain Crescent#Vancouver, BC V5S 4J6#Canada",(604) 434-2868
+431,Duke’s on Broadway,4.0,33,$,Sandwiches#Coffee & Tea#Juice Bars & Smoothies,Fairview Slopes,"736 W Broadway#Vancouver, BC V5Z 1G8#Canada",(604) 876-3853
+432,Pho Xe Lua 24,4.0,69,$$,Vietnamese#Noodles,"South Cambie, Riley Park","3346 Cambie Street#Vancouver, BC V5Y 2A1#Canada",(604) 876-6618
+433,The Kitchen Table,3.0,17,$$,Canadian (New)#Gastropubs,Kitsilano,"1618 Yew Street#Vancouver, BC V6K 3E7#Canada",(604) 738-6966
+434,Tap &amp; Barrel - Olympic Village,3.0,318,$$,Comfort Food#Bars,Granville Island/False Creek,"1 Athletes Way#Vancouver, BC V5Y 0B1#Canada",(604) 685-2223
+435,Afghan Horsemen Restaurant,3.5,143,$$,Afghan,Granville Island/False Creek,"1833 Anderson Street#Vancouver, BC V6H 4E5#Canada",(604) 873-5923
+436,Uva Wine &amp; Cocktail Bar,4.0,133,$$,Wine Bars#Italian#Cocktail Bars,"Downtown, Granville Entertainment District","900 Seymour St#Vancouver, BC V6B 3L9#Canada",(604) 632-9560
+437,Bufala,3.5,83,$$,Pizza#Italian,"Kerrisdale, Arbutus Ridge","5395 West Blvd#Vancouver, BC V6M 3W4#Canada",(604) 267-7499
+438,Patisserie Lebeau,4.5,93,$$,Bakeries#Waffles#Patisserie/Cake Shop,Fairview Slopes,"1728 W 2nd Avenue#Vancouver, BC V6J 1H6#Canada",(604) 731-3528
+439,Sushi By Yuji,4.0,83,$$,Japanese#Sushi Bars,Kensington-Cedar Cottage,"2252 Kingsway#Vancouver, BC V5N 2T7#Canada",(604) 434-0003
+440,Paul’s Omelettery Restaurant,4.0,208,$$,Breakfast & Brunch#Diners#Comfort Food,"Fairview Slopes, South Granville","2211 Granville Street#Vancouver, BC V6H 3G1#Canada",(604) 737-2857
+441,The Farmer’s Apprentice,3.5,139,$$$,French#Asian Fusion,"Fairview Slopes, South Granville","1535 W 6th Avenue#Vancouver, BC V6H 3G1#Canada",(604) 620-2070
+442,Fliptop Filipino Fusion,4.5,32,$,Food Trucks#Filipino,"Fairview Slopes, South Granville","Granville St and W 10th Ave#Vancouver, BC V6H#Canada",(778) 986-3547
+443,Au Petit Café,4.0,177,$,Vietnamese#Sandwiches,Riley Park,"4851 Main Street#Vancouver, BC V5V 3R9#Canada",(604) 873-3328
+444,Lin Chinese Cuisine And Tea House,3.5,175,$$,Chinese,"Fairview Slopes, South Granville","1537 W Broadway#Vancouver, BC V6J 1W6#Canada",(604) 733-9696
+445,Devil’s Elbow Ale &amp; Smoke House,3.5,110,$$,Gastropubs,Downtown,"562 Beatty Street#Vancouver, BC V6B 2L3#Canada",(604) 559-0611
+446,Landmark Hotpot House,4.0,80,$$$,Chinese#Hot Pot,South Cambie,"4023 Cambie Street#Vancouver, BC V5Z 2X9#Canada",(604) 872-2868
+447,The Yale Saloon,3.5,34,$$,Barbeque#Bars#Dance Clubs,"Downtown, Granville Entertainment District","1300 Granville Street#Vancouver, BC V6Z 1M7#Canada",(604) 428-9253
+448,Ki-Isu Japanese Restaurant,5.0,2,Null,Japanese,Downtown,"530 Hornby Street#Vancouver, BC V6C 3B6#Canada",(604) 558-3116
+449,Trattoria Kitchen,3.5,188,$$,Italian,Kitsilano,"1850 W 4th Avenue#Vancouver, BC V6J 1M3#Canada",(604) 732-1441
+450,Molli Cafe,4.5,94,$,Coffee & Tea#Mexican,Downtown,"1225 Burrard Street#Vancouver, BC V6Z 1Z5#Canada",(604) 336-6554
+451,Koala Kebabs Donairs,4.5,42,$,Donairs#Halal#Turkish,Downtown,"519 W Pender Street#Vancouver, BC V6B 1V5#Canada",(604) 569-0052
+452,Hida Takayama Ramen,4.0,126,$,Ramen#Noodles,West End,"1610 Robson Street#Vancouver, BC V6G 1C7#Canada",(604) 633-1884
+453,Teppan Kitchen,4.0,6,Null,Japanese#Fast Food,Downtown,"555 West Hastings Street#Vancouver, BC V6B 4N4#Canada",(778) 379-1988
+454,Japadog,4.0,515,$,Hot Dogs#Food Stands,Downtown,"530 Robson Street#Vancouver, BC V6B 2B7#Canada",(604) 569-1158
+455,The Arbor,4.0,43,$$,Vegetarian#Vegan,Riley Park,"3941 Main Street#Vancouver, BC V5V 3P2#Canada",(604) 620-3256
+456,Al Buco,5.0,15,$$,Pizza,Hastings-Sunrise,"2638 E Hastings street#Vancouver, BC V5K 1Z6#Canada",(604) 253-0765
+457,Pho Goodness,4.0,40,$$,Vietnamese#Noodles,Mount Pleasant,"3079 Main Street#Vancouver, BC V5T 3G6#Canada",(604) 620-7727
+458,Cinara,4.0,36,$$$,Modern European#Tapas Bars,Downtown,"350 W Pender Street#Vancouver, BC V6B 1T1#Canada",(604) 428-9694
+459,Papparoti,4.5,3,$,Cafes,Downtown,"193 Keefer Place#Vancouver, BC V6B 6C1#Canada",(604) 620-2867
+460,Deja Brew,4.5,31,$$,Coffee & Tea#Soup#Sandwiches,Fairview Slopes,"943 W Broadway#Vancouver, BC V5Z 4E1#Canada",(604) 558-3113
+461,Chef Hung Taiwanese Beef Noodle,3.0,38,$$,Taiwanese#Chinese#Noodles,UBC,"3313 Shrum Lane#Vancouver, BC V6S 0C8#Canada",(604) 228-8765
+462,Nightingale,4.0,115,$$$,Live/Raw Food#Canadian (New),"Coal Harbour, Downtown","1017 West Hastings Street#Vancouver, BC V6E 0C4#Canada",(604) 695-9500
+463,Guu Garden,3.5,170,$$,Japanese#Tapas/Small Plates,Downtown,"888 Nelson Street#Vancouver, BC V6Z 2H2#Canada",(604) 899-0855
+464,Kofta Meatball Kitchen,4.0,21,$$,Canadian (New)#American (Traditional),"Downtown, Gastown","320 Cambie Street#Vancouver, BC V6B 2N3#Canada",(604) 688-9925
+465,ZAC.ZAC Japanese Curry House,4.0,55,$,Japanese#Fast Food,Downtown,"590 Robson Street#Vancouver, BC V6B 2B7#Canada",(604) 608-2887
+466,Afghan Horsemen Restaurant,3.5,143,$$,Afghan,Granville Island/False Creek,"1833 Anderson Street#Vancouver, BC V6H 4E5#Canada",(604) 873-5923
+467,Vij’s Restaurant,4.0,124,$$$,Indian,Mount Pleasant,"3106 Cambie Street#Vancouver, BC V5Z 2W2#Canada",(604) 736-6664
+468,Mitra Canteen,4.0,53,$,Mediterranean#Halal,Mount Pleasant,"3034 Main St#Vancouver, BC V5T 3G5#Canada",(604) 874-9820
+469,Shinbo Tofu,5.0,Null,Null,Japanese,Marpole,"954 Marine Drive SW#Vancouver, BC V6P 5Z2#Canada",
+470,The Heatley,3.0,35,$$,Pubs#Diners,Downtown Eastside,"696 E Hastings Street#Vancouver, BC V6A 1R1#Canada",(604) 336-3958
+471,Mr Shawarma,4.0,36,$,Middle Eastern#Food Trucks,Downtown,"655 Burrard Street#Vancouver, BC V6C 2R7#Canada",(604) 569-1644
+472,Taste of Thai,4.0,41,$$,Thai,Kitsilano,"3629 W Broadway#Vancouver, BC V6R 3R8#Canada",(604) 568-8668
+473,Guu Kobachi,4.0,55,$$,Japanese#Tapas/Small Plates,West End,"735 Denman Street#Vancouver, BC V6G 2L6#Canada",(604) 683-0735
+474,Healthy Noodle House,4.5,46,$,Chinese#Noodles,Kitsilano,"2716 W 4th Avenue#Vancouver, BC V6K 3V9#Canada",(778) 371-8371
+475,Basil Pasta Bar,3.5,280,$,Italian,"Downtown, Granville Entertainment District","636 Davie Street#Vancouver, BC V6B#Canada",(604) 568-3106
+476,Beijiang Restaurant,4.0,19,$$,Chinese,"Killarney, Renfrew-Collingwood","3281 Kingsway#Vancouver, BC V5R 5K4#Canada",(604) 725-7887
+477,Pizzeria Farina,4.0,177,$$,Pizza#Bars,"Downtown, Strathcona","915 Main Street#Vancouver, BC V6A 2V8#Canada",(604) 681-9334
+478,Water80 Dim Sum,4.0,8,$,Dim Sum,Fairview Slopes,"555 W 12th Avenue#Vancouver, BC V5Z 3X7#Canada",(604) 992-9666
+479,Juke,3.5,124,$$,American (Traditional)#Salad#Sandwiches,Chinatown,"182 Keefer Street#Vancouver, BC V6A 1X4#Canada",(604) 336-5853
+480,Thai Basil,4.0,8,$,Thai,"Grandview-Woodlands, The Drive","1179 Commercial Drive#Vancouver, BC V5L 3X3#Canada",
+481,Aotoya Japanese Restaurant,4.0,46,$$,Japanese,Fraserview,"6543 Victoria Drive#Vancouver, BC V5P 3X9#Canada",(604) 327-1158
+482,Laurelle’s Fine Foods,4.0,25,$,Bakeries#Delis,Granville Island/False Creek,"1689 Johnston Street#Vancouver, BC V6H 3R9#Canada",(604) 685-8482
+483,Aqua Sushi + Juice Bar,4.0,34,$$,Sushi Bars#Juice Bars & Smoothies#Gluten-Free,Mount Pleasant,"1764 Manitoba Street#Vancouver, BC V5Y 0H1#Canada",(604) 559-9766
+484,Penang Delight Cafe,3.5,74,$$,Malaysian,Marpole,"1316 W 73rd Avenue#Vancouver, BC V6P 4M9#Canada",(604) 559-9898
+485,Oceans 999,3.5,4,$$$,Canadian (New)#Buffets,Downtown,"999 Canada Place, Suite 300#Vancouver, BC V6C 3B5#Canada",(604) 895-2480
+486,Seoul Doogbaegi,3.5,67,$$,Korean,Kensington-Cedar Cottage,"1033 Kingsway#Vancouver, BC V5V#Canada",(604) 879-1515
+487,Scandilicious,4.0,76,$$,Bakeries#Scandinavian#Breakfast & Brunch,Grandview-Woodlands,"25 Victoria Drive#Vancouver, BC V5L 4C1#Canada",(604) 877-2277
+488,Casa Verde Restaurant,4.0,14,$$,Portuguese,Kensington-Cedar Cottage,"3532 Commercial St#Vancouver, BC V5N 4E9#Canada",(604) 876-7647
+489,Tap &amp; Barrel - Convention Centre,3.5,182,$$,Comfort Food,"Coal Harbour, Downtown","1055 Canada Place#Vancouver, BC V6C 0C3#Canada",(604) 235-9827
+490,The Galley,3.5,28,$$,American (Traditional),Point Grey,"1300 Discovery Street#Vancouver, BC V6R 4L9#Canada",(604) 222-1331
+491,Rinconcito Salvadoreno Restaurant,3.5,73,$,Mexican#Salvadoran,"Grandview-Woodlands, The Drive","2062 Commercial Drive#Vancouver, BC V5N 4A9#Canada",(604) 879-2600
+492,Wowderffle,5.0,5,$,Desserts#Sandwiches#Breakfast & Brunch,West End,"1610 Robson Street#Vancouver, BC V6G 1C7#Canada",(604) 669-4931
+493,Pizza 604,4.5,11,$,Pizza#Salad#Sandwiches,Mount Pleasant,"2444 Main Street#Vancouver, BC V5T 3E2#Canada",(604) 559-5600
+494,Sushi Dragon,3.5,58,$,Japanese#Sushi Bars,Fairview Slopes,"614 West Broadway#Vancouver, BC V5Z 1G1#Canada",(604) 879-1889
+495,Sal y Limón,4.0,386,$,Mexican,"Mount Pleasant, Kensington-Cedar Cottage","701 Kingsway#Vancouver, BC V5T 2R7#Canada",(604) 677-4247
+496,Talay Thai Restaurant,4.0,64,$$,Thai,Marpole,"8369 Granville St#Vancouver, BC V6P 4Z8#Canada",(604) 568-2012
+497,Westcoast Darts Cafe,4.5,44,$,Desserts#Cafes,Killarney,"3608 Kingsway#Vancouver, BC V5R 5M2#Canada",(778) 379-9901
+498,Doughgirls,4.5,28,$,Cafes#Bakeries#Comfort Food,UBC,"3322 Shrum Lane#Vancouver, BC V6S 0B1#Canada",(604) 333-5474
+499,Adelitas,4.0,50,$$,Mexican,Kensington-Cedar Cottage,"5178 Victoria Drive#Vancouver, BC V5P 3T8#Canada",(604) 677-1580
+500,Cats Socialhouse,3.0,136,$$,Lounges#Italian,Granville Island/False Creek,"1540 Old Bridge St#Vancouver, BC V6H 3S6#Canada",(604) 647-2287
+501,Blue Moon Cafe,4.0,24,$,Coffee & Tea#Breakfast & Brunch,Fairview Slopes,"1724 W 4th Avenue#Vancouver, BC V6J 1M1#Canada",(604) 738-2656
+502,City 1 Cafe,3.0,57,$$,Malaysian#Singaporean,South Cambie,"954 W King Edward Ave#Vancouver, BC V5Z 2E2#Canada",(604) 569-1199
+503,Japadog,4.0,61,$,Food Stands#Hot Dogs,"Coal Harbour, Downtown","Granville Street and Cordova Street#Vancouver, BC V6C 2R6#Canada",
+504,The Mighty Oak,4.5,24,$$,Coffee & Tea#Cafes#Sandwiches,Riley Park,"198 W 18th Avenue#Vancouver, BC V5Y 2A5#Canada",(604) 243-9322
+505,K Cafe,4.0,10,Null,Coffee & Tea#Cafes,Fairview Slopes,"2533 Heather Street#Vancouver, BC V5Z 3J2#Canada",(778) 737-9295
+506,Dosa Corner,4.0,58,$$,Indian,Sunset,"8248 Fraser Street#Vancouver, BC V5X 3X6#Canada",(604) 324-3672
+507,Le Petit Saigon,4.0,146,$,Vietnamese#Noodles,Hastings-Sunrise,"2783 Hastings Street E#Vancouver, BC V5K 1Z8#Canada",(604) 251-6340
+508,Sakura Cafe,4.5,5,$,Desserts#Coffee & Tea#Sandwiches,"Kitsilano, Fairview Slopes","2389 Burrard Street#Vancouver, BC V6J 3J2#Canada",(778) 379-3188
+509,Passion8 Dessert Cafe,4.0,57,$$,Desserts#Korean#Coffee & Tea,Fairview Slopes,"3010 Cambie Street#Vancouver, BC V5Z 2V9#Canada",(778) 379-8238
+510,Los Cuervos Taqueria Y Cantina,4.0,138,$$,Mexican#Latin American,Mount Pleasant,"603 Kingsway#Vancouver, BC V5T 3K5#Canada",(604) 558-1518
+511,Yagger’s,4.0,76,$$,American (Traditional)#Gastropubs#Sports Bars,Downtown,"433 W Pender Street#Vancouver, BC V6B 1V2#Canada",(604) 602-7030
+512,The Edge Café,4.0,64,$$,Coffee & Tea#Sandwiches#Breakfast & Brunch,Mount Pleasant,"2450 Yukon Street#Vancouver, BC V5Y 0A4#Canada",(604) 876-7228
+513,Chili Pepper House,4.0,93,$$,Chinese#Asian Fusion,Renfrew-Collingwood,"3003 Kingsway#Vancouver, BC V5R 5J6#Canada",(604) 431-8633
+514,Sunlock Garden Restaurant,4.0,24,$$,Chinese,"Riley Park, Kensington-Cedar Cottage","4298 Fraser St#Vancouver, BC V5V 4G2#Canada",(604) 879-4298
+515,Smak,4.0,13,$$,Gluten-Free#Fast Food,Downtown,"545 Granville Street#Vancouver, BC V6E 2P4#Canada",(778) 379-7625
+516,Tartine Bread &amp; Pies,4.0,37,$,Desserts#Bakeries#Sandwiches,West End,"1069 Davie Street#Vancouver, BC V6E 1M5#Canada",(604) 685-7427
+517,Mangal Kiss Mid-East BBQ,4.5,38,$,Barbeque#Middle Eastern#Food Trucks,Downtown,"Georgia &amp; Howe#Vancouver, BC V6Z#Canada",(778) 868-4045
+518,Truffles Fine Foods,4.0,25,$$,Canadian (New)#Barbeque#Breakfast & Brunch,"Downtown, Granville Entertainment District","785 Davie Street#Vancouver, BC V6Z#Canada",(604) 505-4961
+519,Acme Cafe,4.0,266,$$,Diners#Breakfast & Brunch#Desserts,"Downtown, Downtown Eastside","51 W Hastings Street#Vancouver, BC V6B 1G4#Canada",(604) 569-1022
+520,Budgies Burritos,4.0,202,$,Vegetarian#Mexican#Vegan,Mount Pleasant,"44 Kingsway#Vancouver, BC V5T 3H9#Canada",(604) 260-5796
+521,Shaolin Noodle House,3.5,187,$$,Chinese#Noodles,Fairview Slopes,"656 W Broadway#Vancouver, BC V5Z 1G1#Canada",(604) 873-1618
+522,Ho Yuen Kee,3.5,131,$$,Chinese#Seafood,Sunset,"6236 Fraser Street#Vancouver, BC V5W 3A1#Canada",(604) 324-8855
+523,Yagoto Sushi Dining,4.5,43,$$,Sushi Bars#Japanese#Seafood,Kitsilano,"2180 W Broadway#Vancouver, BC V6K#Canada",(604) 559-0022
+524,The Keg Steakhouse + Bar - Granville Island,3.5,108,$$$,Steakhouses#Bars#Seafood,Granville Island/False Creek,"1499 Anderson Street#Vancouver, BC V6H 3R5#Canada",(604) 685-4735
+525,The Roof,4.0,39,$$$,Seafood#Steakhouses#Sandwiches,"West End, Downtown","1032 Alberni Street#Vancouver, BC V6Z 1X6#Canada",(604) 637-0777
+526,NSCS Discovery Cafe,4.5,12,$,American (Traditional),Point Grey,"1515 Discovery Street#Vancouver, BC V6R 4L9#Canada",(604) 356-2068
+527,Stretch Roman Pizza,5.0,3,Null,Pizza#Italian,"Downtown, Downtown Eastside","415 Abbott Street#Vancouver, BC V6B 1R3#Canada",(778) 379-6400
+528,Currents,4.5,4,Null,Breakfast & Brunch,"Coal Harbour, Downtown","1601 Bayshore Drive#Vancouver, BC V6G 2V4#Canada",(604) 691-6966
+529,Fire Pizza,4.0,121,$,Pizza,"Grandview-Woodlands, The Drive","1918 Commercial Drive#Vancouver, BC V5N 4A7#Canada",(604) 253-5607
+530,Harvest Deli,4.5,105,$,Delis#Breakfast & Brunch#Sandwiches,Kitsilano,"2963 W Broadway#Vancouver, BC V6K 2G9#Canada",(604) 739-3354
+531,Zakkushi Dining On Main,4.0,111,$$,Japanese,Riley Park,"4075 Main Street#Vancouver, BC V5V 3P5#Canada",(604) 874-9455
+532,Legendary Noodle House,3.5,168,$$,Chinese#Noodles,West End,"1074 Denman Street#Vancouver, BC V6G 2M8#Canada",(604) 669-8551
+533,Oka-San Kitchen Cafe,3.0,72,$$,Japanese,"Riley Park, Kensington-Cedar Cottage","3578 Fraser Street#Vancouver, BC V5V 0B3#Canada",(604) 620-9898
+534,Hi-Five,5.0,12,$,Food Stands#Sandwiches,"Gastown, Downtown Eastside","22 E Cordova#Vancouver, BC V6A 4G8#Canada",(778) 379-3544
+535,Hyoga Japanese Cuisine,4.0,60,$$,Japanese#Sushi Bars,"Killarney, Renfrew-Collingwood","3343 Kingsway#Vancouver, BC V5R 5K6#Canada",(604) 438-0066
+536,Penang Bistro,3.0,21,$$,Malaysian,"Riley Park, Kensington-Cedar Cottage","3932 Fraser Street#Vancouver, BC V5V 4E4#Canada",(604) 559-8983
+537,Huang’s Beef Noodles,3.5,43,$,Taiwanese,Fraserview,"6940 Victoria Drive#Vancouver, BC V5P 3Y8#Canada",(604) 324-8884
+538,LanaLou’s,4.0,24,$,Music Venues#Canadian (New),Downtown Eastside,"362 Powell Street#Vancouver, BC V6A 1G4#Canada",(604) 563-5055
+539,Campagnolo,3.5,208,$$,Italian#Pizza,"Downtown, Strathcona","1020 Main Street#Vancouver, BC V6A#Canada",(604) 484-6018
+540,Chickpea Food Truck,4.5,35,$,Food Trucks#Mediterranean#Vegetarian,Downtown,"884 W Cordova Street#Vancouver, BC V6C#Canada",(778) 385-2382
+541,Yagger’s,4.0,76,$$,American (Traditional)#Gastropubs#Sports Bars,Downtown,"433 W Pender Street#Vancouver, BC V6B 1V2#Canada",(604) 602-7030
+542,Off the Tracks Espresso Bar and Bistro,4.0,25,$$,Cafes#Coffee & Tea#Breakfast & Brunch,Granville Island/False Creek,"1363 Railspur Alley#Vancouver, BC V6H 3R7#Canada",(604) 689-8700
+543,Alpha Sushi Bar,4.0,82,$$,Japanese#Sushi Bars#Tapas Bars,"Downtown, Granville Entertainment District","1265 Granville Street#Vancouver, BC V6Z 1M5#Canada",(604) 633-0355
+544,Lin Chinese Cuisine And Tea House,3.5,175,$$,Chinese,"Fairview Slopes, South Granville","1537 W Broadway#Vancouver, BC V6J 1W6#Canada",(604) 733-9696
+545,Takis Taverna,4.0,93,$$,Greek,West End,"1106 Davie Street#Vancouver, BC V6E 1N1#Canada",(604) 682-1336
+546,GOMA Sushi Takeout,4.0,41,$$,Sushi Bars#Japanese,"Shaughnessy, South Cambie","3720 Oak Street#Vancouver, BC V6H 2M3#Canada",(604) 737-7728
+547,Beach Bay Cafe and Patio,3.0,43,$$,Canadian (New)#Breakfast & Brunch,West End,"1193 Denman Street#Vancouver, BC V6G 2N1#Canada",(604) 685-7337
+548,Tartine Bread &amp; Pies,4.0,37,$,Desserts#Bakeries#Sandwiches,West End,"1069 Davie Street#Vancouver, BC V6E 1M5#Canada",(604) 685-7427
+549,Shinbo Tofu,5.0,Null,Null,Japanese,Marpole,"954 Marine Drive SW#Vancouver, BC V6P 5Z2#Canada",
+550,West Oak Restaurant,3.5,129,$$,Canadian (New),"Downtown, Yaletown","1035 Mainland Street#Vancouver, BC V6B 1A9#Canada",(604) 629-8808
+551,La Cigale French Bistro,3.5,124,$$,French,Kitsilano,"1961 W 4th Avenue#Vancouver, BC V6J 1M7#Canada",(604) 732-0004
+552,The Keg Steakhouse + Bar,4.0,66,$$$,Steakhouses#Bars,West End,"1121 Alberni Street#Vancouver, BC V6E 1A5#Canada",(604) 685-4388
+553,Bob Likes Thai Food,3.5,112,$$,Thai,Riley Park,"3755 Main St#Vancouver, BC V5V#Canada",(604) 568-8538
+554,Symphonie Restaurant,4.0,31,$,Filipino#Sandwiches,"Coal Harbour, Downtown","1140 Pender Street W#Vancouver, BC V6E 4G1#Canada",(604) 662-3365
+555,Donair Dude,4.0,180,$,Middle Eastern#Mediterranean#Donairs,West End,"1172 Davie Street#Vancouver, BC V6E 1N1#Canada",(604) 681-1801
+556,U &amp; I Thai Fine Cuisine,3.5,153,$$,Thai,"South Cambie, Riley Park","3364 Cambie Street#Vancouver, BC V5Y 2A1#Canada",(604) 875-6999
+557,Bao Chau Vietnamese Restaurant,4.0,119,$,Vietnamese#Noodles,Hastings-Sunrise,"2717 Hastings Street E#Vancouver, BC V5K 1Z8#Canada",(604) 251-6956
+558,La Notte Restaurant,4.0,29,$$,Italian,Dunbar-Southlands,"3307 Dunbar St#Vancouver, BC V6S 2B9#Canada",(604) 222-4033
+559,Eight 1/2 Restaurant Lounge,3.5,133,$$,Tapas/Small Plates#Pizza#Canadian (New),Mount Pleasant,"151 E 8th Ave#Vancouver, BC V5T 1R8#Canada",(604) 568-2703
+560,La Bella Mozzarella,5.0,5,$,Delicatessen#Cafes,Mount Pleasant,"112 West Broadway#Vancouver, BC V5P 1Y3#Canada",(604) 727-4653
+561,Dublin Crossing,3.5,36,$$,Irish#Pubs,Marpole,"466 SW Marine Drive#Vancouver, BC V5X 0C4#Canada",(604) 428-8577
+562,Cafe Phin and Pho,4.0,102,$,Vietnamese#Sandwiches#Noodles,West End,"976 Denman Street#Vancouver, BC V6G 2M1#Canada",(604) 620-5595
+563,Italia Bella Bar &amp; Grill,3.5,10,$$,Italian,Mount Pleasant,"215 Kingsway#Vancouver, BC V5T 3J5#Canada",(604) 708-4400
+564,Gallery Café,4.0,72,$$,Coffee & Tea#Sandwiches#Wine Bars,Downtown,"750 Hornby Street#Vancouver, BC V6Z 2H7#Canada",(604) 688-2233
+565,Trixi’s Crepe &amp; Coffeehaus,4.0,55,$,Coffee & Tea#Creperies#Desserts,"South Cambie, Riley Park","3306 Cambie Street#Vancouver, BC V5Z 2W5#Canada",(778) 358-7462
+566,Ten Ten Tapas,3.5,69,$$,Tapas/Small Plates#Jazz & Blues#Music Venues,Downtown,"1010 Beach Avenue#Vancouver, BC V6E 1T7#Canada",(604) 689-7800
+567,Mitra Canteen,4.0,53,$,Mediterranean#Halal,Mount Pleasant,"3034 Main St#Vancouver, BC V5T 3G5#Canada",(604) 874-9820
+568,Baghdad Cafe,4.0,51,$,Middle Eastern#Arabian#Turkish,Downtown,"548 Seymour Street#Vancouver, BC V6B 3K3#Canada",(604) 428-2525
+569,Hapag Ihaw-Ihaw,4.0,29,$$,Filipino,Kensington-Cedar Cottage,"5432 Victoria Drive#Vancouver, BC V5P 3V8#Canada",(604) 428-0097
+570,Taishoken Ramen,3.5,166,$$,Ramen#Noodles,Downtown,"515 Abbott Street#Vancouver, BC V6B 2L2#Canada",(778) 737-3805
+571,Tractor,3.5,13,$$,Salad#Soup#Sandwiches,Mount Pleasant,"1751 Quebec Street#Vancouver, BC V5T 1B4#Canada",(604) 709-0815
+572,The Fish Shack,3.5,301,$$,Seafood#Fish & Chips,"Downtown, Granville Entertainment District","1026 Granville Street#Vancouver, BC V6Z 1L2#Canada",(604) 678-1049
+573,Darby’s Gastown,4.0,6,$$,American (Traditional)#Canadian (New)#Whiskey Bars,"Downtown, Downtown Eastside","16 W Hastings Street#Vancouver, BC V6B 1G6#Canada",(604) 558-4658
+574,Takumi Japanese Restaurant,4.0,20,$$,Japanese,Point Grey,"4422 W 10th Avenue#Vancouver, BC V6R 2H9#Canada",(604) 730-0330
+575,Chicha,3.5,147,$$,Peruvian#Tapas/Small Plates,Mount Pleasant,"136 E Broadway#Vancouver, BC V5T 1W1#Canada",(604) 620-3963
+576,Ginger Garlic,3.5,65,$$,Indian,West End,"1738 Davie Street#Vancouver, BC V6G 1W2#Canada",(604) 558-1158
+577,Chickpea Food Truck,4.5,35,$,Food Trucks#Mediterranean#Vegetarian,Downtown,"884 W Cordova Street#Vancouver, BC V6C#Canada",(778) 385-2382
+578,The Black Lodge,4.0,66,$$,Vegetarian,"Mount Pleasant, Riley Park, Kensington-Cedar Cottage","630 Kingsway#Vancouver, BC V5T 3K4#Canada",(604) 620-7070
+579,Guu Garden,3.5,170,$$,Japanese#Tapas/Small Plates,Downtown,"888 Nelson Street#Vancouver, BC V6Z 2H2#Canada",(604) 899-0855
+580,Veggiebowl,4.0,57,$,Vegetarian#Vietnamese,Kensington-Cedar Cottage,"2222 Kingsway#Vancouver, BC V5N 2T5#Canada",(604) 620-7672
+581,The Patty Shop,4.5,63,$,Caribbean,Arbutus Ridge,"4019 MacDonald Street#Vancouver, BC V6L 2N8#Canada",(604) 738-2144
+582,Congee Noodle House,3.5,245,$,Chinese#Noodles,Mount Pleasant,"141 E Broadway#Vancouver, BC V5T 1W1#Canada",(604) 879-8221
+583,Greenhorn Espresso Cafe,4.0,114,$$,Cafes#Breakfast & Brunch,West End,"994 Nicola Street#Vancouver, BC V6G 2C7#Canada",(604) 428-2912
+584,Corner 23,3.0,90,$$,Tea Rooms#Chinese#Taiwanese,"South Cambie, Riley Park","4008 Cambie Street#Vancouver, BC V5Z 2X8#Canada",(604) 879-8815
+585,Sushi Wow,4.0,38,$,Japanese#Sushi Bars,Marpole,"8273 Granville Street#Vancouver, BC V6P#Canada",(604) 261-8112
+586,Bon Cafe,4.0,48,$,Vietnamese#Sandwiches,Riley Park,"4909 Main Street#Vancouver, BC V5W 2R2#Canada",(604) 325-1199
+587,Sweet and Savoury Pie,4.0,11,$,Specialty Food#Canadian (New)#Breakfast & Brunch,Grandview-Woodlands,"2261 E Hastings Street#Vancouver, BC V5L 1V3#Canada",(604) 875-9958
+588,The Reef,3.0,109,$$,Caribbean#Breakfast & Brunch,"Grandview-Woodlands, The Drive","1018 Commercial Dr#Vancouver, BC V5L 3W9#Canada",(604) 568-5375
+589,Dumpling House,5.0,4,$,Chinese#Soup,Renfrew-Collingwood,"3141 Kingsway#Vancouver, BC V5R 5J9#Canada",(778) 588-1227
+590,New Town Bakery &amp; Restaurant,3.5,186,$,Bakeries#Dim Sum,Chinatown,"148 Pender Street E#Vancouver, BC V6A 2V2#Canada",(604) 681-1828
+591,Dalina,4.5,22,$$,Grocery#Coffee & Tea#Sandwiches,"Downtown, Chinatown","687 Main Street#Vancouver, BC V6A 2V4#Canada",(604) 428-4364
+592,Shanti’s Curries,4.5,66,$$,Indian#Vegetarian#Vegan,Riley Park,"4191 Main Street#Vancouver, BC V5V 3P6#Canada",(604) 568-7699
+593,Hendricks Resto Lounge,4.5,2,Null,Lounges#Breakfast & Brunch#Asian Fusion,Downtown,"433 Robson Street#Vancouver, BC V6B 6L9#Canada",(604) 647-2521
+594,Pasture to Plate,5.0,5,$$,Burgers#Delis#Butcher,West End,"1061 Denman Street#Vancouver, BC V6G 2M7#Canada",(604) 689-0202
+595,Cafe Lokal,5.0,10,Null,Desserts#Sandwiches#Cafes,Kitsilano,"2610 W 4 Avenue#Vancouver, BC V6K 1P8#Canada",(604) 739-0098
+596,Score on Davie,4.0,231,$$,Sports Bars#Breakfast & Brunch#American (Traditional),West End,"1262 Davie Street#Vancouver, BC V6J 5L1#Canada",(604) 632-1646
+597,Orchard &amp; the Sea,5.0,2,$$,Tapas/Small Plates,"Downtown, Gastown","55 Powell Street#Vancouver, BC V6A 1E9#Canada",(604) 961-3947
+598,Batard Boulangerie &amp; Cafe Moderne,4.0,63,$$,Coffee & Tea#Bakeries#French,"Riley Park, Kensington-Cedar Cottage","3958 Fraser Street#Vancouver, BC V5V 4E4#Canada",(604) 506-3958
+599,Kim Saigon Sandwich,4.0,10,$,Vietnamese#Sandwiches,Chinatown,"509 Main St#Vancouver, BC V6A#Canada",(604) 685-5623
+600,Le Marché St. George,4.0,120,$$,Cafes#Grocery,Riley Park,"4393 Saint George Street#Vancouver, BC V5V 4A3#Canada",(604) 565-5107
+601,Peaceful Restaurant Lite,4.0,18,$$,Chinese#Seafood#Noodles,West End,"1183 Davie Street#Vancouver, BC V6E 1N2#Canada",(778) 379-7238
+602,The Pie Hole,4.0,23,$$,Bakeries#Desserts#Breakfast & Brunch,Riley Park,"3497 Fraser Street#Vancouver, BC V5V 4C3#Canada",(604) 428-2743
+603,Yakinikuya Japanese BBQ Restaurant,3.5,91,$$,Japanese#Barbeque,West End,"793 Jervis Street#Vancouver, BC V6E 2B1#Canada",(604) 669-1222
+604,Sushi Mania,4.0,114,$$,Japanese#Sushi Bars,Riley Park,"3851 Main Street#Vancouver, BC V5V 3P1#Canada",(604) 568-3363
+605,Daikichi Sushi,3.5,56,$,Sushi Bars#Japanese,Downtown,"1346 Burrard Street#Vancouver, BC V6Z 2B7#Canada",(604) 688-2033
+606,DD Mau,4.0,155,$,Vietnamese#Sandwiches,"Downtown, Yaletown","1239 Pacific Boulvard#Vancouver, BC V6Z 2R6#Canada",(604) 684-4446
+607,Donair Spot,4.5,21,$,Donairs#Mediterranean,Mount Pleasant,"403 W Broadway#Vancouver, BC V5Y 1R4#Canada",
+608,Jamjar Folk Lebanes Food,4.5,20,$$,Lebanese#Vegan#Vegetarian,"Fairview Slopes, South Granville","1488 W 11th Avenue#Vancouver, BC V6H 3H8#Canada",(604) 733-2211
+609,Pink Peppercorn,4.0,89,$$$,Seafood,Kensington-Cedar Cottage,"1485 Kingsway#Vancouver, BC V5N 2R6#Canada",(604) 569-3626
+610,The Boathouse Restaurant,3.0,157,$$$,Seafood,West End,"1795 Beach Ave.#Vancouver, BC V6G 1Y9#Canada",(604) 669-2225
+611,LOCAL Public Eatery,3.5,189,$$,Canadian (New)#Gastropubs,Kitsilano,"2210 Cornwall Avenue#Vancouver, BC V6K 1B5#Canada",(604) 734-3589
+612,Tasty Lucky Noodle House,4.5,3,$$,Chinese#Noodles,"South Cambie, Riley Park","3420 Cambie Street#Vancouver, BC V5Z 2W8#Canada",(778) 379-9388
+613,Thai Cuisine by Montri,4.0,20,$$,Thai,Kitsilano,"2585 W Broadway#Vancouver, BC V6K 2E9#Canada",(604) 221-9599
+614,Kokopelli Café,4.5,15,$$,Coffee & Tea#Sandwiches,Dunbar-Southlands,"4593 Dunbar St#Vancouver, BC V6S 2G7#Canada",(604) 228-0818
+615,Field &amp; Social,3.5,28,$$,Salad,Downtown,"415 Dunsmuir Street#Vancouver, BC V6B 1X4#Canada",(778) 379-6500
+616,Tacofino Gastown,3.5,240,$$,Mexican,"Downtown, Gastown","15 W Cordova Street#Vancouver, BC V6B 1C8#Canada",(604) 899-7907
+617,Odo Sushi,4.0,28,$$,Japanese#Sushi Bars,Downtown,"82 keefer Place#Vancouver, BC V6B 6C1#Canada",(604) 568-4500
+618,La Brass,4.5,8,$$,French#Wine Bars#Tapas/Small Plates,Point Grey,"4473 W 10th Avenue#Vancouver, BC V6R 2H9#Canada",(604) 222-1980
+619,Tony’s Beef Noodle,3.0,27,$,Taiwanese#Noodles#Chinese,Oakridge,"5710 Cambie Street#Vancouver, BC V5Z 3A6#Canada",(604) 327-5061
+620,Hoang Yen,4.0,75,$,Vietnamese#Noodles,Kensington-Cedar Cottage,"5083 Victoria Drive#Vancouver, BC V5P 3T9#Canada",(604) 321-2711
+621,Viet Sub,4.5,24,$,Vietnamese#Sandwiches,West End,"1682 Robson Street#Vancouver, BC V6G 1C7#Canada",(604) 566-3333
+622,TK Sub Cafe,4.5,25,$,Cafes#Sandwiches,Kensington-Cedar Cottage,"3913 Knight Street#Vancouver, BC V5N 3L8#Canada",(778) 379-6566
+623,Sunrise Pizza &amp; Steak House,4.0,55,$$,Pizza#Italian#Steakhouses,"Grandview-Woodlands, The Drive","949 Commercial Drive#Vancouver, BC V5L 3W8#Canada",(604) 251-2411
+624,Green Lemongrass,4.0,85,$,Vietnamese,Kensington-Cedar Cottage,"1086 Kingsway#Vancouver, BC V5V 3C6#Canada",(604) 875-6638
+625,Cafe Tica,4.5,12,$,Delis,Mount Pleasant,"2408 Alberta Street#Vancouver, BC V5Y 3Y6#Canada",(604) 484-4775
+626,Moderne Burger,4.0,137,$$,Burgers,Kitsilano,"2507 W Broadway#Vancouver, BC V6K 2E9#Canada",(604) 739-0005
+627,Pho Gold Train,4.0,10,$,Vietnamese,Downtown,"550 Nelson Street#Vancouver, BC V6B 0G1#Canada",(604) 559-7786
+628,La Pentola,3.5,94,$$,Italian,"Downtown, Yaletown","350 Davie Street#Vancouver, BC V6B 1R2#Canada",(604) 642-0557
+629,Storm Crow Alehouse,3.5,55,$$,Bars#American (Traditional)#Breakfast & Brunch,Fairview Slopes,"1619 W Broadway#Vancouver, BC V6J 1W9#Canada",(604) 428-9670
+630,Tandoori Fusion,4.0,84,$$,Indian,Kitsilano,"2872 W Broadway#Vancouver, BC V6K 2G7#Canada",(604) 738-2824
+631,The Acorn,4.0,294,$$,Vegetarian#Gluten-Free#Cocktail Bars,Riley Park,"3995 Main Street#Vancouver, BC V5V 3P5#Canada",(604) 566-9001
+632,Pizzeria Ludica,4.0,105,$$,Pizza#Italian#Tabletop Games,Downtown,"189 Keefer Place#Vancouver, BC V6B 6L4#Canada",(604) 669-5552
+633,Original Joe’s Restaurant &amp; Bar,3.5,113,$$,Bars#Restaurants,Fairview Slopes,"2525 Cambie Street#Vancouver, BC V5Z 3Y6#Canada",(604) 434-5636
+634,Hanoi Pho,4.0,51,$,Vietnamese#Vegetarian#Noodles,Downtown Eastside,"406 E Hastings Street#Vancouver, BC V6A 1P7#Canada",(604) 251-6566
+635,Sushi Home,4.0,50,$,Sushi Bars,Downtown,"509 Dunsmuir Street#Vancouver, BC V6B 1Y4#Canada",(604) 689-8808
+636,Wildebeest,3.5,254,$$$,Gastropubs#Wine Bars#Canadian (New),"Downtown, Downtown Eastside","120 W Hastings Street#Vancouver, BC V6B 1G8#Canada",(604) 687-6880
+637,Fresh Bowl,4.0,59,$$,Malaysian#Vegetarian#Fast Food,"Downtown, Gastown","360 Cambie Street#Vancouver, BC V6B 1H7#Canada",(604) 428-3252
+638,Soho Tea Room,3.0,110,$$,Coffee & Tea#Taiwanese,"South Cambie, Riley Park","3466 Cambie Street#Vancouver, BC V5Y 2B1#Canada",(604) 873-3686
+639,L &amp; G Bubble Tea,4.0,57,$,Taiwanese#Coffee & Tea,Sunset,"5816 Fraser Street#Vancouver, BC V5W 2Z5#Canada",(604) 568-7686
+640,Kwan Luck Restaurant,4.5,10,$$,Chinese,Renfrew-Collingwood,"2516 Kingsway#Vancouver, BC V5R 5H2#Canada",(604) 431-3890
+641,Indian Bayleaf,4.0,14,$$,Indian,Kensington-Cedar Cottage,"4890 Victoria Drive#Vancouver, BC V5N 4P5#Canada",(604) 336-0350
+642,Sula Indian Restaurant,4.0,111,$$,Indian#Vegetarian#Gluten-Free,"Grandview-Woodlands, The Drive","1128 Commercial Drive#Vancouver, BC V5L 2N1#Canada",(604) 215-1130
+643,Charlie’s Little Italian,3.5,57,$$,Italian#Pizza,Mount Pleasant,"2610 Main Street#Vancouver, BC V5T 3E6#Canada",(604) 877-8582
+644,reLiSH Gourmet Burgers - Commercial Drive,3.5,64,$$,American (Traditional)#Burgers,"Grandview-Woodlands, The Drive","2290 Commercial Drive#Vancouver, BC V5N 4B5#Canada",(604) 428-6618
+645,Italian Kitchen,3.5,432,$$$,Italian,"West End, Downtown","1037 Alberni Street#Vancouver, BC V6E 1A1#Canada",(604) 687-2858
+646,Frankie’s Italian Kitchen,3.0,61,$$,Italian#Wine Bars#Breakfast & Brunch,Downtown,"765 Beatty Street#Vancouver, BC V6B 4P4#Canada",(604) 688-6368
+647,Donair Town Robson,4.0,49,$,Donairs#Mediterranean#Halal,West End,"1793 Robson Street#Vancouver, BC V6G 1C8#Canada",(604) 569-1124
+648,Kirin Seafood Restaurant,3.0,286,$$,Dim Sum#Seafood,West End,"1172 Alberni Street#Vancouver, BC V6E 3Z3#Canada",(604) 682-8833
+649,Curry Zone,4.0,73,$$,Indian,Hastings-Sunrise,"2671 E Hastings Street#Vancouver, BC V5K 1Z9#Canada",(604) 215-2207
+650,Rogue Kitchen &amp; Wetbar,3.5,50,$$,Canadian (New)#American (Traditional)#Gastropubs,Downtown,"200 Burrard Street#Vancouver, BC V6C 2G8#Canada",(604) 428-2555
+651,Hon’s Wun-Tun House,3.5,226,$,Dim Sum#Noodles,West End,"1339 Robson Street#Vancouver, BC V6E 1C6#Canada",(604) 685-0871
+652,Mr Red Cafe,4.0,133,$$,Vietnamese,Grandview-Woodlands,"2234 E Hastings Street#Vancouver, BC V5L 1V4#Canada",(604) 710-9515
+653,Zest Japanese Cuisine,4.5,52,$$$,Japanese,Arbutus Ridge,"2775 W 16th Avenue#Vancouver, BC V6K 3C3#Canada",(604) 731-9378
+654,Truong Thanh Vietnamese Restaurant,4.0,53,$,Vietnamese,Kensington-Cedar Cottage,"2096 Kingsway#Vancouver, BC V5N 2T3#Canada",(604) 876-9288
+655,Brioche Urban Baking &amp; Catering,4.0,157,$$,Italian,"Downtown, Gastown","401 W Cordova Street#Vancouver, BC V6B 1E5#Canada",(604) 682-4037
+656,Crave India,4.0,56,$,Indian,"Downtown, Granville Entertainment District","1019 Granville Street#Vancouver, BC V6Z 1L5#Canada",(604) 569-1850
+657,Moki’s Pizza,4.5,20,$$,Pizza,Dunbar-Southlands,"5530 Dunbar Street#Vancouver, BC V6N 1W6#Canada",(604) 263-4440
+658,Nando’s Chicken,3.5,114,$$,Barbeque#Portuguese#South African,Downtown,"828 Davie Street#Vancouver, BC V6Z 2S2#Canada",(604) 678-1217
+659,Heirloom Vegetarian,3.5,345,$$,Breakfast & Brunch#Vegetarian#Vegan,"Fairview Slopes, South Granville","1509 W 12th Avenue#Vancouver, BC V6J 2E1#Canada",(604) 733-2231
+660,Sushi Nanaimo,4.0,218,$$,Sushi Bars#Japanese#Seafood,"Hastings-Sunrise, Grandview-Woodlands","350 Nanaimo Street#Vancouver, BC V5L 4R7#Canada",(604) 876-9200
+661,Western Lake Chinese Seafood Restaurant,3.5,154,$$,Dim Sum#Seafood,Kensington-Cedar Cottage,"4989 Victoria Drive#Vancouver, BC V5P 3T7#Canada",(604) 321-6862
+662,Nuba,4.0,15,$$,Mediterranean#Middle Eastern#Vegetarian,Downtown,"508 Davie Street#Vancouver, BC V6B 5B6#Canada",(778) 371-3266
+663,Nando’s Chicken,3.5,114,$$,Barbeque#Portuguese#South African,Downtown,"828 Davie Street#Vancouver, BC V6Z 2S2#Canada",(604) 678-1217
+664,Feast Restaurant,4.0,34,$$,Breakfast & Brunch#Canadian (New),Dundarave,"2423 Marine Drive#West Vancouver, BC V7V 1L3#Canada",(604) 922-1155
+665,Passion8 Dessert Cafe,4.0,57,$$,Desserts#Korean#Coffee & Tea,Fairview Slopes,"3010 Cambie Street#Vancouver, BC V5Z 2V9#Canada",(778) 379-8238
+666,The Irish Heather,4.0,198,$$,Irish#Gastropubs,"Downtown, Gastown","210 Carrall Street#Vancouver, BC V6B 2J2#Canada",(604) 688-9779
+667,Babylon Café,3.5,69,$,Middle Eastern,West End,"1156 Denman St#Vancouver, BC V6G 2M9#Canada",(604) 568-7010
+668,Tony’s Beef Noodle,3.0,27,$,Taiwanese#Noodles#Chinese,Oakridge,"5710 Cambie Street#Vancouver, BC V5Z 3A6#Canada",(604) 327-5061
+669,Green Lemongrass,4.0,85,$,Vietnamese,Kensington-Cedar Cottage,"1086 Kingsway#Vancouver, BC V5V 3C6#Canada",(604) 875-6638
+670,The Eatery,3.5,383,$$,Japanese#Sushi Bars#Asian Fusion,Kitsilano,"3431 W Broadway#Vancouver, BC V6R 2B4#Canada",(604) 738-5298
+671,Red Tuna,3.5,10,$$,Japanese#Sushi Bars,Dunbar-Southlands,"3592 W 41st Avenue#Vancouver, BC V6N 3E6#Canada",(604) 266-7355
+672,Siena,3.5,54,$$$,Italian#Mediterranean,"Fairview Slopes, South Granville","West 12th Avenue#Vancouver, BC V6H 1M6#Canada",(604) 558-1485
+673,Chongqing Restaurant,3.5,91,$$,Chinese,Kensington-Cedar Cottage,"2808 Commercial Dr#Vancouver, BC V5N 4C6#Canada",(604) 254-7434
+674,Rogue Kitchen &amp; Wetbar,3.5,99,$$,American (Traditional)#Gastropubs,Fairview Slopes,"602 West Broadway Avenue#Vancouver, BC V5Z 3J2#Canada",(604) 568-9400
+675,French Made Baking,4.5,150,$$,Bakeries#Desserts#Creperies,Mount Pleasant,"81 Kingsway#Vancouver, BC V5T 3J1#Canada",(604) 558-4880
+676,Alpha Sushi Bar,4.0,82,$$,Japanese#Sushi Bars#Tapas Bars,"Downtown, Granville Entertainment District","1265 Granville Street#Vancouver, BC V6Z 1M5#Canada",(604) 633-0355
+677,BT Cafe,4.0,55,$,Coffee & Tea#Breakfast & Brunch#Chinese,Kensington-Cedar Cottage,"920 Kingsway#Vancouver, BC V5V 3C4#Canada",(604) 872-3368
+678,Chef’s Harvest,4.0,23,$$,Coffee & Tea#Juice Bars & Smoothies#Canadian (New),Fairview Slopes,"802 W Broadway#Vancouver, BC V5Z 1K1#Canada",(604) 428-0101
+679,Macao Restaurant,3.5,12,$$,Chinese#Portuguese#Asian Fusion,Mount Pleasant,"2415 Main Street#Vancouver, BC V5T 3E1#Canada",(604) 564-8825
+680,Sciué,4.0,7,$$,Pizza#Cafes#Breakfast & Brunch,Downtown,"101 Robson Street#Vancouver, BC V6B 2A8#Canada",(778) 379-1456
+681,Mamalee Malaysian Delight,3.5,97,$$,Singaporean#Malaysian,Kitsilano,"3144 W Broadway#Vancouver, BC V6K 2H3#Canada",(604) 733-8882
+682,Hapa Izakaya - Coal Harbour,3.5,112,$$,Japanese#Tapas/Small Plates,Downtown,"909 W Cordova Street#Vancouver, BC V6C 3L5#Canada",(604) 420-4272
+683,Zaccary’s Pizza,4.0,40,$$,Pizza,"Shaughnessy, Fairview Slopes","3150 Oak Street#Vancouver, BC V6H 2L1#Canada",(604) 737-1933
+684,Chang’An,3.0,28,$$$,Chinese,Downtown,"1661 Granville Street#Vancouver, BC V6Z 1N3#Canada",(604) 681-1313
+685,Pho Extreme Xe Lua,2.5,71,$,Vietnamese#Noodles,Mount Pleasant,"457 W Broadway#Vancouver, BC V5Y 4A8#Canada",(604) 879-8228
+686,Aree Thai,4.0,101,$$,Thai,Kensington-Cedar Cottage,"1150 Kingsway Street#Vancouver, BC V5V 3C8#Canada",(604) 709-9229
+687,Zend Conscious Lounge,4.0,61,$$,Vegan#Vegetarian#Live/Raw Food,"Downtown, Yaletown","1130 Mainland Street#Vancouver, BC V6B 2T9#Canada",(604) 801-6107
+688,Dewan-E-Khass,4.0,28,$$,Indian#Halal#Pakistani,Sunset,"5750 Fraser Street#Vancouver, BC V5W 2Z5#Canada",(604) 327-4800
+689,Nuba,4.0,15,$$,Mediterranean#Middle Eastern#Vegetarian,Downtown,"508 Davie Street#Vancouver, BC V6B 5B6#Canada",(778) 371-3266
+690,Lucy’s Eastside Diner,3.0,255,$,Diners#Champagne Bars#Sandwiches,Mount Pleasant,"2708 Main Street#Vancouver, BC V5T#Canada",(604) 568-1550
+691,The Second Floor Bistro,5.0,3,Null,French,Renfrew-Collingwood,"2665 Renfrew Street#Vancouver, BC V5M 0A7#Canada",(604) 639-2055
+692,Unforgettable Pizza &amp; Pasta,4.0,40,$,Pizza#Italian,Mount Pleasant,"450 8th Avenue W#Vancouver, BC V5Y 1N9#Canada",(604) 739-7389
+693,Whiskey Six BBQ,4.5,14,$$,Barbeque#Cocktail Bars,Hastings-Sunrise,"826 Renfrew Street#Vancouver, BC V5K 4B6#Canada",(604) 428-4050
+694,Raga Restaurant,4.0,75,$$,Indian,Fairview Slopes,"1177 Broadway W#Vancouver, BC V6H 1G3#Canada",(604) 733-1127
+695,Back Forty,3.5,97,$$,Barbeque#Gastropubs,"Downtown, Yaletown","118 Robson Street#Vancouver, BC V6B 2M1#Canada",(604) 688-5840
+696,Bob Likes Thai Food,3.5,114,$$,Thai,"Fairview Slopes, South Granville","1521 W Broadway#Vancouver, BC V6J 1W6#Canada",(604) 558-3320
+697,Mr Shawarma,4.5,53,$,Lebanese#Food Trucks,Downtown,"Robson and Hornby#Vancouver, BC V6Z#Canada",(604) 569-1644
+698,Kyuzo Japanese Restaurant,3.5,13,$$,Japanese,"Kerrisdale, Shaughnessy","5701 Granville Street#Vancouver, BC V6M 4J7#Canada",(604) 620-9979
+699,Flower And Horse In Spring,3.0,14,$$,Chinese#Noodles,West End,"1741 Robson Street#Vancouver, BC V6G 1E1#Canada",(778) 379-6198
+700,Original Joe’s Restaurant and Bar,3.5,23,$$,Restaurants#Bars,Downtown,"298 Robson Street#Vancouver, BC V6B 6A1#Canada",(778) 379-8410
+701,Steamworks Brewing Company,3.5,525,$$,Pubs#Canadian (New)#Breweries,"Downtown, Gastown","375 Water Street#Vancouver, BC V6B 5C6#Canada",(604) 689-2739
+702,Shaughnessy Restaurant,3.0,56,$$,Canadian (New),Shaughnessy,"5251 Oak Street#Vancouver, BC V6M 4H1#Canada",(604) 261-0011
+703,Chewies Steam &amp; Oyster Bar - Coal Harbour,3.0,148,$$,Cajun/Creole#Seafood#Southern,"Coal Harbour, Downtown","1055 W Hastings#Vancouver, BC V6E 2E9#Canada",(604) 620-7634
+704,Sushiholic,3.5,155,$$,Sushi Bars#Japanese,"Hastings-Sunrise, Renfrew-Collingwood","3311 E Broadway#Vancouver, BC V5M 2A1#Canada",(604) 879-4881
+705,The Cannibal Cafe,3.5,193,$$,Diners#Burgers,"Grandview-Woodlands, The Drive","1818 Commercial Drive#Vancouver, BC V5N 4A5#Canada",(604) 558-4199
+706,Noodlebox,3.5,159,$$,Asian Fusion#Noodles#Thai,Kitsilano,"1867 W 4th Avenue#Vancouver, BC V6J 1M3#Canada",(604) 734-1310
+707,A Taste of Vietnam,3.0,73,$,Vietnamese,Fairview Slopes,"1016 Broadway W#Vancouver, BC V6H 1E6#Canada",(604) 730-8383
+708,The Tipper Restaurant &amp; Review Room,4.0,87,$$,Burgers#Canadian (New),Kensington-Cedar Cottage,"2066 Kingsway#Vancouver, BC V5N 2T3#Canada",(604) 873-1010
+709,Teriyaki Bowl,4.0,18,$$,Japanese#Sushi Bars,Kitsilano,"3648 W Broadway#Vancouver, BC V6R 2B8#Canada",(604) 559-1780
+710,Roost Cafe,4.0,19,$$,Coffee & Tea#Breakfast & Brunch#Bars,Strathcona,"789 Gore Avenue#Vancouver, BC V6A 2Z9#Canada",(778) 953-1575
+711,The Boathouse Restaurant,2.5,130,$$,Seafood,Kitsilano,"1305 Arbutus St#Vancouver, BC V6J 5N2#Canada",(604) 738-5487
+712,Vivo Deli,4.5,6,$,Delicatessen#Sandwiches,Kerrisdale,"2087 W 42nd Avenue#Vancouver, BC V6M 2B4#Canada",(604) 264-8486
+713,Thai Basil,3.5,24,$,Thai,Kitsilano,"2184 Cornwall Avenue#Vancouver, BC V6K 1B4#Canada",(604) 677-6767
+714,Kalvin’s Szechuan Restaurant,4.0,71,$$,Taiwanese#Chinese,Kensington-Cedar Cottage,"5225 Victoria#Vancouver, BC V5P 3V4#Canada",(604) 321-2888
+715,Finch’s Market,4.0,26,$$,Cafes#Sandwiches#Coffee & Tea,Strathcona,"501 E Georgia Street#Vancouver, BC V6A 1X8#Canada",(604) 558-1644
+716,Slice of Chicago,4.0,36,$$,Pizza,Sunset,"5812 Fraser Street#Vancouver, BC V5W 2Z5#Canada",(604) 327-3007
+717,JJ’s Fine Dining,4.5,11,$$,Cafes,Downtown,"250 W Pender St#Vancouver, BC V6B 1S9#Canada",(604) 443-8479
+718,Loafe Cafe,4.5,20,$$,Cafes,UBC,"6163 University Boulevard#Vancouver, BC V6T 1Z1#Canada",
+719,Duffin’s Donuts,4.0,173,$,Donuts#Burgers#Sandwiches,"Sunset, Kensington-Cedar Cottage","1391 41st Avenue E#Vancouver, BC V5W 1R7#Canada",(604) 325-5544
+720,Hai Phong Vietnamese Restaurant,4.0,104,$,Vietnamese#Noodles,Kensington-Cedar Cottage,"1242 Kingsway#Vancouver, BC V5V 3E1#Canada",(604) 872-3828
+721,Sweetery Cafe + Dessert,4.0,54,$,Cafes#Coffee & Tea#Desserts,Mount Pleasant,"340 W 2nd Avenue#Vancouver, BC V5Y 3W3#Canada",(604) 568-5486
+722,Dosa Factory,4.0,43,$$,Indian,Kensington-Cedar Cottage,"1345 Kingsway#Vancouver, BC V5V 3E3#Canada",(778) 379-7791
+723,BBT Cafe,3.0,37,$$,Taiwanese,Kerrisdale,"5979 W Boulevard#Vancouver, BC V6M 3X1#Canada",(604) 266-2195
+724,The Irish Heather,4.0,198,$$,Irish#Gastropubs,"Downtown, Gastown","210 Carrall Street#Vancouver, BC V6B 2J2#Canada",(604) 688-9779
+725,Ban Dao Pearl Seafood Restaurant,3.5,7,$$,Dim Sum#Seafood,Marpole,"470 SW Marine Dr#Vancouver, BC V5X 0C4#Canada",(604) 620-8808
+726,Baoguette Vietnamese Bistro,3.0,13,$$,Vietnamese,"Kerrisdale, Arbutus Ridge","2114 West 41st Avenue#Vancouver, BC V6M 1Z2#Canada",(778) 379-1494
+727,Temp°,4.0,2,$$$$,Canadian (New),Mount Pleasant,"666 E Broadway#Vancouver, BC V5T 1X6#Canada",
+728,Pho Japolo,4.0,18,$$,Vietnamese#Noodles,Kitsilano,"2807 W Broadway#Vancouver, BC V6K 2G6#Canada",(604) 737-1278
+729,Quejos Cheesebuns,4.0,41,$,Bakeries#Gluten-Free,Riley Park,"4129 Main Street#Vancouver, BC V5V 3P6#Canada",(604) 420-0832
+730,Kwong Chow Congee &amp; Noodle House,3.5,80,$$,Chinese#Noodles,Mount Pleasant,"3163 Main Street#Vancouver, BC V5T 3G8#Canada",(604) 876-8520
+731,Tibisti Foods &amp; Grill,4.0,90,$$,Halal#Middle Eastern,Fraserview,"6990 Victoria Dr#Vancouver, BC V5P 3Y8#Canada",(604) 737-1000
+732,49th Parallel Coffee,4.0,354,$,Cafes#Coffee & Tea#Donuts,Mount Pleasant,"2902 Main Street#Vancouver, BC V5T 0C1#Canada",(604) 872-4901
+733,Sprig,4.0,4,$$,Greek,Granville Island/False Creek,"1689 Johnston Street#Vancouver, BC V6H 3S2#Canada",(604) 446-2725
+734,Hubbub,4.0,42,$,Salad#Soup#Sandwiches,Downtown,"420 Robson Street#Vancouver, BC V6B 0H3#Canada",(604) 801-9995
+735,Swiss Bakery,4.0,87,$,Bakeries#Sandwiches,Mount Pleasant,"143 3rd Avenue E#Vancouver, BC V5T 1C7#Canada",(604) 736-8785
+736,Bibis Kitchen,3.5,3,Null,Breakfast & Brunch#Coffee & Tea#Vegetarian,Strathcona,"418 Terminal Ave#Vancouver, BC V6A 0C1#Canada",(604) 565-9898
+737,Knight Street Cafe,4.5,25,$$,Cafes,Kensington-Cedar Cottage,"3911 Knight Street#Vancouver, BC V5N 3L8#Canada",(604) 563-2877
+738,Madras Dosa House,4.0,54,$,Indian,Kensington-Cedar Cottage,"5656 Fraser Street#Vancouver, BC V5W 2Z4#Canada",(604) 327-1233
+739,Beanstalk Bistro,4.0,2,Null,American (Traditional),Granville Island/False Creek,"1496 Cartwright Street#Vancouver, BC V6H 3Y5#Canada",(604) 484-8288
+740,The Ouisi Bistro,3.5,105,$$,Cajun/Creole#Breakfast & Brunch,"Fairview Slopes, South Granville","3014 Granville St#Vancouver, BC V6H 3J8#Canada",(604) 732-7550
+741,Royal Seoul House Korean Restaurant,3.5,57,$$,Korean#Barbeque,Fairview Slopes,"1215 Broadway W#Vancouver, BC V6H 1G7#Canada",(604) 739-9001
+742,Cafe D’Afrique,4.5,32,$$,Ethiopian#Moroccan#South African,Mount Pleasant,"363 E Broadway#Vancouver, BC V5T 1W5#Canada",(604) 876-9919
+743,Chewies Steam &amp; Oyster Bar - Kits,3.5,244,$$,Seafood#Cajun/Creole,Kitsilano,"2201 W 1st Avenue#Vancouver, BC V6K 1E9#Canada",(604) 558-4448
+744,The Wolf &amp; Hound,3.5,65,$$,Pubs#Irish,Kitsilano,"3617 W Broadway#Vancouver, BC V6R 2B8#Canada",(604) 738-8909
+745,Railtown Cafe,4.0,11,$$,Cafes,"Downtown, Granville Entertainment District","968 Howe Street#Vancouver, BC V6Z 1N9#Canada",(604) 428-8255
+746,Flamingo Chinese Restaurant,4.0,14,$$,Dim Sum,Fraserview,"1652 SE Marine Drive#Vancouver, BC V5P 2R6#Canada",(604) 325-4511
+747,Habitant,4.0,8,Null,Tapas/Small Plates#Tapas Bars,Downtown,"799 Robson St#Vancouver, BC V7Y 1K8#Canada",(604) 699-2100
+748,Fujiya,3.5,61,$,Japanese#Sushi Bars,"Coal Harbour, Downtown","1050 W Pender Street#Vancouver, BC V6E 3S7#Canada",(604) 608-1050
+749,The Wallflower Modern Diner,3.5,381,$$,Diners#Gluten-Free#Breakfast & Brunch,Mount Pleasant,"2420 Main Street#Vancouver, BC V5T 3E2#Canada",(604) 568-7554
+750,Homer St. Cafe And Bar,3.5,189,$$,Bars#Cafes,"Downtown, Yaletown","898 Homer Street#Vancouver, BC V6B 2W5#Canada",(604) 428-4299
+751,Liquids And Solids,4.0,8,$,Cafes#Soup,Downtown Eastside,"901 E Hastings Street#Vancouver, BC V6A#Canada",(604) 568-8343
+752,Blowfish Sushi &amp; Japanese Food,3.5,50,$$,Japanese#Sushi Bars,Hastings-Sunrise,"2828 E Hastings Street#Vancouver, BC V5K 5C5#Canada",(604) 258-7500
+753,Siegel’s Bagels,3.5,100,$,Bagels#Bakeries#Sandwiches,Kitsilano,"1883 Cornwall Avenue#Vancouver, BC V6J 1C6#Canada",(604) 737-8151
+754,Deer Garden Signatures,3.5,107,$,Chinese,Sunset,"6270 Fraser Street#Vancouver, BC V5W 3A3#Canada",(604) 322-6116
+755,Finch’s Tea &amp; Coffee House,4.0,346,$$,Coffee & Tea#Sandwiches#Breakfast & Brunch,Downtown,"353 W Pender Street#Vancouver, BC V6B 1T3#Canada",(604) 899-4040
+756,Jang Mo Jib,2.5,71,$$,Korean,West End,"1575 Robson Street#Vancouver, BC V6G 1C7#Canada",(604) 642-0712
+757,Ridge Garden Restaurant,3.5,8,Null,Canadian (New)#Chinese,Arbutus Ridge,"4009 Macdonald Street#Vancouver, BC V6L 2N9#Canada",(604) 736-5231
+758,P2b Bistro &amp; Bar,3.5,40,$$,Canadian (New),"Coal Harbour, Downtown","1133 W Hastings Street#Vancouver, BC V6E 3T3#Canada",(604) 691-2777
+759,Plato Filipino,4.5,8,Null,Filipino,Renfrew-Collingwood,"5175 Joyce Street#Vancouver, BC V5R 4H1#Canada",(604) 559-9155
+760,New Novelty Restaurant &amp; Sweets,4.0,48,$,Indian#Buffets,Sunset,"6669 Fraser St#Vancouver, BC V5X 3T6#Canada",(604) 326-1111
+761,Chaise Lounge Restaurant,3.5,91,$$,Lounges#American (Traditional),Riley Park,"4444 Main St#Vancouver, BC V5V 3R3#Canada",(604) 874-7114
+762,Chill Winston,3.5,327,$$,Lounges#Canadian (New),"Downtown, Gastown","3 Alexander Street#Vancouver, BC V6A 1B2#Canada",(604) 288-9575
+763,Mexicali,3.5,35,$,Mexican#Tex-Mex,Dunbar-Southlands,"4424 Dunbar St#Vancouver, BC V6S 2G5#Canada",(604) 731-6517
+764,My Chau Restaurant,4.0,60,$,Vietnamese,Kensington-Cedar Cottage,"1715 Kingsway#Vancouver, BC V5N 2S4#Canada",(604) 874-6880
+765,Hai Phong,4.0,36,$,Vietnamese#Noodles,Downtown,"186 Keefer Place#Vancouver, BC V6B 0J6#Canada",(604) 559-8897
+766,Kaya Malay Bistro,3.5,133,$$,Malaysian#Singaporean,Fairview Slopes,"1063 W Broadway#Vancouver, BC V6H 1E5#Canada",(604) 730-9963
+767,Roots Cafe,3.5,74,$$,Coffee & Tea#Breakfast & Brunch#Sandwiches,"Sunset, Punjabi Market","6502 Main Street#Vancouver, BC V5X 3G9#Canada",(604) 568-8303
+768,Monster Sushi,4.0,11,$$,Sushi Bars,West End,"1184 Denman Street#Vancouver, BC V6G 2M9#Canada",(604) 609-9999
+769,Eternal Abundance,4.0,74,$$,Vegan#Juice Bars & Smoothies#Live/Raw Food,"Grandview-Woodlands, The Drive","1025 Commercial Drive#Vancouver, BC V5L 3X1#Canada",(604) 707-0088
+770,Cactus Club Cafe,3.5,85,$$,Canadian (New),"Fairview Slopes, South Granville","1530 W Broadway#Vancouver, BC V6J 5K9#Canada",(604) 733-0434
+771,Addis Cafe Ethiopian Restaurant,4.0,22,$$,Ethiopian#Vegetarian#African,"Grandview-Woodlands, The Drive","2017 Commercial Drive#Vancouver, BC V5N 4B1#Canada",(604) 254-1929
+772,Pazzo Chow,4.5,24,$,Italian#Ice Cream & Frozen Yogurt,"Downtown, Chinatown","620 Quebec Street#Vancouver, BC V6A 4E7#Canada",(604) 563-1700
+773,Agro Roasters,4.0,11,$,Cafes#Coffee & Tea#Coffee Roasteries,"Strathcona, Grandview-Woodlands","550 Clark Drive#Vancouver, BC V5L 3H7#Canada",(604) 785-5447
+774,Rogue Kitchen &amp; Wetbar,3.5,290,$$,American (Traditional)#Gastropubs,Downtown,"601 W Cordova Street#Vancouver, BC V6B 1G1#Canada",(604) 678-8000
+775,Cafe Xu Hue,4.0,54,$,Vietnamese#Noodles,Kensington-Cedar Cottage,"2226 Kingsway#Vancouver, BC V5N 2T7#Canada",(604) 454-9940
+776,Eat Chicken Wraps,4.5,44,$,Food Trucks#Asian Fusion,"Downtown, Granville Entertainment District","700 Robson Street#Vancouver, BC V6Z 1A1#Canada",(778) 319-4888
+777,Le Bread Pan - Temp. CLOSED,5.0,3,$,Cafes#Bakeries#Sandwiches,Granville Island/False Creek,"665A Market Hill#Vancouver, BC V5Z 4B5#Canada",(604) 675-9885
+778,Goldies Pizza &amp; Beer Lounge,3.5,180,$$,Pizza,Downtown,"605 W Pender Street#Vancouver, BC V6B 1W7#Canada",(604) 681-0650
+779,Dockers Family Restaurant,3.5,35,$,Burgers#Breakfast & Brunch#Mediterranean,Sunset,"6094 Fraser Street#Vancouver, BC V5W 2Z7#Canada",(604) 327-6713
+780,El Camino’s,3.5,152,$$,Latin American,Riley Park,"3250 Main Street#Vancouver, BC V5V 3M5#Canada",(604) 875-6246
+781,Gorilla Food,5.0,3,Null,Vegan#Live/Raw Food#Vegetarian,Downtown Eastside,"637 E Hastings Street#Vancouver, BC V6A 1R2#Canada",(604) 428-4440
+782,Penang Delight Cafe,3.5,80,$$,Malaysian,Renfrew-Collingwood,"3885 Rupert Street#Vancouver, BC V5R 2G7#Canada",(604) 330-0354
+783,L’Epicerie Rotisserie and Gourmet Shop,3.5,27,$$,Specialty Food#French,Granville Island/False Creek,"565-1689 Johnston Street#Vancouver, BC V6H 3R9#Canada",(604) 653-7317
+784,NingTu Restaurant,4.0,49,$$,Chinese,Kensington-Cedar Cottage,"2130 Kingsway#Vancouver, BC V5N 2T5#Canada",(604) 438-6669
+785,Main Kabob Hut,4.0,38,$$,Indian#Pakistani#Mediterranean,"Sunset, Punjabi Market","219 E 49th Avenue#Vancouver, BC V5W 2G4#Canada",(604) 322-8715
+786,Sejuiced Vegetarian Restaurant,4.0,68,$,Vegetarian#Juice Bars & Smoothies#Vegan,Kitsilano,"1958 W 4th Avenue#Vancouver, BC V6J 1M5#Canada",(604) 730-9906
+787,Pho Tan’s Vietnamese Restaurant,3.5,55,$,Vietnamese,"Kerrisdale, Shaughnessy","2076 W 41st Avenue#Vancouver, BC V6M 1Y8#Canada",(604) 606-0688
+788,Pizza Garden Smithe,4.0,93,$,Pizza,"Downtown, Granville Entertainment District","675 Smithe Street#Vancouver, BC V6B 2C9#Canada",(604) 669-6656
+789,Earls Kitchen + Bar,3.5,96,$$,Canadian (New)#Cocktail Bars,West End,"1185 Robson Street#Vancouver, BC V6E 1B5#Canada",(604) 669-0020
+790,Mahony &amp; Sons,3.0,95,$$,Irish#Irish Pub#Pubs,Granville Island/False Creek,"601 Stamps Landing#Vancouver, BC V5Z 3Z1#Canada",(604) 876-0234
+791,Hapa Izakaya - Yaletown,3.5,142,$$,Japanese#Sushi Bars,"Downtown, Yaletown","1193 Hamilton Street#Vancouver, BC V6B 5P6#Canada",(604) 681-4272
+792,Tableau Bar Bistro,3.5,152,$$,French#Wine Bars,Downtown,"1181 Melville Street#Vancouver, BC V6E 0A3#Canada",(604) 639-8692
+793,Sai Woo,3.0,48,$$,Asian Fusion,Chinatown,"158 E Pender Street#Vancouver, BC V6A 1T3#Canada",(604) 568-1117
+794,Merchant’s Oyster Bar,3.5,127,$$,Canadian (New)#Seafood,"Grandview-Woodlands, The Drive","1590 Commercial Drive#Vancouver, BC V5L 3Y2#Canada",(604) 258-0005
+795,Sushi Nanaimo,4.0,218,$$,Sushi Bars#Japanese#Seafood,"Hastings-Sunrise, Grandview-Woodlands","350 Nanaimo Street#Vancouver, BC V5L 4R7#Canada",(604) 876-9200
+796,Vana Vietnamese Cuisine,4.5,10,$,Vietnamese,Fairview Slopes,"555 12th Avenue W#Vancouver, BC V5Z 3X7#Canada",(604) 879-8986
+797,Sushi Gallery,4.0,46,$$,Sushi Bars#Japanese#Vegetarian,Point Grey,"3770 W 10 Avenue#Vancouver, BC V6R 2G7#Canada",(604) 221-7088
+798,Dollar Meat Store,4.5,7,$$,Meat Shops#Chinese#Barbeque,Chinatown,"266 Pender Street E#Vancouver, BC V6A 1T7#Canada",(604) 681-1052
+799,Tangent Cafe,3.5,89,$$,Breakfast & Brunch#Diners#Malaysian,"Grandview-Woodlands, The Drive","2095 Commercial Drive#Vancouver, BC V5N 4B1#Canada",(604) 558-4641
+800,Ba Le Sandwich Shop,3.5,52,$,Sandwiches#Vietnamese,"Chinatown, Strathcona","638 Main Street#Vancouver, BC V6A 2V4#Canada",(604) 662-8108
+801,Mazuya Sushi,3.5,27,$$,Japanese#Sushi Bars,"Kitsilano, Fairview Slopes","2355 Burrard Street#Vancouver, BC V6J 3J2#Canada",(604) 733-3838
+802,Cibo Trattoria,3.5,93,$$$,Italian,"Downtown, Granville Entertainment District","900 Seymour St#Vancouver, BC V6B 3L9#Canada",(604) 602-9570
+803,Tacomio,3.5,61,$,Mexican#Latin American,"Downtown, Downtown Eastside","435 Abbott Street#Vancouver, BC V6B 1R3#Canada",(778) 868-7041
+804,Nick’s Spaghetti House,3.0,46,$$,Italian,"Grandview-Woodlands, The Drive","631 Commercial Dr#Vancouver, BC V5L 3W3#Canada",(604) 254-5633
+805,Indochine Kitchen,3.5,82,$$,Asian Fusion,Mount Pleasant,"1 E Broadway#Vancouver, BC V5T 1V4#Canada",(604) 568-0828
+806,S2 Cafe House,4.0,7,$,Cafes,Downtown Eastside,"874 East Hastings Street#Vancouver, BC V6A#Canada",(604) 255-8488
+807,The Marquis,3.5,52,$$,Modern European#Bars,"Fairview Slopes, South Granville","2666 Granville Street#Vancouver, BC V6H 3H8#Canada",(604) 568-0670
+808,Green Lettuce Indian Style Chinese Restaurant,4.0,112,$$,Chinese#Indian,Kensington-Cedar Cottage,"1949 Kingsway#Vancouver, BC V5N 2T1#Canada",(604) 876-9883
+809,Pop Up Kitchen On Main,3.5,14,$$,Comfort Food,Riley Park,"3941 Main Street#Vancouver, BC V5V 3P2#Canada",(604) 620-8300
+810,Grant St. Social,5.0,Null,$$,Italian#Lounges,"Grandview-Woodlands, The Drive","1510 Commercial Drive#Vancouver, BC V5L 2Y7#Canada",(604) 251-7586
+811,Temaki Sushi,4.0,79,$$,Sushi Bars#Japanese,Kitsilano,"2156 W Broadway#Vancouver, BC V6K 2C8#Canada",(604) 738-4321
+812,Le Do Vietnamese Restaurant,4.0,49,$,Vietnamese,Grandview-Woodlands,"2292 Hastings Street E#Vancouver, BC V5L 1V4#Canada",(604) 253-3508
+813,Ramen Gojiro,3.5,140,$$,Ramen#Noodles,Downtown,"501 Dunsmuir Street#Vancouver, BC V6B 3K4#Canada",(604) 673-0918
+814,Belvedere Cafe,4.0,3,$$,Food Trucks#Burgers,Granville Island/False Creek,"1455 Quebec Street#Vancouver, BC V6A 3Z7#Canada",(778) 712-1250
+815,Maple Leaf Delicatessen,4.0,18,$,Delis,Downtown,"1233 Burrard Street#Vancouver, BC V6Z 1Z5#Canada",(604) 689-3411
+816,Cloud 9 Revolving Restaurant,3.0,111,$$$,Canadian (New)#Seafood,West End,"1400 Robson Street#Vancouver, BC V6G 1B9#Canada",(604) 687-0511
+817,Darcy’s Cafe,4.0,18,$$,Breakfast & Brunch#Coffee & Tea#Custom Cakes,Point Grey,"4462 W 10th Avenue#Vancouver, BC V6R 2H9#Canada",(604) 336-6399
+818,Nelly’s Grill On 4th,4.0,17,$$,Breakfast & Brunch#Burgers#Sandwiches,Kitsilano,"2061 W 4th Avenue#Vancouver, BC V6J 1N3#Canada",(604) 736-6588
+819,Najia Restaurant,3.0,7,$$$$,Asian Fusion#Chinese,Downtown,"1018 Beach Avenue#Vancouver, BC V6E 1T7#Canada",(778) 379-3787
+820,The French Table Bistro,4.0,72,$$$,French,Riley Park,"3916 Main Street#Vancouver, BC V5V 1Z4#Canada",(604) 689-3237
+821,The Rise Eatery,5.0,2,$$,Canadian (New),"Shaughnessy, Fairview Slopes, South Granville","3121 Granville Street#Vancouver, BC V6H 3K1#Canada",(604) 559-8280
+822,Dark Table,4.0,256,$$$,Canadian (New),Kitsilano,"2611 W 4th Avenue#Vancouver, BC V6K 1P8#Canada",(604) 739-3275
+823,Kranky Cafe,4.0,31,$,Coffee & Tea#Cafes,Mount Pleasant,"228 E 4th Avenue#Vancouver, BC V5T 1G5#Canada",(604) 568-4272
+824,Federico’s Supper Club,4.0,49,$$$,Italian,"Grandview-Woodlands, The Drive","1728 Commercial Drive#Vancouver, BC V5N 4A3#Canada",(604) 251-3473
+825,Buckstop,3.5,104,$$,Barbeque#Canadian (New),West End,"833 Denman Street#Vancouver, BC V6G 2L7#Canada",(604) 428-2528
+826,Menya Japanese Noodle,3.5,99,$,Ramen,Mount Pleasant,"401 W  Broadway#Vancouver, BC V5Y 1R4#Canada",(604) 873-3277
+827,Wick’s Café,4.0,41,$,Cafes,Marpole,"1300 W 73rd Avenue#Vancouver, BC V6P 3E7#Canada",(604) 677-6396
+828,Mahony &amp; Sons Burrard Landing,3.0,127,$$,Irish#Pubs#Burgers,"Coal Harbour, Downtown","1055 Canada Pl#Vancouver, BC V6C 0C3#Canada",(604) 647-7513
+829,Naruto Sushi,3.5,75,$,Japanese#Sushi Bars,Kensington-Cedar Cottage,"2763 Commercial Drive#Vancouver, BC V5N 5P4#Canada",(604) 558-3858
+830,Sylvia’s Restaurant and Lounge,3.0,56,$$,Canadian (New)#Lounges,West End,"1154 Gilford Street#Vancouver, BC V6G#Canada",(604) 681-9321
+831,The Capital,3.5,87,$,Pubs#Canadian (New),West End,"1178 Davie Street#Vancouver, BC V6E 1N1#Canada",(604) 620-2201
+832,Teppan Kitchen,3.5,7,Null,Japanese#Fast Food,West End,"1206 Davie Street#Vancouver, BC V6E 1N3#Canada",(604) 428-7799
+833,The Poke Shop,3.5,42,$$,Salad#Hawaiian,"Downtown, Gastown","306 Water Street#Vancouver, BC V6B 1B2#Canada",(778) 379-1567
+834,Frites Fries With Benefits,4.0,35,$,Belgian#Poutineries,"Downtown, Granville Entertainment District","1011 Granville Street#Vancouver, BC V6Z 1L4#Canada",(604) 559-0550
+835,Thai Basil,3.5,168,$,Thai,West End,"1215 Thurlow St#Vancouver, BC V6E 1X4#Canada",(604) 685-6754
+836,Tim Hortons,3.0,9,$,Coffee & Tea#Donuts#Breakfast & Brunch,Kitsilano,"3112 W Broadway#Vancouver, BC V6K 2H3#Canada",(604) 730-9700
+837,Stepho’s Souvlaki Greek Taverna,3.0,145,$$,Greek,West End,"1359 Robson Street#Vancouver, BC V6E 1C6#Canada",(604) 685-9977
+838,Nero Belgian Waffle Bar,4.0,48,$$,Waffles#Coffee & Tea,Downtown,"1002 Seymour Street#Vancouver, BC V6B 3M6#Canada",(604) 428-9177
+839,Flying Fish N Chipper,5.0,Null,Null,Food Trucks#Fish & Chips,"Mount Pleasant, Strathcona","400 Industrial Avenue#Vancouver, BC V6A 2P3#Canada",(778) 688-5494
+840,Katei Sushi,3.5,13,$,Japanese#Sushi Bars,Fraserview,"6929 Victoria Drive#Vancouver, BC V5P 3Y7#Canada",(604) 323-8882
+841,Pho Quyen Restaurant,3.5,30,$,Vietnamese,"Riley Park, Kensington-Cedar Cottage","3916 Fraser Street#Vancouver, BC V5V 4E4#Canada",(604) 873-3638
+842,Happy Day Cafe,3.0,35,$$,Chinese#Breakfast & Brunch#Cafes,Renfrew-Collingwood,"3312 Kingsway#Vancouver, BC V5R 5K7#Canada",(604) 307-6868
+843,Gojo Café,4.0,34,$$,Ethiopian,Kensington-Cedar Cottage,"2838 Commercial Drive#Vancouver, BC V5N 4C6#Canada",(604) 708-5394
+844,Japadog,4.0,100,$,Food Stands#Hot Dogs,Downtown,"510 Burrard Street#Vancouver, BC V6C#Canada",
+845,Steel Toad Brewpub &amp; Dining Hall,3.0,183,$$,Gastropubs#Breweries,Mount Pleasant,"97 E 2nd Avenue#Vancouver, BC V5T 1B3#Canada",(604) 709-8623
+846,Johnnie Fox’s Irish Snug,4.0,96,$$,Irish#Pubs,"Downtown, Granville Entertainment District","1033 Granville Street#Vancouver, BC V6Z 1L4#Canada",(604) 685-4946
+847,The Ramenman,4.0,72,$$,Ramen#Noodles,West End,"841 Bidwell Street#Vancouver, BC V6G 2J7#Canada",(604) 620-8806
+848,Nonna’s Table Cafe &amp; Pizzeria,3.0,13,$$,Italian#Pizza#Breakfast & Brunch,Grandview-Woodlands,"1489 E Hastings Street#Vancouver, BC V5L 1S4#Canada",(604) 253-7141
+849,Dharma Kitchen,4.0,58,$$,Vegan,Kitsilano,"3667 Broadway West#Vancouver, BC V6R 2B8#Canada",(604) 738-3899
+850,Bubble World,3.5,109,$,Taiwanese#Chinese,West End,"1325 Robson Street#Vancouver, BC V6E 1C6#Canada",(604) 689-8987
+851,Cora Breakfast and Lunch,3.5,42,$$,Breakfast & Brunch#Canadian (New),West End,"1368 Robson Street#Vancouver, BC V6E 1C5#Canada",(604) 688-2672
+852,Taco Luis,4.0,39,$,Mexican#Vegetarian#Fast Food,Oakridge,"F4-650 W 41st Avenue#Vancouver, BC V5Z 2M9#Canada",(778) 881-6825
+853,Roundel Cafe,3.5,121,$$,Breakfast & Brunch#Burgers#Cafes,Hastings-Sunrise,"2465 E Hastings Street#Vancouver, BC V5K 1Y8#Canada",(604) 253-2522
+854,Cactus Club Cafe,3.5,81,$$,Canadian (New)#Bars,Fairview Slopes,"575 Broadway W#Vancouver, BC V5Z 1E6#Canada",(604) 714-6000
+855,Sushi Mura,3.0,101,$$,Japanese#Sushi Bars,Oakridge,"6485 Oak Street#Vancouver, BC V6M 2W7#Canada",(604) 428-1145
+856,Kawa Sushi,4.0,57,$,Sushi Bars#Japanese,Kensington-Cedar Cottage,"5088 Victoria Drive#Vancouver, BC V5P 3T8#Canada",(604) 559-5998
+857,Pizza Carano,4.5,94,$$,Pizza#Italian,Riley Park,"4241 Fraser Street#Vancouver, BC V5V 4G1#Canada",(604) 877-1270
+858,Western Lake Chinese Seafood Restaurant,3.5,154,$$,Dim Sum#Seafood,Kensington-Cedar Cottage,"4989 Victoria Drive#Vancouver, BC V5P 3T7#Canada",(604) 321-6862
+859,Slickity Jim’s Chat &amp; Choux,3.5,15,$,Breakfast & Brunch,"Fairview Slopes, South Granville","1387 W 7th Avenue#Vancouver, BC V6H 1B8#Canada",(604) 732-5544
+860,Yaletown Brewing Company,3.0,342,$$,American (Traditional)#Pubs,"Downtown, Yaletown","1111 Mainland Street#Vancouver, BC V6B 2T9#Canada",(604) 681-2739
+861,Pho Tan’s Vietnamese Restaurant,3.5,55,$,Vietnamese,"Kerrisdale, Shaughnessy","2076 W 41st Avenue#Vancouver, BC V6M 1Y8#Canada",(604) 606-0688
+862,Green Lettuce Indian Style Chinese Restaurant,4.0,112,$$,Chinese#Indian,Kensington-Cedar Cottage,"1949 Kingsway#Vancouver, BC V5N 2T1#Canada",(604) 876-9883
+863,Johnnie Fox’s Irish Snug,4.0,96,$$,Irish#Pubs,"Downtown, Granville Entertainment District","1033 Granville Street#Vancouver, BC V6Z 1L4#Canada",(604) 685-4946
+864,Splash Bistro,3.5,4,$$,Asian Fusion,Downtown,"750 Pacific Boulevard Suite 311#Vancouver, BC V6Z 2R8#Canada",(604) 687-3343
+865,Cora Breakfast and Lunch,3.5,42,$$,Breakfast & Brunch#Canadian (New),West End,"1368 Robson Street#Vancouver, BC V6E 1C5#Canada",(604) 688-2672
+866,The Poke Shop,3.5,42,$$,Salad#Hawaiian,"Downtown, Gastown","306 Water Street#Vancouver, BC V6B 1B2#Canada",(778) 379-1567
+867,Bubble World,3.5,109,$,Taiwanese#Chinese,West End,"1325 Robson Street#Vancouver, BC V6E 1C6#Canada",(604) 689-8987
+868,The Capital,3.5,87,$,Pubs#Canadian (New),West End,"1178 Davie Street#Vancouver, BC V6E 1N1#Canada",(604) 620-2201
+869,Falafully Good,4.0,29,$,Mediterranean,"Shaughnessy, Fairview Slopes","3170 Oak St#Vancouver, BC V6H 2L1#Canada",(604) 731-3553
+870,Curry Fusion,4.0,26,$$,Indian,Downtown,"542 Robson Street#Vancouver, BC V6B 2B7#Canada",(604) 428-3600
+871,Fets Whisky Kitchen,3.5,95,$$,Breakfast & Brunch#Burgers#Whiskey Bars,"Grandview-Woodlands, The Drive","1230 Commercial Drive#Vancouver, BC V5L 3X4#Canada",(604) 255-7771
+872,Black &amp; Blue,3.5,407,$$$,Steakhouses#Desserts#Cocktail Bars,"West End, Downtown","1032 Alberni Street#Vancouver, BC V6E 1A3#Canada",(604) 637-0777
+873,Las Tortas,3.5,75,$$,Mexican#Sandwiches#Delicatessen,"South Cambie, Riley Park","3353 Cambie Street#Vancouver, BC V5Z 2W6#Canada",(604) 569-1402
+874,Shoom Restaurant,3.5,38,$$,Chinese,Sunset,"6555 Fraser Street#Vancouver, BC V5X 3T4#Canada",(604) 568-7797
+875,Matchstick Coffee Roasters,4.0,175,$,Cafes,Mount Pleasant,"639 E 15th Avenue#Vancouver, BC V5T 2R6#Canada",(604) 558-0639
+876,Aki Japanese Restaurant,3.5,102,$$,Japanese#Sushi Bars,"Coal Harbour, Downtown","1368 W Pender Street#Vancouver, BC V6E 4S9#Canada",(604) 682-4032
+877,Pink Pearl Chinese Restaurant,3.0,70,$$,Seafood#Dim Sum,Strathcona,"1132 E Hastings Street#Vancouver, BC V6A 1S2#Canada",(604) 253-4316
+878,Railtown Cafe,4.0,64,$$,Cafes,Downtown Eastside,"397 Railway Street#Vancouver, BC V6A 1A4#Canada",(604) 428-0800
+879,Sun Bo Kong Vegetarian Restaurant,4.5,23,$$,Vegan#Vegetarian#Chinese,Kensington-Cedar Cottage,"1363 Kingsway#Vancouver, BC V5V 3E3#Canada",(604) 255-8927
+880,Yaletown Brewing Company,3.0,342,$$,American (Traditional)#Pubs,"Downtown, Yaletown","1111 Mainland Street#Vancouver, BC V6B 2T9#Canada",(604) 681-2739
+881,El Caracol Café,4.0,42,$,Mexican#Salvadoran,Kensington-Cedar Cottage,"5190 Victoria Dr#Vancouver, BC V5P 3V2#Canada",(604) 325-3461
+882,Evelyn’s Coffee Shop,4.5,19,$,Diners#Breakfast & Brunch,Kitsilano,"2176 W Broadway#Vancouver, BC V6K 2C8#Canada",(604) 731-7117
+883,Birds Nest Dining,5.0,2,Null,Breakfast & Brunch#Canadian (New),"Fairview Slopes, South Granville","1507 W 12th Avenue#Vancouver, BC V6H 3J1#Canada",
+884,Coast Restaurant,3.5,400,$$$,Seafood,"West End, Downtown","1054 Alberni Street#Vancouver, BC V6E 1A3#Canada",(604) 685-5010
+885,Myungdong Snack House,4.0,5,$$,Korean,Killarney,"3490 Kingsway#Vancouver, BC V5R 5L6#Canada",(604) 451-5177
+886,Francescos Ristorante Italia,3.5,92,$$$$,Italian#Seafood,Downtown,"860 Burrard Street#Vancouver, BC V6Z 1X9#Canada",(604) 685-7770
+887,Pink Elephant Thai,3.0,35,$$,Thai,Marpole,"434 SW Marine Drive#Vancouver, BC V5X 0C4#Canada",(604) 428-8800
+888,Sandwich Plus,4.5,32,$,Sandwiches,Downtown,"530 Hornby Street#Vancouver, BC V6C 2E7#Canada",(604) 682-7565
+889,Japanese Bistro Kamome,4.0,9,$$,Japanese#Desserts#Cafes,Renfrew-Collingwood,"5228 Joyce Street#Vancouver, BC V5R 6C9#Canada",(604) 428-5228
+890,Fish Café,3.5,42,$$,Seafood#Fish & Chips#Canadian (New),"Kerrisdale, Shaughnessy","2053 41st Avenue W#Vancouver, BC V6M 1Y7#Canada",(604) 267-3474
+891,Yanaki Sushi,4.0,42,$$,Japanese#Sushi Bars,Fairview Slopes,"816 6th Avenue W#Vancouver, BC V5Z 1A6#Canada",(604) 708-5006
+892,Eat Sushi,4.0,14,$$,Japanese#Sushi Bars,Hastings-Sunrise,"2800 E 1st Avenue#Vancouver, BC V5M#Canada",(604) 620-0200
+893,Sprouts,4.5,11,$,Vegetarian#Cafes,UBC,"6138 Student Union Boulevard#Vancouver, BC V6T 1Z7#Canada",(604) 822-9124
+894,Shima-Ya Sushi,4.0,54,$$,Japanese#Sushi Bars,Kensington-Cedar Cottage,"5589 Victoria Drive#Vancouver, BC V5P 3W2#Canada",(604) 322-4649
+895,Hiyori Sushi,4.0,50,$$,Sushi Bars#Japanese,Downtown,"1348 Hornby Street#Vancouver, BC V6Z#Canada",(604) 685-8381
+896,The Whip Restaurant Gallery,3.5,187,$$,Bars#American (Traditional),Mount Pleasant,"209 6th Avenue E#Vancouver, BC V5T 1J7#Canada",(604) 874-4687
+897,Jun Sushi Japanese Restaurant,4.0,39,$,Japanese#Sushi Bars,Kitsilano,"3309 Broadway W#Vancouver, BC V6R 2B1#Canada",(604) 739-7181
+898,Campagnolo Roma,3.5,124,$$,Italian#Pizza#Wine Bars,Grandview-Woodlands,"2297 Hastings Street E#Vancouver, BC V5L 1V2#Canada",(604) 569-0456
+899,Hamburger Mary’s Diner,3.0,132,$$,Diners#Bars#Burgers,West End,"1202 Davie Street#Vancouver, BC V6E 1N3#Canada",(604) 687-1293
+900,Stong’s Markets,4.0,37,$$,Delis#Grocery,Dunbar-Southlands,"4221 Dunbar Street#Vancouver, BC V6S 2G6#Canada",(604) 266-1401
+901,Crepe &amp; Cafe,4.0,27,$$,French#Creperies,Dunbar-Southlands,"3500 W 41st Avenue#Vancouver, BC V6E 3N6#Canada",(604) 566-9787
+902,Jethro’s Fine Grub,3.5,240,$$,Breakfast & Brunch,Dunbar-Southlands,"3420 Dunbar St#Vancouver, BC V6S#Canada",(604) 569-3441
+903,Miko Sushi Japanese Restaurant,3.5,81,$$,Japanese#Sushi Bars,West End,"1335 Robson Street#Vancouver, BC V6E 1C6#Canada",(604) 681-0339
+904,Earls Kitchen + Bar,3.5,125,$$,Canadian (New)#Cocktail Bars,"Downtown, Yaletown","1095 Mainland Street#Vancouver, BC V6B 5P9#Canada",(604) 688-4990
+905,Babylon Café,4.0,23,$,Middle Eastern,"Downtown, Granville Entertainment District","770 Nelson Street#Vancouver, BC V6Z 2H2#Canada",(604) 568-7379
+906,Bao Down on the Drive,3.0,3,Null,Asian Fusion#Cocktail Bars#Tapas/Small Plates,"Grandview-Woodlands, The Drive","1408 commercial Dr#Vancouver, BC V5L 3X9#Canada",(604) 559-6141
+907,Ashiana Tandoori Restaurant,4.0,15,$$,Indian#Buffets,Kensington-Cedar Cottage,"1440 Kingsway/Knight Street#Vancouver, BC V5N 2R5#Canada",(604) 874-5060
+908,Aqaurium Cafe,5.0,Null,$,Cafes,Coal Harbour,"845 Avison Way#Vancouver, BC V6G 3E2#Canada",
+909,Circus Play Cafe,4.0,28,$$,Cafes#Playgrounds,Kensington-Cedar Cottage,"1650 E 12th Avenue#Vancouver, BC V5N 2A3#Canada",(604) 558-2545
+910,New Sam PO Meat &amp; BBQ,4.0,18,$,Meat Shops#Chinese#Barbeque,Kensington-Cedar Cottage,"1382 Kingsway#Vancouver, BC V5V 3E4#Canada",(604) 879-1068
+911,Las Margaritas Restaurant,3.0,263,$$,Mexican,Kitsilano,"1999 4th Avenue W#Vancouver, BC V6J 1M7#Canada",(604) 734-7117
+912,Mom’s Grilled Cheese Truck,4.0,176,$,Sandwiches#Food Trucks,Downtown,"800 W Georgia Street#Vancouver, BC V5N 3P3#Canada",(604) 767-9768
+913,Per Se Social Corner,3.0,74,$$,Pizza#Cafes#Italian,"Downtown, Yaletown","891 Homer Street#Vancouver, BC V6B 5S3#Canada",(604) 428-6111
+914,Kitaya,3.5,29,$,Japanese#Sushi Bars,West End,"1088 Denman Street#Vancouver, BC V6G 2M8#Canada",(604) 683-0218
+915,Baan Wasana Thai Restaurant,3.5,53,$$,Thai,"Kerrisdale, Arbutus Ridge","2143 41st Avenue W#Vancouver, BC V6M 1Z6#Canada",(778) 371-8971
+916,Jackson’s Meat Deli,4.5,47,$$,Meat Shops#Delis,Kitsilano,"2214 W 4th Ave#Vancouver, BC V6K 1N8#Canada",(604) 738-6328
+917,Sugar Catering,4.0,7,$,Diners#Caterers,Marpole,"8260 Manitoba Street#Vancouver, BC V5X#Canada",(604) 325-9411
+918,Tung Hing Bakery,4.0,94,$,Bakeries#Vietnamese#Sandwiches,Kensington-Cedar Cottage,"1198 Kingsway#Vancouver, BC V5V 3C8#Canada",(604) 875-3394
+919,Splash Bistro,3.5,4,$$,Asian Fusion,Downtown,"750 Pacific Boulevard Suite 311#Vancouver, BC V6Z 2R8#Canada",(604) 687-3343
+920,Jambo Grill,3.5,100,$$,African#Indian,Renfrew-Collingwood,"3219 Kingsway#Vancouver, BC V5R 5K3#Canada",(604) 433-5060
+921,Cactus Club Cafe,3.5,81,$$,Canadian (New)#Bars,Fairview Slopes,"575 Broadway W#Vancouver, BC V5Z 1E6#Canada",(604) 714-6000
+922,Pizza Garden Smithe,4.0,93,$,Pizza,"Downtown, Granville Entertainment District","675 Smithe Street#Vancouver, BC V6B 2C9#Canada",(604) 669-6656
+923,Benkei Noodle Shop,3.0,120,$,Ramen#Noodles,Fairview Slopes,"545 W Broadway#Vancouver, BC V5Z 1E6#Canada",(604) 568-6178
+924,Street Meet Food Truck,4.5,19,$,Street Vendors#Mediterranean#Food Stands,"Coal Harbour, Downtown","Burrard &amp; West Pender#Vancouver, BC V6C#Canada",
+925,Evelyn’s Coffee Shop,4.5,19,$,Diners#Breakfast & Brunch,Kitsilano,"2176 W Broadway#Vancouver, BC V6K 2C8#Canada",(604) 731-7117
+926,Cafe FortyOne,4.0,Null,$$,Cafes,Oakridge,"5750 Oak Street#Vancouver, BC V6M 2V9#Canada",(604) 563-4141
+927,Ramen Koika,3.5,117,$$,Ramen#Noodles,West End,"1231 Davie St#Vancouver, BC V6E 1N4#Canada",(604) 336-2779
+928,Pho Don,3.5,60,$,Vietnamese,Hastings-Sunrise,"109-2838 E Hastings Street#Vancouver, BC V5K 5C5#Canada",(604) 255-7778
+929,The Ouisi Bistro,3.5,105,$$,Cajun/Creole#Breakfast & Brunch,"Fairview Slopes, South Granville","3014 Granville St#Vancouver, BC V6H 3J8#Canada",(604) 732-7550
+930,Banana Leaf,3.5,116,$$,Malaysian#Singaporean,Kitsilano,"3005 W Broadway#Vancouver, BC V6K 2G9#Canada",(604) 734-3005
+931,Kingston Taphouse &amp; Grille,3.5,86,$$,Gastropubs#Burgers,Downtown,"755 Richards Street#Vancouver, BC V6B 3A6#Canada",(604) 681-7011
+932,Tractor,3.5,115,$$,Sandwiches#Salad#Soup,Kitsilano,"1903 W 4th Avenue#Vancouver, BC V6J 1M7#Canada",(604) 222-2557
+933,The Captain’s Boil,2.5,42,$$,Cajun/Creole#Seafood#Asian Fusion,"Killarney, Renfrew-Collingwood","3309 Kingsway#Vancouver, BC V5R 5K6#Canada",(604) 565-3999
+934,Shabusen Yakiniku House,3.0,279,$$,Japanese#Korean#Sushi Bars,Downtown,"755 Burrard Street#Vancouver, BC V6Z 1X6#Canada",(604) 669-3883
+935,Koko Japanese Restaurant,3.5,35,$$,Japanese#Sushi Bars,Grandview-Woodlands,"2053 Hastings Street E#Vancouver, BC V5L 1T9#Canada",(604) 251-1328
+936,Ebisu On Robson,3.5,173,$$,Japanese#Sushi Bars,West End,"827 Bute Street#Vancouver, BC V6E 3Y4#Canada",(604) 689-8266
+937,La Churreria Cafe,2.5,11,$,Mexican#Desserts#Ice Cream & Frozen Yogurt,West End,"1105 Davie St#Vancouver, BC V6E 1N2#Canada",(778) 379-5211
+938,Hongdae Pocha Cafe,3.5,10,$$,Korean,West End,"1642 Robson Street#Vancouver, BC V6G 1C7#Canada",(604) 681-8252
+939,Top of Vancouver Revolving Restaurant,3.0,205,$$$,American (Traditional),Downtown,"555 W Hastings St#Vancouver, BC V6B 1M1#Canada",(604) 669-2220
+940,The Sweet Greek,5.0,4,Null,Greek,"Grandview-Woodlands, The Drive","2277 Commercial Drive#Vancouver, BC V5N 4B6#Canada",(604) 254-0058
+941,Deutsches Haus,3.0,35,$$,German,Kensington-Cedar Cottage,"4875 Victoria Drive#Vancouver, BC V5N 4P3#Canada",(604) 874-3811
+942,Neverland Tea Salon,4.0,108,$$,Coffee & Tea#Tea Rooms#Breakfast & Brunch,Kitsilano,"3066 W Broadway#Vancouver, BC V6K 2H1#Canada",(604) 428-3066
+943,Martini’s,3.5,119,$$,Pizza#Italian#Greek,Mount Pleasant,"151 W Broadway St#Vancouver, BC V5Y#Canada",(604) 873-0021
+944,X-site Grill &amp; Bistro,3.5,30,$,Canadian (New),Grandview-Woodlands,"2270 E Hastings Street#Vancouver, BC V5L#Canada",(604) 569-2220
+945,Kita No Donburi,3.0,83,$$,Japanese,Downtown,"423 Seymour Street#Vancouver, BC V6B 4N6#Canada",(604) 669-3388
+946,Pacifico Pizzeria &amp; Restaurant,3.5,161,$$,Pizza#Italian,Downtown,"970 Smithe Street#Vancouver, BC V6Z 0A4#Canada",(604) 408-0808
+947,TAPshack - Burrard Bridge,3.0,23,$$,Canadian (New)#Bars,Downtown,"1-1012 Beach Avenue#Vancouver, BC V6E 4M2#Canada",(604) 676-2337
+948,Ro Sushi,3.5,40,$,Sushi Bars,Fairview Slopes,"678 W Broadway#Vancouver, BC V5Z 1G1#Canada",(604) 876-9899
+949,Q Shi Q Japanese BBQ,3.5,32,$$,Japanese#Barbeque#Tapas Bars,Mount Pleasant,"159 W 4th Avenue#Vancouver, BC V5Y 1G4#Canada",(604) 428-7744
+950,Joe’s Grill,4.0,129,$$,Breakfast & Brunch,West End,"1031 Davie Street#Vancouver, BC V6E 1M5#Canada",(604) 682-3683
+951,Benkei Noodle Shop,3.0,120,$,Ramen#Noodles,Fairview Slopes,"545 W Broadway#Vancouver, BC V5Z 1E6#Canada",(604) 568-6178
+952,Kam Wai Dim Sum,3.5,32,$,Dim Sum,"Chinatown, Downtown Eastside","249 E Pender Street#Vancouver, BC V6A 1T7#Canada",(604) 683-2333
+953,Stock Up Cafe,3.5,22,$$,Sandwiches#Coffee & Tea#Breakfast & Brunch,Kerrisdale,"6019 W Boulevard#Vancouver, BC V6M 3X2#Canada",(778) 653-4172
+954,L’ufficio,4.5,3,$$$$,Wine Bars#Italian#Tapas/Small Plates,"Point Grey, Kitsilano","3687 W 4th Avenue#Vancouver, BC V6R 1P2#Canada",(604) 676-1007
+955,Green Leaf Salad Bar,4.0,50,$,Mediterranean,Downtown,"560 Bute St#Vancouver, BC V6E 3M1#Canada",(604) 677-5650
+956,Minato Sushi Restaurant,3.0,10,$$,Japanese#Sushi Bars,Fairview Slopes,"1001 W Broadway#Vancouver, BC V5T 1Y5#Canada",(604) 732-6554
+957,Freshii,4.0,9,$,Fast Food,Kitsilano,"1927 4th Avenue W#Vancouver, BC V6J 1M7#Canada",
+958,On May Chinese Restaurant,4.0,6,$$,Chinese,Fraserview,"6443 Victoria Dr#Vancouver, BC V5P 3X5#Canada",(604) 321-0811
+959,Falafel King Restaurant,3.5,38,$,Falafel,West End,"1110 Denman St#Vancouver, BC V6G 2M8#Canada",(604) 669-7278
+960,Tandem Bike Cafe,4.5,47,$,Cafes#Bikes#Bike Repair/Maintenance,"Fairview Slopes, South Cambie","3195 Heather Street#Vancouver, BC V5Z 3K3#Canada",(604) 376-8223
+961,Sylvia’s Restaurant and Lounge,3.0,56,$$,Canadian (New)#Lounges,West End,"1154 Gilford Street#Vancouver, BC V6G#Canada",(604) 681-9321
+962,Tai One By Bubble World,4.0,29,$$,Asian Fusion#Taiwanese,Kitsilano,"1947 W 4th Avenue#Vancouver, BC V6J 1M7#Canada",(604) 558-1237
+963,Thai Town Restaurant,4.0,24,$$,Thai,Downtown,"88 W Pender Street#Vancouver, BC V6B 6N9#Canada",(604) 428-4588
+964,Main Kabob Hut,4.0,38,$$,Indian#Pakistani#Mediterranean,"Sunset, Punjabi Market","219 E 49th Avenue#Vancouver, BC V5W 2G4#Canada",(604) 322-8715
+965,Oriole Cafe,4.0,4,Null,Cafes#Sandwiches#Asian Fusion,Marpole,"1200 73rd Avenue W#Vancouver, BC V6P 6G5#Canada",(604) 263-2691
+966,Las Tortas,3.5,75,$$,Mexican#Sandwiches#Delicatessen,"South Cambie, Riley Park","3353 Cambie Street#Vancouver, BC V5Z 2W6#Canada",(604) 569-1402
+967,Wild Salmon Restaurant,5.0,Null,$$,Seafood#Italian,Downtown,"250 W Pender Street#Vancouver, BC V6B 1S9#Canada",(604) 443-8479
+968,Friend’s Cafe,5.0,4,$,Delis,Marpole,"1750 75th Avenue W#Vancouver, BC V6P 6G2#Canada",(604) 264-4419
+969,The Elbow Room Café,3.5,221,$$,Breakfast & Brunch,Downtown,"560 Davie Street#Vancouver, BC V6B 2G4#Canada",(604) 685-3628
+970,The Whip Restaurant Gallery,3.5,187,$$,Bars#American (Traditional),Mount Pleasant,"209 6th Avenue E#Vancouver, BC V5T 1J7#Canada",(604) 874-4687
+971,Gotham Steakhouse &amp; Bar,4.0,245,$$$$,Steakhouses#Cocktail Bars#Seafood,Downtown,"615 Seymour Street#Vancouver, BC V6B 3K3#Canada",(604) 605-8282
+972,Kam Wai Dim Sum,3.5,32,$,Dim Sum,"Chinatown, Downtown Eastside","249 E Pender Street#Vancouver, BC V6A 1T7#Canada",(604) 683-2333
+973,Kim Phung Vietnamese Restaurant,4.0,31,$$,Vietnamese,Fraserview,"5764 Victoria Drive#Vancouver, BC V5P 3W7#Canada",(604) 327-4490
+974,Babylon Café,3.5,29,$,Middle Eastern,"Grandview-Woodlands, The Drive","1605 Commercial Drive#Vancouver, BC V5L 3Y2#Canada",(604) 563-8487
+975,Fish Café,3.5,42,$$,Seafood#Fish & Chips#Canadian (New),"Kerrisdale, Shaughnessy","2053 41st Avenue W#Vancouver, BC V6M 1Y7#Canada",(604) 267-3474
+976,The Boathouse Restaurant,3.0,157,$$$,Seafood,West End,"1795 Beach Ave.#Vancouver, BC V6G 1Y9#Canada",(604) 669-2225
+977,Nava Creative Kosher Cuisine,4.5,3,$,Kosher#Vegetarian#Caterers,Oakridge,"950 41st Avenue W#Vancouver, BC V5Z 2N7#Canada",(604) 676-7632
+978,Pinpin Restaurant,3.5,74,$$,Filipino#Chinese#Soup,Sunset,"6113 Fraser Street#Vancouver, BC V5W 2Z9#Canada",(604) 322-3086
+979,Siga Siga,3.5,28,$,Filipino,Mount Pleasant,"650 E Broadway#Vancouver, BC V5T 1X6#Canada",(604) 876-0241
+980,Roaming Dragon,4.0,70,$,Asian Fusion#Food Trucks,Downtown,"Burrard &amp; Robson#Vancouver, BC V6Z#Canada",(604) 639-3335
+981,Indigo Age Cafe,4.5,76,$$,Live/Raw Food#Vegan#Juice Bars & Smoothies,Downtown,"436 Richards Street#Vancouver, BC V6B 2Z3#Canada",(604) 622-1797
+982,Babylon Café,3.5,29,$,Middle Eastern,"Grandview-Woodlands, The Drive","1605 Commercial Drive#Vancouver, BC V5L 3Y2#Canada",(604) 563-8487
+983,Belachan,3.5,34,$$,Malaysian#Thai,West End,"1128 Robson Street#Vancouver, BC V6E 1B2#Canada",(604) 681-6002
+984,Thai Away Home,3.5,61,$$,Thai,"South Cambie, Riley Park","3315 Cambie Street#Vancouver, BC V5Z 2W6#Canada",(604) 873-8424
+985,La Bohème,4.0,21,$,Food Stands#Creperies,Strathcona,"1755 Cottrell Street#Vancouver, BC V6A 2L8#Canada",
+986,Einstein Wrap House,4.0,46,$,Middle Eastern#Mediterranean,Downtown,"516 Abbott Street#Vancouver, BC V6B 6C1#Canada",(604) 558-2733
+987,Ginger Sushi,4.0,39,$$,Sushi Bars#Japanese,"Grandview-Woodlands, The Drive","1437 Commercial Drive#Vancouver, BC V5L 3X8#Canada",(604) 255-5220
+988,Street Meet Food Truck,4.5,19,$,Street Vendors#Mediterranean#Food Stands,"Coal Harbour, Downtown","Burrard &amp; West Pender#Vancouver, BC V6C#Canada",
+989,Thai Son Restaurant,3.5,88,$,Vietnamese#Noodles,Mount Pleasant,"373 E Broadway#Vancouver, BC V5T 1W6#Canada",(604) 875-6436
+990,Neverland Tea Salon,4.0,108,$$,Coffee & Tea#Tea Rooms#Breakfast & Brunch,Kitsilano,"3066 W Broadway#Vancouver, BC V6K 2H1#Canada",(604) 428-3066
+991,Tung Hing Bakery,4.0,94,$,Bakeries#Vietnamese#Sandwiches,Kensington-Cedar Cottage,"1198 Kingsway#Vancouver, BC V5V 3C8#Canada",(604) 875-3394
+992,Quizine Kitchen,5.0,2,Null,American (Traditional),Mount Pleasant,"1155 East Broadway#Vancouver, BC V5T 4V5#Canada",(604) 871-7000
+993,Secret Garden Tea,3.5,22,$$,Tea Rooms#Breakfast & Brunch,"Kerrisdale, Arbutus Ridge","2138 W 40th Avenue#Vancouver, BC V6M 3W7#Canada",(604) 261-3070
+994,Good Choice Restaurant,3.5,33,$$,Seafood#Dim Sum,Sunset,"6007 Fraser Street#Vancouver, BC V5W 2Z8#Canada",(604) 325-9788
+995,Fets Whisky Kitchen,3.5,95,$$,Breakfast & Brunch#Burgers#Whiskey Bars,"Grandview-Woodlands, The Drive","1230 Commercial Drive#Vancouver, BC V5L 3X4#Canada",(604) 255-7771
+996,Lam Hoa Quan Restaurant,4.0,41,$,Vietnamese,Kensington-Cedar Cottage,"5073 Victoria Drive#Vancouver, BC V5P 3T9#Canada",(604) 326-5880
+997,Nero Belgian Waffle Bar,4.0,48,$$,Waffles#Coffee & Tea,Downtown,"1002 Seymour Street#Vancouver, BC V6B 3M6#Canada",(604) 428-9177
+998,JOEY Broadway,3.0,109,$$,Canadian (New),"Fairview Slopes, South Granville","1424 W Broadway#Vancouver, BC V6H 1H4#Canada",(604) 732-5639
+999,BierCraft Wesbrook,3.0,17,$$,Lounges#Tapas Bars,UBC,"3340 Shrum Lane#Vancouver, BC V6T 1W5#Canada",(604) 559-2437
